@@ -1,0 +1,11 @@
+numpy==2.4.3
+pandas==3.0.3
+scipy==1.18.0
+cvxpy==1.9.3
+scs==3.3.1
+duckdb==1.5.4
+networkx==3.7
+pandera==0.34.1
+SALib==1.6.0
+statsmodels==0.15.0
+matplotlib==3.11.2

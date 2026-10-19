@@ -1,0 +1,9 @@
+﻿id,section,metric,value,unit,period,geography,scope,source_ids,locator,transformation,verification
+C05-D111,5.6,海缆维护服务的公开合同模式,ACMA、NAZ、SEAIOCMA维护区，或私人维护协议,模式/维护区,2026-10-15所读网页,Global Marine服务范围,不将这些维护区自动对应SJC2/SEA-H2X/ADC/ALC/AAE-1/NCP,C05-S044,Maintenance段,原值,企业自述
+C05-D112,5.6,香港海缆紧急维修非本地船员签证程序,一般专业人士签证完整资料后约4周；符合紧急维修条件且OFCA支持时可在7个工作日内处理,程序时间,OFCA I0011(25) Issue04，2025-10,香港水域,以材料完整、适用专业资格及OFCA支持为条件；不是必然获批或全线修复时间,C05-S052,PDF第7—8页Annex 2第3—5段,原值,原文核实
+C05-D113,5.6,香港维修许可等待的可减少因素,OFCA鼓励紧急维修使用本地代理/承包商和本地船；本地船员一般无需就业签证；本地船无需TOL,流程因素,2025-10指南,香港水域,外部审批仍由承运人申请；不能推算所有海域通用等待时间,C05-S052,PDF第2页第4段、第5页注2/4,原值,原文核实
+C05-D114,5.6,2025 AAE-1故障期间巴基斯坦聚合时延,约80→约125,ms，中位数,2025-01-02至03,巴基斯坦用户至Cloudflare测量端点,Cloudflare Radar/Speed Test全国聚合；非单海缆或昆明—客户路由；源目的IP、样本数和协议细节未披露,C05-S045,Pakistan段及latency图说明,原值,平台公开历史测量
+C05-D115,5.6,2025 AAE-1故障期间巴基斯坦聚合下载速率,约9→约6,Mbps，中位数,2025-01-02至03,巴基斯坦用户至Cloudflare测量端点,Cloudflare公开历史测量；网页media措辞按上下文视为median，不衍生p95或端到端SLA,C05-S045,Pakistan段bandwidth说明,原值,平台公开历史测量
+C05-D116,5.6,2025 AAE-1故障的可用性与质量区别,Cloudflare未观察到全国级断网，同时观测到时延上升和下载速率下降,历史观测,2025-01故障,巴基斯坦,不表示每个网络/用户均不中断，也不提供完整维修恢复时间线或保护切换耗时,C05-S045,Pakistan段,原值,平台公开历史测量
+C05-D083,5.6,SGIX月可用性与赔偿边界,99.9% monthly Service Level Target；不提供service credits或金钱赔偿,SLT及赔偿,Rev 1.2,SGIX Peering Service,目标而非带赔偿的端到端SLA；不覆盖成员内部网络,C05-S038,第1.1条,原值,原文核实
+C05-D084,5.6,SGIX恢复及交付边界,努力在工单创建或通知故障起4小时内恢复端口；RFS日期可随机房cross-connect交付改变,服务流程,Rev 1.2,SGIX,4小时不是保证恢复上限；端口与各PoP互联由SGIX负责，机房交叉连接由数据中心提供和管理,C05-S038,第2.2—2.4、3.2、4.3条,原值,原文核实

@@ -1,0 +1,11 @@
+﻿approach,metric,value,unit,period,functional_unit,source_id,locator,scope
+Existing,Energy,0.1,Wh/prompt,2025-05,median Gemini Apps text prompt,C11-S018,"Table 2, PDF p7",表中总数经舍入；窄边界邻接正文与表数不同，此处明确取Table2；市场法排放
+Existing,Emissions total,0.02,gCO2e/prompt,2025-05,median Gemini Apps text prompt,C11-S018,"Table 2, PDF p7",表中总数经舍入；窄边界邻接正文与表数不同，此处明确取Table2；市场法排放
+Existing,Scope2 MB,0.016,gCO2e/prompt,2025-05,median Gemini Apps text prompt,C11-S018,"Table 2, PDF p7",表中总数经舍入；窄边界邻接正文与表数不同，此处明确取Table2；市场法排放
+Existing,Scope1+3,0.007,gCO2e/prompt,2025-05,median Gemini Apps text prompt,C11-S018,"Table 2, PDF p7",表中总数经舍入；窄边界邻接正文与表数不同，此处明确取Table2；市场法排放
+Existing,Water,0.12,mL/prompt,2025-05,median Gemini Apps text prompt,C11-S018,"Table 2, PDF p7",表中总数经舍入；窄边界邻接正文与表数不同，此处明确取Table2；市场法排放
+Comprehensive,Energy,0.24,Wh/prompt,2025-05,median Gemini Apps text prompt,C11-S018,"Table 2, PDF p7",表中总数经舍入；窄边界邻接正文与表数不同，此处明确取Table2；市场法排放
+Comprehensive,Emissions total,0.03,gCO2e/prompt,2025-05,median Gemini Apps text prompt,C11-S018,"Table 2, PDF p7",表中总数经舍入；窄边界邻接正文与表数不同，此处明确取Table2；市场法排放
+Comprehensive,Scope2 MB,0.023,gCO2e/prompt,2025-05,median Gemini Apps text prompt,C11-S018,"Table 2, PDF p7",表中总数经舍入；窄边界邻接正文与表数不同，此处明确取Table2；市场法排放
+Comprehensive,Scope1+3,0.01,gCO2e/prompt,2025-05,median Gemini Apps text prompt,C11-S018,"Table 2, PDF p7",表中总数经舍入；窄边界邻接正文与表数不同，此处明确取Table2；市场法排放
+Comprehensive,Water,0.26,mL/prompt,2025-05,median Gemini Apps text prompt,C11-S018,"Table 2, PDF p7",表中总数经舍入；窄边界邻接正文与表数不同，此处明确取Table2；市场法排放

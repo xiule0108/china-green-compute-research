@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="645.815965pt" height="276.111562pt" viewBox="0 0 645.815965 276.111562" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-17T00:56:05.207944</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 276.111562 
+L 645.815965 276.111562 
+L 645.815965 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 137.3365 234.72 
+L 628.3765 234.72 
+L 628.3765 12.96 
+L 137.3365 12.96 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 202.395427 234.72 
+L 202.395427 12.96 
+" clip-path="url(#pccab4722c9)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m1ec46cc6ed" d="M 0 0 
+L 0 2.8 
+" style="stroke: #1e293b; stroke-width: 0.7"/>
+      </defs>
+      <g>
+       <use xlink:href="#m1ec46cc6ed" x="202.395427" y="234.72" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="202.395427" y="247.792" transform="rotate(-0 202.395427 247.792)">-50</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 279.846532 234.72 
+L 279.846532 12.96 
+" clip-path="url(#pccab4722c9)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m1ec46cc6ed" x="279.846532" y="234.72" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="279.846532" y="247.792" transform="rotate(-0 279.846532 247.792)">0</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 357.297636 234.72 
+L 357.297636 12.96 
+" clip-path="url(#pccab4722c9)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m1ec46cc6ed" x="357.297636" y="234.72" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="357.297636" y="247.792" transform="rotate(-0 357.297636 247.792)">50</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 434.74874 234.72 
+L 434.74874 12.96 
+" clip-path="url(#pccab4722c9)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m1ec46cc6ed" x="434.74874" y="234.72" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="434.74874" y="247.792" transform="rotate(-0 434.74874 247.792)">100</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 512.199844 234.72 
+L 512.199844 12.96 
+" clip-path="url(#pccab4722c9)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m1ec46cc6ed" x="512.199844" y="234.72" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="512.199844" y="247.792" transform="rotate(-0 512.199844 247.792)">150</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 589.650948 234.72 
+L 589.650948 12.96 
+" clip-path="url(#pccab4722c9)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m1ec46cc6ed" x="589.650948" y="234.72" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="589.650948" y="247.792" transform="rotate(-0 589.650948 247.792)">200</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #475569" x="382.8565" y="261.78" transform="rotate(-0 382.8565 261.78)">营收同比增速 / 经调EBITDA率 / 预算年化产出率 (%)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13">
+      <defs>
+       <path id="m91291d6f39" d="M 0 0 
+L -2.8 0 
+" style="stroke: #1e293b; stroke-width: 0.7"/>
+      </defs>
+      <g>
+       <use xlink:href="#m91291d6f39" x="137.3365" y="209.132308" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="130.3365" y="212.124308" transform="rotate(-0 130.3365 212.124308)">鸿博股份 (2026H1 合并营收同比)</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m91291d6f39" x="137.3365" y="166.486154" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="130.3365" y="169.478154" transform="rotate(-0 130.3365 169.478154)">万国数据 GDS (2026Q2 经调EBITDA率)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m91291d6f39" x="137.3365" y="123.84" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="130.3365" y="126.832" transform="rotate(-0 130.3365 126.832)">君逸数码 (智算转投年均营收/总预算)</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m91291d6f39" x="137.3365" y="81.193846" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="130.3365" y="84.185846" transform="rotate(-0 130.3365 84.185846)">润泽科技 (2026H1 合并营收同比)</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m91291d6f39" x="137.3365" y="38.547692" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="130.3365" y="41.539692" transform="rotate(-0 130.3365 41.539692)">天亿马 (2026H1 合并营收同比)</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 279.846532 218.940923 
+L 161.516735 218.940923 
+L 161.516735 199.323692 
+L 279.846532 199.323692 
+z
+" clip-path="url(#pccab4722c9)" style="fill: #b91c1c; opacity: 0.9"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 279.846532 176.294769 
+L 350.327036 176.294769 
+L 350.327036 156.677538 
+L 279.846532 156.677538 
+z
+" clip-path="url(#pccab4722c9)" style="fill: #007a87; opacity: 0.9"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 279.846532 133.648615 
+L 352.433706 133.648615 
+L 352.433706 114.031385 
+L 279.846532 114.031385 
+z
+" clip-path="url(#pccab4722c9)" style="fill: #d97706; opacity: 0.9"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 279.846532 91.002462 
+L 357.375087 91.002462 
+L 357.375087 71.385231 
+L 279.846532 71.385231 
+z
+" clip-path="url(#pccab4722c9)" style="fill: #059669; opacity: 0.9"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 279.846532 48.356308 
+L 432.580109 48.356308 
+L 432.580109 28.739077 
+L 279.846532 28.739077 
+z
+" clip-path="url(#pccab4722c9)" style="fill: #2563eb; opacity: 0.9"/>
+   </g>
+   <g id="line2d_18">
+    <path d="M 279.846532 234.72 
+L 279.846532 12.96 
+" clip-path="url(#pccab4722c9)" style="fill: none; stroke: #0f2537; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 137.3365 234.72 
+L 137.3365 12.96 
+" style="fill: none; stroke: #cbd5e1; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 137.3365 234.72 
+L 628.3765 234.72 
+" style="fill: none; stroke: #64748b; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <g id="patch_10">
+     <path d="M 282.944576 213.182308 
+L 489.032388 213.182308 
+Q 489.872388 213.182308 489.872388 212.342308 
+L 489.872388 205.922308 
+Q 489.872388 205.082308 489.032388 205.082308 
+L 282.944576 205.082308 
+Q 282.104576 205.082308 282.104576 205.922308 
+L 282.104576 212.342308 
+Q 282.104576 213.182308 282.944576 213.182308 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #b91c1c" x="282.944576" y="211.202308" transform="rotate(-0 282.944576 211.202308)">-76.39%（2026H1营收 1.87亿元 [上年同期7.90亿]，归母净亏损 -5,148万元）</text>
+   </g>
+   <g id="text_14">
+    <g id="patch_11">
+     <path d="M 353.42508 170.518341 
+L 541.230705 170.518341 
+Q 542.070705 170.518341 542.070705 169.678341 
+L 542.070705 163.293966 
+Q 542.070705 162.453966 541.230705 162.453966 
+L 353.42508 162.453966 
+Q 352.58508 162.453966 352.58508 163.293966 
+L 352.58508 169.678341 
+Q 352.58508 170.518341 353.42508 170.518341 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="353.42508" y="168.573966" transform="rotate(-0 353.42508 168.573966)">+45.50%（2026Q2净营收 30.88亿元，计费面积使用率回升至 79.2%）</text>
+   </g>
+   <g id="text_15">
+    <g id="patch_12">
+     <path d="M 355.53175 127.89 
+L 565.71175 127.89 
+Q 566.55175 127.89 566.55175 127.05 
+L 566.55175 120.63 
+Q 566.55175 119.79 565.71175 119.79 
+L 355.53175 119.79 
+Q 354.69175 119.79 354.69175 120.63 
+L 354.69175 127.05 
+Q 354.69175 127.89 355.53175 127.89 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="355.53175" y="125.91" transform="rotate(-0 355.53175 125.91)">+46.86%（改投智算 2.05亿元；预计年均营收 9,628万元，静态回收期 5.15年）</text>
+   </g>
+   <g id="text_16">
+    <g id="patch_13">
+     <path d="M 360.473131 85.183846 
+L 582.556568 85.183846 
+Q 583.396568 85.183846 583.396568 84.343846 
+L 583.396568 78.043846 
+Q 583.396568 77.203846 582.556568 77.203846 
+L 360.473131 77.203846 
+Q 359.633131 77.203846 359.633131 78.043846 
+L 359.633131 84.343846 
+Q 359.633131 85.183846 360.473131 85.183846 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="360.473131" y="83.323846" transform="rotate(-0 360.473131 83.323846)">+50.05%（营收 37.46亿元；归母净利 12.03亿元 [+36.43%]，经营现金流 29.58亿）</text>
+   </g>
+   <g id="text_17">
+    <g id="patch_14">
+     <path d="M 435.678153 42.597692 
+L 632.855965 42.597692 
+Q 633.695965 42.597692 633.695965 41.757692 
+L 633.695965 35.337692 
+Q 633.695965 34.497692 632.855965 34.497692 
+L 435.678153 34.497692 
+Q 434.838153 34.497692 434.838153 35.337692 
+L 434.838153 41.757692 
+Q 434.838153 42.597692 435.678153 42.597692 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="435.678153" y="40.617692" transform="rotate(-0 435.678153 40.617692)">+98.60%（营收 2.13亿元；深圳算力集群营收 3,609万元，参设亿联词元）</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pccab4722c9">
+   <rect x="137.3365" y="12.96" width="491.04" height="221.76"/>
+  </clipPath>
+ </defs>
+</svg>

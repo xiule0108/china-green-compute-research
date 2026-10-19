@@ -1,0 +1,12 @@
+﻿公式ID,子题,指标,公式,结果单位,适用条件
+M01,2.4;11.4,分层年市场收入,customer_count * tasks_per_customer_year * eligible_share * win_share * revenue_per_task,货币/年,各份额采用同一业务总体，价格与任务增速分列；不预填基数
+M02,9.2,设备直线年折旧,(hardware_capex - salvage_value) / depreciation_years,货币/年,设备/建设各自年限；现金流测算另列资本开支
+M03,9.2;11.2,年设施用电,avg_it_kw * hours * pue,kWh/年,平均IT负荷口径；如直接取设施总负荷则不再次乘PUE
+M04,9.2,年电费,annual_kwh * effective_tariff,货币/年,峰谷电价应按逐时电量分别相乘再汇总；常数价仅作简化
+M05,9.2,每合格任务完全成本,(depreciation + electricity_cost + network_cost + overseas_node_cost + other_opex) / accepted_tasks,货币/合格任务,accepted_tasks>0；计入失败尝试消耗；分摊边界一致
+M06,11.2,每合格任务用电,electricity_kwh / accepted_tasks,kWh/合格任务,明确设施总电耗或IT电耗，失败/空闲如何分摊
+M07,11.2,位置法电力排放,electricity_kwh * location_factor,kgCO2e,企业/项目/产品边界事先固定；非全生命周期总足迹
+M08,11.2,市场法电力排放,sum(contract_kwh * qualified_factor) + residual_kwh * residual_factor,kgCO2e,合同属性与电量只计一次；质量标准与剩余组合有证据
+M09,6.2,平均载荷带宽,payload_bytes * 8 / seconds / 1e6,Mbps,平均载荷；实际采购另需峰值、协议、重传和冗余
+M10,6.2,串行跨境往返耗时,serial_roundtrips * rtt_ms / 1000,秒,纯网络等待；不包括模型、排队、工具执行及并行化
+M11,9.3,按输入输出分别计算的API费用,uncached_input_tokens/1e6*input_price + cached_input_tokens/1e6*cache_price + output_tokens/1e6*output_price,货币,峰谷、地域、批量、免费额度、平台费和税分别应用

@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="549.86175pt" height="292.747775pt" viewBox="0 0 549.86175 292.747775" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-17T00:56:01.748301</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 292.747775 
+L 549.86175 292.747775 
+L 549.86175 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 45.86175 223.632 
+L 536.90175 223.632 
+L 536.90175 12.96 
+L 45.86175 12.96 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m758a15cf35" d="M 0 0 
+L 0 2.8 
+" style="stroke: #1e293b; stroke-width: 0.7"/>
+      </defs>
+      <g>
+       <use xlink:href="#m758a15cf35" x="119.689442" y="223.632" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #1e293b" transform="translate(81.739442 236.704)">昆明至曼谷跨境陆缆直连</text>
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #1e293b" transform="translate(78.230684 243.604)">(1,200 Gbps 大湄公河走廊)</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m758a15cf35" x="291.38175" y="223.632" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #1e293b" transform="translate(253.43175 236.704)">加德满都至香港中尼陆缆</text>
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #1e293b" transform="translate(253.879711 243.604)">(樟木/吉隆 100G 双路由)</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m758a15cf35" x="463.074058" y="223.632" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #1e293b" transform="translate(419.83855 236.704)">2025.01 AAE-1海缆故障实证</text>
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #1e293b" transform="translate(426.242073 243.604)">(巴基斯坦跨境连接冲击)</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_4">
+      <path d="M 45.86175 223.632 
+L 536.90175 223.632 
+" clip-path="url(#p806ef43208)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_5">
+      <defs>
+       <path id="mca52f7a546" d="M 0 0 
+L -2.8 0 
+" style="stroke: #1e293b; stroke-width: 0.7"/>
+      </defs>
+      <g>
+       <use xlink:href="#mca52f7a546" x="45.86175" y="223.632" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="38.86175" y="226.712" transform="rotate(-0 38.86175 226.712)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_6">
+      <path d="M 45.86175 195.162811 
+L 536.90175 195.162811 
+" clip-path="url(#p806ef43208)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#mca52f7a546" x="45.86175" y="195.162811" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="38.86175" y="198.242811" transform="rotate(-0 38.86175 198.242811)">20</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_8">
+      <path d="M 45.86175 166.693622 
+L 536.90175 166.693622 
+" clip-path="url(#p806ef43208)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#mca52f7a546" x="45.86175" y="166.693622" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="38.86175" y="169.773622" transform="rotate(-0 38.86175 169.773622)">40</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <path d="M 45.86175 138.224432 
+L 536.90175 138.224432 
+" clip-path="url(#p806ef43208)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#mca52f7a546" x="45.86175" y="138.224432" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="38.86175" y="141.304432" transform="rotate(-0 38.86175 141.304432)">60</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_12">
+      <path d="M 45.86175 109.755243 
+L 536.90175 109.755243 
+" clip-path="url(#p806ef43208)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#mca52f7a546" x="45.86175" y="109.755243" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="38.86175" y="112.835243" transform="rotate(-0 38.86175 112.835243)">80</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_14">
+      <path d="M 45.86175 81.286054 
+L 536.90175 81.286054 
+" clip-path="url(#p806ef43208)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#mca52f7a546" x="45.86175" y="81.286054" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="38.86175" y="84.366054" transform="rotate(-0 38.86175 84.366054)">100</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_16">
+      <path d="M 45.86175 52.816865 
+L 536.90175 52.816865 
+" clip-path="url(#p806ef43208)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#mca52f7a546" x="45.86175" y="52.816865" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="38.86175" y="55.896865" transform="rotate(-0 38.86175 55.896865)">120</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_18">
+      <path d="M 45.86175 24.347676 
+L 536.90175 24.347676 
+" clip-path="url(#p806ef43208)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#mca52f7a546" x="45.86175" y="24.347676" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="38.86175" y="27.427676" transform="rotate(-0 38.86175 27.427676)">140</text>
+     </g>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 7.2px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #475569" x="19.296" y="118.296" transform="rotate(-90 19.296 118.296)">往返时延 (ms)</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 68.18175 223.632 
+L 116.255596 223.632 
+L 116.255596 123.989838 
+L 68.18175 123.989838 
+z
+" clip-path="url(#p806ef43208)" style="fill: #94a3b8"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 239.874058 223.632 
+L 287.947904 223.632 
+L 287.947904 119.719459 
+L 239.874058 119.719459 
+z
+" clip-path="url(#p806ef43208)" style="fill: #94a3b8"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 411.566365 223.632 
+L 459.640212 223.632 
+L 459.640212 109.755243 
+L 411.566365 109.755243 
+z
+" clip-path="url(#p806ef43208)" style="fill: #94a3b8"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 123.123288 223.632 
+L 171.197135 223.632 
+L 171.197135 195.162811 
+L 123.123288 195.162811 
+z
+" clip-path="url(#p806ef43208)" style="fill: #007a87"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 294.815596 223.632 
+L 342.889442 223.632 
+L 342.889442 132.530595 
+L 294.815596 132.530595 
+z
+" clip-path="url(#p806ef43208)" style="fill: #007a87"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 466.507904 223.632 
+L 514.58175 223.632 
+L 514.58175 45.699568 
+L 466.507904 45.699568 
+z
+" clip-path="url(#p806ef43208)" style="fill: #b91c1c"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 45.86175 223.632 
+L 45.86175 12.96 
+" style="fill: none; stroke: #cbd5e1; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 45.86175 223.632 
+L 536.90175 223.632 
+" style="fill: none; stroke: #64748b; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <g id="patch_11">
+     <path d="M 83.352775 120.344768 
+L 101.084572 120.344768 
+Q 101.994572 120.344768 101.994572 119.434768 
+L 101.994572 112.934768 
+Q 101.994572 112.024768 101.084572 112.024768 
+L 83.352775 112.024768 
+Q 82.442775 112.024768 82.442775 112.934768 
+L 82.442775 119.434768 
+Q 82.442775 120.344768 83.352775 120.344768 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #475569" x="92.218673" y="118.654768" transform="rotate(-0 92.218673 118.654768)">70 ms</text>
+   </g>
+   <g id="text_14">
+    <g id="patch_12">
+     <path d="M 124.933766 191.517741 
+L 169.386657 191.517741 
+Q 170.296657 191.517741 170.296657 190.607741 
+L 170.296657 183.614147 
+Q 170.296657 182.704147 169.386657 182.704147 
+L 124.933766 182.704147 
+Q 124.023766 182.704147 124.023766 183.614147 
+L 124.023766 190.607741 
+Q 124.023766 191.517741 124.933766 191.517741 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="147.160212" y="189.334147" transform="rotate(-0 147.160212 189.334147)">20 ms (-71.4%)</text>
+   </g>
+   <g id="text_15">
+    <g id="patch_13">
+     <path d="M 255.045082 116.074389 
+L 272.776879 116.074389 
+Q 273.686879 116.074389 273.686879 115.164389 
+L 273.686879 108.664389 
+Q 273.686879 107.754389 272.776879 107.754389 
+L 255.045082 107.754389 
+Q 254.135082 107.754389 254.135082 108.664389 
+L 254.135082 115.164389 
+Q 254.135082 116.074389 255.045082 116.074389 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #475569" x="263.910981" y="114.384389" transform="rotate(-0 263.910981 114.384389)">73 ms</text>
+   </g>
+   <g id="text_16">
+    <g id="patch_14">
+     <path d="M 296.626074 128.885524 
+L 341.078965 128.885524 
+Q 341.988965 128.885524 341.988965 127.975524 
+L 341.988965 120.981931 
+Q 341.988965 120.071931 341.078965 120.071931 
+L 296.626074 120.071931 
+Q 295.716074 120.071931 295.716074 120.981931 
+L 295.716074 127.975524 
+Q 295.716074 128.885524 296.626074 128.885524 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="318.852519" y="126.701931" transform="rotate(-0 318.852519 126.701931)">64 ms (-12.3%)</text>
+   </g>
+   <g id="text_17">
+    <g id="patch_15">
+     <path d="M 426.73739 106.110173 
+L 444.469187 106.110173 
+Q 445.379187 106.110173 445.379187 105.200173 
+L 445.379187 98.700173 
+Q 445.379187 97.790173 444.469187 97.790173 
+L 426.73739 97.790173 
+Q 425.82739 97.790173 425.82739 98.700173 
+L 425.82739 105.200173 
+Q 425.82739 106.110173 426.73739 106.110173 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #475569" x="435.603288" y="104.420173" transform="rotate(-0 435.603288 104.420173)">80 ms</text>
+   </g>
+   <g id="text_18">
+    <g id="patch_16">
+     <path d="M 465.838733 42.054497 
+L 515.250921 42.054497 
+Q 516.160921 42.054497 516.160921 41.144497 
+L 516.160921 34.150904 
+Q 516.160921 33.240904 515.250921 33.240904 
+L 465.838733 33.240904 
+Q 464.928733 33.240904 464.928733 34.150904 
+L 464.928733 41.144497 
+Q 464.928733 42.054497 465.838733 42.054497 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="490.544827" y="39.870904" transform="rotate(-0 490.544827 39.870904)">125 ms (+56.2%)</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_17">
+     <path d="M 169.090125 279.787775 
+L 413.673375 279.787775 
+Q 415.033375 279.787775 415.033375 278.427775 
+L 415.033375 266.3514 
+Q 415.033375 264.9914 413.673375 264.9914 
+L 169.090125 264.9914 
+Q 167.730125 264.9914 167.730125 266.3514 
+L 167.730125 278.427775 
+Q 167.730125 279.787775 169.090125 279.787775 
+z
+" style="fill: #f8fafc; stroke: #e2e8f0; stroke-width: 0.75; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_18">
+     <path d="M 171.470125 274.7154 
+L 185.070125 274.7154 
+L 185.070125 269.9554 
+L 171.470125 269.9554 
+z
+" style="fill: #94a3b8"/>
+    </g>
+    <g id="text_19">
+     <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start" x="189.150125" y="274.7154" transform="rotate(-0 189.150125 274.7154)">改造前绕转 / 正常态时延 (ms)</text>
+    </g>
+    <g id="patch_19">
+     <path d="M 290.70175 274.7154 
+L 304.30175 274.7154 
+L 304.30175 269.9554 
+L 290.70175 269.9554 
+z
+" style="fill: #007a87"/>
+    </g>
+    <g id="text_20">
+     <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start" x="308.38175" y="274.7154" transform="rotate(-0 308.38175 274.7154)">陆缆直连后 / 海缆故障态时延 (ms)</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p806ef43208">
+   <rect x="45.86175" y="12.96" width="491.04" height="210.672"/>
+  </clipPath>
+ </defs>
+</svg>

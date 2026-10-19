@@ -1,0 +1,747 @@
+[
+  {
+    "exhibit_id": "exhibit-10-3",
+    "exhibit_number": "10.3",
+    "title": "国内重点区域算力枢纽与沿海词元工厂项目建设规模、发展阶段与口径说明一览表",
+    "table_csv": "data/exhibits/exhibit-10-3.csv",
+    "rows": 13,
+    "columns": 6,
+    "source_variable": "CHAPTER_10_HTML",
+    "source_html_id": "exhibit-10-projects",
+    "source_html_sha256": "d5e7caecc57940c5c2858a6f4204794e81ae52e95264669f30101c51d7b994e9",
+    "footer_original": "来源：宁夏中卫、甘肃庆阳政府工作报告与官方通报（2025至2026H1）、汕头华侨经济文化合作试验区公告、天亿马与君逸数码上市公司公告；介子九维（JIEZIJIUWEI）本体治理与折算模型计算 107~111 。",
+    "reference_numbers": [
+      107,
+      108,
+      109,
+      110,
+      111
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-10-4",
+    "exhibit_number": "10.4",
+    "title": "三大电信运营商与五家算力及词元产业链上市企业2025至2026年上半年财务与经营对比表",
+    "table_csv": "data/exhibits/exhibit-10-4.csv",
+    "rows": 8,
+    "columns": 6,
+    "source_variable": "CHAPTER_10_HTML",
+    "source_html_id": "exhibit-10-companies",
+    "source_html_sha256": "0dc82ed98061b68983af7b061f492fca4a854777ae700decb590ea4f7c526c32",
+    "footer_original": "来源：中国移动、中国电信、中国联通、万国数据（GDS）、润泽科技、广东天亿马、鸿博股份定期财务报告及四川君逸数码专项公告（截至2026年10月）；介子九维（JIEZIJIUWEI）整理计算 105, 109~113 。",
+    "reference_numbers": [
+      105,
+      109,
+      110,
+      111,
+      112,
+      113
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-10-7",
+    "exhibit_number": "10.7",
+    "title": "中国 Token 出海“西部绿电算力底座 + 西南/沿海通信门户 + 东部模型平台”跨区域协作与收益分配机制设计表",
+    "table_csv": "data/exhibits/exhibit-10-7.csv",
+    "rows": 3,
+    "columns": 5,
+    "source_variable": "CHAPTER_10_HTML",
+    "source_html_id": "exhibit-10-4",
+    "source_html_sha256": "c0b14e0e0c5f9bf0f3e7263ad4b807b5be770a266901be0feb1f2ff4bdec9f24",
+    "footer_original": "来源：发改数据〔2023〕1779 号、云政办发〔2026〕27 号、天亿马《关于与关联方共同投资设立合资公司暨关联交易的公告》（2026-063）；介子九维（JIEZIJIUWEI）研究设计 47, 107, 111 。",
+    "reference_numbers": [
+      47,
+      107,
+      111
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-11-1",
+    "exhibit_number": "11.1",
+    "title": "中国 Token 出海四类商业模式的国内增加值（DVA，参照TiVA概念）留存情景核算与宏观经济影响评估表",
+    "table_csv": "data/exhibits/exhibit-11-1.csv",
+    "rows": 4,
+    "columns": 5,
+    "source_variable": "CHAPTER_11_HTML",
+    "source_html_id": "exhibit-11-1",
+    "source_html_sha256": "9f3d9b1a4dd05d4d9c67008a29fb88465ba26af5fbbb4b0c782e378763ff9a21",
+    "footer_original": "注：四类商业模式（模式 A 至模式 D，及兼容旧版辅助模式 A0）每百美元出口的分环节成本分配情景与增加值条件测算见《M05_四种出海模式国内增加值留存投入产出表.csv》（参数定义见 engineering_inputs.json）。来源：OECD TiVA 2025 Edition & 2026 Nowcasting Report、NBER Working Paper 33795 (Rev. 1)；介子九维（JIEZIJIUWEI）研究构建 114, 115 。",
+    "reference_numbers": [
+      114,
+      115
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-11-3",
+    "exhibit_number": "11.3",
+    "title": "IEA（2026）全球与分地区数据中心总用电量、IT设备用电量及官方设施PUE演进表（2023至2035年，单位：TWh）",
+    "table_csv": "data/exhibits/exhibit-11-3.csv",
+    "rows": 9,
+    "columns": 7,
+    "source_variable": "CHAPTER_11_HTML",
+    "source_html_id": "exhibit-11-iea-lbnl",
+    "source_html_sha256": "41a741b4698c896f8015d3d9df83431600e712b1bdc284264780e05da7144793",
+    "footer_original": "注：表中斜杠前为数据中心设施总耗电量（Total Facility Electricity），斜杠后为 IT 设备净耗电量（IT Equipment Electricity），2023至2030年全部 72 项区域分年数值严格引自 IEA 2026 Annex A Table A.4（PDF 第 110 页）官方序列，2035 年全球探索性预测（1,193 / 985 TWh）引自 IEA 2026 Annex A Table A.1（PDF 第 108 页）；末列 2024 至 2030 年 PUE 演进直接引自 IEA 2026 Annex A Table A.3（PDF 第 109 页）官方报告值（按未四舍五入底层电量核算，若直接用表 A.4 发布值相除，中南美洲、非洲、中东及欧洲 2030 年因小基数舍入对应的隐含比值分别为 1.75→1.50、1.75→1.61、1.88→1.76 与 1.45→1.30），括号内为 2030 年非 IT 冷却配电电量占设施总耗电量之比（即 [Total － IT] ÷ Total）；跨政策联立反解与 Kaya-LMDI 五因子分解见《M01B_跨政策隐含物理恒等式反解表.csv》与《M02B_Kaya_LMDI电量与碳排五因子完全分解表.csv》。来源：国际能源署（IEA）《Key Questions on Energy and AI》（2026年版，Annex A Tables A.1, A.3 & A.4）；介子九维（JIEZIJIUWEI）整理计算 116, 117 。",
+    "reference_numbers": [
+      116,
+      117
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-11-5",
+    "exhibit_number": "11.5",
+    "title": "生态环境部《2023年电力二氧化碳排放因子》全国30个省级电网、7大区域电网及全国基准完整排序表（单位：kgCO₂/kWh）",
+    "table_csv": "data/exhibits/exhibit-11-5.csv",
+    "rows": 20,
+    "columns": 6,
+    "source_variable": "CHAPTER_11_HTML",
+    "source_html_id": "exhibit-11-carbon-full",
+    "source_html_sha256": "06053c317592f8640fd99a62931f7a4abcb9deabcbe273bfa30668c0e0f0d043",
+    "footer_original": "注：表中全部 40 项指标（30个省级电网、7个区域电网及3项全国基准）均为 2023 年发电直接二氧化碳排放因子（单位：kgCO₂/kWh）；括号内百万 Token 影子碳成本由本报告按单耗系数 E token ＝ 0.650 kWh/1M Tokens（含 PUE 折算）及欧盟 CBAM 碳价基准 85 欧元/tCO₂（按 1.0824 汇率折合 92.0 美元/tCO₂；若按 85.0 美元/tCO₂ 口径计，则云南、四川、青海、甘肃、宁夏、内蒙古、天津位置法分别为 $0.0074、$0.0086、$0.0099、$0.0247、$0.0342、$0.0358、$0.0375/1M，切换风电全生命周期因子后为 $0.0018/1M）实算得出（见《M06B_30省电力碳因子泰尔熵与影子碳成本衍生表.csv》）。来源：生态环境部、国家统计局《关于发布2023年电力二氧化碳排放因子的公告》（2025年12月31日发布）；介子九维（JIEZIJIUWEI）整理计算 116~119 。",
+    "reference_numbers": [
+      116,
+      117,
+      118,
+      119
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-11-6",
+    "exhibit_number": "11.6",
+    "title": "影响中国 Token 出海中期演进（2026至2030年）的七大关键变量、传导机制与可观测先行指标监测表",
+    "table_csv": "data/exhibits/exhibit-11-6.csv",
+    "rows": 7,
+    "columns": 5,
+    "source_variable": "CHAPTER_11_HTML",
+    "source_html_id": "exhibit-11-3",
+    "source_html_sha256": "ef57ca05c7d9f79b5d2e6e7d718d4bf7d49aa13d296629d0b8fa9c7f06a726e5",
+    "footer_original": "来源：牛津大学 Yang & Armour (2026)、塞浦路斯大学等 (2026)、LBNL (2026)、GHG Protocol (2026)、工信部文件；介子九维（JIEZIJIUWEI）综合研究 117, 119, 121, 123 。",
+    "reference_numbers": [
+      117,
+      119,
+      121,
+      123
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-11-10",
+    "exhibit_number": "11.10",
+    "title": "2024至2030年中国数据中心用电增长LMDI对数平均迪氏四因子无残差分解核算表",
+    "table_csv": "data/exhibits/exhibit-11-10.csv",
+    "rows": 5,
+    "columns": 6,
+    "source_variable": "CHAPTER_11_HTML",
+    "source_html_id": "exhibit-11-10",
+    "source_html_sha256": "23019b4350a2cb352eef00dd8a5ec7f651ba44902b1d9884cebca0cbb520cd08",
+    "footer_original": "注：LMDI 四因子之和（+335.8 ＋ 107.8 － 250.3 － 18.3 ＝ +175.0 TWh；191.9% ＋ 61.6% － 143.0% － 10.5% ＝ 100.0%）严格等于 2024 至 2030 年总电量净增量（277.0 － 102.0 ＝ 175.0 TWh），残差为 0；完整计算见《M04_LMDI算力电力增长结构分解表.csv》（并可对照五因子扩展表《M02B_Kaya_LMDI电量与碳排五因子完全分解表.csv》）。来源：IEA 2026、介子九维（JIEZIJIUWEI）能源经济模型。",
+    "reference_numbers": []
+  },
+  {
+    "exhibit_id": "exhibit-12-1",
+    "exhibit_number": "12.1",
+    "title": "国家层面支撑 Token 出海的基础制度与公共能力建设方案表（现实问题、政策依据、主管部门、实施工具与预期效果）",
+    "table_csv": "data/exhibits/exhibit-12-1.csv",
+    "rows": 5,
+    "columns": 6,
+    "source_variable": "CHAPTER_12_HTML",
+    "source_html_id": "exhibit-12-1",
+    "source_html_sha256": "8b68e839bfde0be78e61e5c7647047efd20b00c68dd2a77ab057022dd8b07bd2",
+    "footer_original": "来源：中办国办数字贸易意见、工信部〔2025〕119号、工信厅〔2026〕404/433号、发改环资〔2024〕970号；介子九维（JIEZIJIUWEI）政策研究组编制 122, 123, 124 。",
+    "reference_numbers": [
+      122,
+      123,
+      124
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-12-3",
+    "exhibit_number": "12.3",
+    "title": "国家算力互联互通区域节点建设名单（17个省级区域申报单位与实施主体一览表）",
+    "table_csv": "data/exhibits/exhibit-12-3.csv",
+    "rows": 17,
+    "columns": 5,
+    "source_variable": "CHAPTER_12_HTML",
+    "source_html_id": "exhibit-12-nodes17",
+    "source_html_sha256": "82aa7bcce566f445497e40e8fed809eefee7441e3583c2680c6ceddadef9cc24",
+    "footer_original": "来源：工业和信息化部办公厅《关于公布国家算力互联互通区域节点建设名单的通知》（工信厅信管函〔2026〕404号，2026年8月20日印发，附件《国家算力互联互通区域节点建设名单》）；介子九维（JIEZIJIUWEI）整理 121 。",
+    "reference_numbers": [
+      121
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-12-5",
+    "exhibit_number": "12.5",
+    "title": "国内各省市算力券与大模型Token券支持比例、封顶额度、适用条件及预算兑付实绩一览表",
+    "table_csv": "data/exhibits/exhibit-12-5.csv",
+    "rows": 14,
+    "columns": 6,
+    "source_variable": "CHAPTER_12_HTML",
+    "source_html_id": "exhibit-12-vouchers",
+    "source_html_sha256": "46ed2b2b451d93c65cef9477bb5483d3f21405e1378b67efdd8e57ead03aca44",
+    "footer_original": "来源：北京市科委中关村管委会创新券办法、黑龙江省算力券试行办法、湖南省算力券实施方案、芜湖市智算补贴政策、武汉市算力券办法（2026年10月29日施行）、上海市“模塑申城”算力券/模型券/语料券指南（沪经信智〔2026〕248号）、宁夏2026年预算绩效表及烟台市大数据局2026年5月公示文件；介子九维（JIEZIJIUWEI）整理 123~126 。",
+    "reference_numbers": [
+      123,
+      124,
+      125,
+      126
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-12-6",
+    "exhibit_number": "12.6",
+    "title": "面向 Token 出海的六类产业主体（能源、算力、通信、模型、平台、行业应用）切入环节、资质门槛与经营策略一览表",
+    "table_csv": "data/exhibits/exhibit-12-6.csv",
+    "rows": 6,
+    "columns": 6,
+    "source_variable": "CHAPTER_12_HTML",
+    "source_html_id": "exhibit-12-3",
+    "source_html_sha256": "b3c9b222ba8843d02b423ca7dda24e18da63849f5f53c0a6c8fc4aa43efc6edc",
+    "footer_original": "来源：工信厅信管函〔2026〕404号、工信厅联节函〔2026〕433号、沪经信智〔2026〕248号及各省算力券细则；介子九维（JIEZIJIUWEI）研究设计 123, 124, 125 。",
+    "reference_numbers": [
+      123,
+      124,
+      125
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-12-9",
+    "exhibit_number": "12.9",
+    "title": "本报告六大核心战略命题结论卡、成立边界与结论反转动态修正触发条件表",
+    "table_csv": "data/exhibits/exhibit-12-9.csv",
+    "rows": 6,
+    "columns": 5,
+    "source_variable": "CHAPTER_12_HTML",
+    "source_html_id": "exhibit-12-9",
+    "source_html_sha256": "6579fd3a9df3414d55d5b326b0981b99e3d0bf62d1cb0bbc226cbcb7790c7e5b",
+    "footer_original": "来源：介子九维（JIEZIJIUWEI）综合全报告 12 章实证模型、TEA 临界值反解与法域监管追踪体系构建。",
+    "reference_numbers": []
+  },
+  {
+    "exhibit_id": "exhibit-1-3",
+    "exhibit_number": "1.3",
+    "title": "数字服务五层架构（IaaS至BPaaS）与六类“泛算力/泛AI出海”业态的物理执行地及国际收支（BOP）归属边界表",
+    "table_csv": "data/exhibits/exhibit-1-3.csv",
+    "rows": 7,
+    "columns": 6,
+    "source_variable": "CHAPTER_1_HTML",
+    "source_html_id": "exhibit-1-2",
+    "source_html_sha256": "323d4663db1aea910497d777954e94169643bf9075b7cdf2b44672fc00661e3b",
+    "footer_original": "来源：联合国《2025年国民经济核算体系》（SNA 2025）第22章、国际货币基金组织《国际收支手册第七版》（BPM7）第16章、OECD/WTO/IMF/UNCTAD《数字贸易测度手册（第二版）》；介子九维（JIEZIJIUWEI）研究与模型测算 1, 2, 3 。",
+    "reference_numbers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-1-7",
+    "exhibit_number": "1.7",
+    "title": "全球与14个重点经济体可数字化交付服务（DDS）及计算机服务（SI2）进出口完整样本数据表（2019至2025年）",
+    "table_csv": "data/exhibits/exhibit-1-7.csv",
+    "rows": 15,
+    "columns": 6,
+    "source_variable": "CHAPTER_1_HTML",
+    "source_html_id": "exhibit-1-5",
+    "source_html_sha256": "38a8d162d996c8f4e16c7e8d59e0713b67f75e613d9eb0f313bd99d06b43cae1",
+    "footer_original": "注：末列显性比较优势指数按 Balassa 公式 RCA i,SI2 ＝ (E i,SI2 /E i,DDS ) ÷ (E W,SI2 /E W,DDS ) 计算，2019至2025年 SI2 出口增量的 Kaya-LMDI 对数平均迪氏指数完全无残差分解（ΔE ＝ ΔE scale ＋ ΔE struct ）完整计算序列见《O01_WTO数字服务与计算机服务RCA及LMDI分解表.csv》。来源：UN SNA 2025、IMF BPM7 (2025)、WTO Digitally Delivered Services Dataset (2026.07)、OECD TiVA Guide；介子九维（JIEZIJIUWEI）研究与模型测算 1, 2, 4, 7 。",
+    "reference_numbers": [
+      1,
+      2,
+      4,
+      7
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-2-2",
+    "exhibit_number": "2.2",
+    "title": "全球生成式 AI 五大核心生产负载的物理特征（Prefill/Decode）、时延容忍度与中国跨境算力适配度评估表",
+    "table_csv": "data/exhibits/exhibit-2-2.csv",
+    "rows": 5,
+    "columns": 6,
+    "source_variable": "CHAPTER_2_HTML",
+    "source_html_id": "exhibit-2-1",
+    "source_html_sha256": "82877c37449e8f16267efea8365b7ccb7ddf49c61dbe2e2350e01fb5efe5145b",
+    "footer_original": "来源：Anthropic Economic Index (2025/2026)、MLPerf Inference v6.1 负载规范、DeepSeek FlashMLA 架构文档；介子九维（JIEZIJIUWEI）研究与模型测算 11, 12, 44, 45 。",
+    "reference_numbers": [
+      11,
+      12,
+      44,
+      45
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-2-5",
+    "exhibit_number": "2.5",
+    "title": "全球七大目标区域与 WTO 30个参考经济体的计算机服务（SI2）进口规模、时延半径与中国算力适配度完整样本评估表",
+    "table_csv": "data/exhibits/exhibit-2-5.csv",
+    "rows": 7,
+    "columns": 6,
+    "source_variable": "CHAPTER_2_HTML",
+    "source_html_id": "exhibit-2-3",
+    "source_html_sha256": "395a1e974fbdda0c58a41fd387b8d09d97fe8c5ef2fdb765d3d6178fe2e918a6",
+    "footer_original": "来源：WTO Digitally Delivered Services Dataset（2026.07，完整覆盖研究选定的全部30个经济体：29个海外目标市场与中国本土参照，单位按原始百万美元精确折算为亿美元并保留两位小数，与图表 1.7 及图表 2.4 完全一致）、US Census BTOS、Eurostat、UK ONS、StatCan、IMDA、MSIT/NIA、Japan MIC、GASTAT、DOSM、Cetic.br、TurkStat、CBS、VECOM、Bank Indonesia、MoSPI 官方公报；介子九维（JIEZIJIUWEI）研究与模型测算 4, 13至23 。",
+    "reference_numbers": [
+      4,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-3-7",
+    "exhibit_number": "3.7",
+    "title": "第四监管周期（2026年8月起）省级及区域电网工商业两部制输配电价、基本电费与综合线损率一览表",
+    "table_csv": "data/exhibits/exhibit-3-7.csv",
+    "rows": 34,
+    "columns": 9,
+    "source_variable": "CHAPTER_3_HTML",
+    "source_html_id": "exhibit-3-34grids",
+    "source_html_sha256": "5ad6c13a3b0893032735bf7496b24cfce409245a310176e41a72ec7f90b17bf3",
+    "footer_original": "来源：国家发展改革委《关于第四监管周期区域电网输电价格和省级电网输配电价及有关事项的通知》（发改价格〔2026〕1077号，2026年7月8日印发，2026年8月1日起执行）；深圳按3001kVA及以上且月均用电超400kWh/kW档列示；介子九维（JIEZIJIUWEI）根据官方原表整理计算 33 。",
+    "reference_numbers": [
+      33
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-3-8",
+    "exhibit_number": "3.8",
+    "title": "2026年中国智算中心四类绿电获取路径的全口径成本、系统运行费敞口与国际碳合规可追溯性对比表",
+    "table_csv": "data/exhibits/exhibit-3-8.csv",
+    "rows": 4,
+    "columns": 6,
+    "source_variable": "CHAPTER_3_HTML",
+    "source_html_id": "exhibit-3-4",
+    "source_html_sha256": "0f8dd397850741b977a7add51c803d55447c00ae32f6c7e71020f2aa7240a88c",
+    "footer_original": "来源：国家发展改革委、国家能源局相关价格政策原件及各省电力交易中心 2026 年结算规则；介子九维（JIEZIJIUWEI）研究与模型测算 33至39 。",
+    "reference_numbers": [
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-3-11",
+    "exhibit_number": "3.11",
+    "title": "国际主流 GPU 集群节点（NVIDIA HGX H100/H200/B200）与国产主力推理服务器（Huawei Atlas 800I A2 / Ascend 950）底层工程参数对比表",
+    "table_csv": "data/exhibits/exhibit-3-11.csv",
+    "rows": 5,
+    "columns": 6,
+    "source_variable": "CHAPTER_3_HTML",
+    "source_html_id": "exhibit-3-6",
+    "source_html_sha256": "916915594315f76be335453b2d3f768ccfed8999b22a4957b77189bc97a1eca3",
+    "footer_original": "来源：NVIDIA HGX H100/H200/B200 官方产品规格书、华为《Atlas 800I A2 推理服务器技术彩页》、DeepSeek FlashMLA 技术仓库（2026年9月30日版本）；介子九维（JIEZIJIUWEI）研究与模型测算 41, 42, 43, 45 。",
+    "reference_numbers": [
+      41,
+      42,
+      43,
+      45
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-3-12",
+    "exhibit_number": "3.12",
+    "title": "中国五大典型算力集群自下而上工程核算与部分识别区间估计表（2026年基准）",
+    "table_csv": "data/exhibits/exhibit-3-12.csv",
+    "rows": 5,
+    "columns": 7,
+    "source_variable": "CHAPTER_3_HTML",
+    "source_html_id": "exhibit-3-12",
+    "source_html_sha256": "392052aff8a55f662451b9e871ffb86b1132eaf6a473291febd181d75582ea6c",
+    "footer_original": "注：表中单柜功率统一折算为 2.5 kW 标准机架当量以便跨区对标；年化总耗电量严格按 E cluster ＝ N rack × 2.5 kW × 8,760h × 等效综合电力负荷率 × PUE 核算；年化合格 Token 产出边界基于稀疏 MoE 架构（单千瓦时活跃计算 IT 电能产出约 5.4万至 5.8万合格输出 Token）测算。来源：各省发改委/工信厅公告、万国数据与天亿马 2026 年公告，介子九维（JIEZIJIUWEI）逆向工程核算模型。",
+    "reference_numbers": []
+  },
+  {
+    "exhibit_id": "exhibit-4-3",
+    "exhibit_number": "4.3",
+    "title": "Oracle Cloud 21款云端GPU实例与AWS、Microsoft Azure、Google Cloud跨区域按需标价对照表",
+    "table_csv": "data/exhibits/exhibit-4-3.csv",
+    "rows": 29,
+    "columns": 8,
+    "source_variable": "CHAPTER_4_HTML",
+    "source_html_id": "exhibit-4-gpu-full",
+    "source_html_sha256": "944d048d13079357ce2d7392de74fefae0a5f7b27fb83bd5610fa640961a7d81",
+    "footer_original": "注：末列括号内享乐溢价率（Hedonic Premium Residual）由本报告基于 Statsmodels 享乐价格回归模型（在 25 条跨云实例样本上以 SKU 级架构代际人工序数编码 arch_gen [A10＝1.0、A100-40G＝1.3、A100-80G＝1.5、L40S＝1.6、H100＝2.4、MI300X＝2.5、H200＝2.6、MI355X＝3.2、B200＝3.5、GB200＝3.8、GB300＝4.0，非严格分类虚拟变量固定效应]、单卡显存容量 vram_gb、显存带宽 mem_bw_tbs [bw_tb_s] 与高速互联标识 nvlink_flag 进行拟合，未纳入品牌、云厂商或区域固定效应；线性 OLS 模型 R² ＝ 0.8245、调整后 R² ＝ 0.7894、常数项 －6.3699 [p ＝ 0.0205]，其中 arch_gen ＝ +7.4740 [p ＝ 0.0006]、vram_gb ＝ +0.0106 [p ＝ 0.4549]、bw_tb_s ＝ -1.3416 [p ＝ 0.1061]、nvlink_flag ＝ +0.8255 [p ＝ 0.6463]；半对数 OLS 模型［因变量为对数单价 ln(actual_gpu_hr_usd)，显存解释变量为对数显存容量 ln_vram_gb］R² ＝ 0.8563、调整后 R² ＝ 0.8276、常数项 －0.6111 [p ＝ 0.4790]，其中 arch_gen ＝ +0.9302 [p ＝ 0.0002]、ln_vram_gb ＝ +0.1412 [p ＝ 0.5504]、bw_tb_s ＝ -0.1684 [p ＝ 0.0716]、nvlink_flag ＝ +0.3665 [p ＝ 0.1276]，明细见《M06C_全球云GPU实例享乐价格回归与溢价率表.csv》）实算得出。样本说明：表中 Azure NC40ads_H100_v5 真实硬件为 94GB H100 NVL，在回归输入中按同代 H100 80GB 标准化编码（若按 94GB 真实物理显存编码回归，线性 OLS R² 为 0.8237）；回归样本另含 Lambda 8x B200（$6.69/卡时）、Lambda 8x H100（$3.99/卡时）及两条待补充原始 API 快照的 Azure ND96amsr_A100_v4（美东 $4.096、东南亚 $5.12/卡时）模型输入。来源：Oracle Cloud Infrastructure 官方 GPU 价格表与 Compute Shapes 技术规范（2026年10月8日快照，共21款机型）、AWS EC2 On-Demand Pricing（2026年10月12日，含 us-west-2、us-east-1、ap-southeast-1、eu-central-1）、Microsoft Azure Retail Prices API（2026年10月）、Google Cloud Compute Engine Pricing、Lambda GPU Cloud Pricing；介子九维（JIEZIJIUWEI）整理计算 60, 61 。",
+    "reference_numbers": [
+      60,
+      61
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-4-4",
+    "exhibit_number": "4.4",
+    "title": "全球人工智能算力与跨境推理服务生态的七大类核心主体、资源控制权与竞合关系对比表",
+    "table_csv": "data/exhibits/exhibit-4-4.csv",
+    "rows": 7,
+    "columns": 6,
+    "source_variable": "CHAPTER_4_HTML",
+    "source_html_id": "exhibit-4-2",
+    "source_html_sha256": "ff0aa67f0c62f0cad1afa67b50ab42b53d1eef47ec7259d6ae154afb8617c654",
+    "footer_original": "来源：各企业2025至2026年财报及官方技术文档、OpenRouter API文档、UK CMA调查报告；介子九维（JIEZIJIUWEI）研究整理 56至63 。",
+    "reference_numbers": [
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-4-7",
+    "exhibit_number": "4.7",
+    "title": "2026年全球五大云与算力巨头（Alphabet / Microsoft / Amazon / Meta / Oracle）资本开支、租赁承诺与算力交付对比表",
+    "table_csv": "data/exhibits/exhibit-4-7.csv",
+    "rows": 5,
+    "columns": 6,
+    "source_variable": "CHAPTER_4_HTML",
+    "source_html_id": "exhibit-4-4",
+    "source_html_sha256": "55c45fda4435b2eb584b4e1b1780b3ad7421760666c813ee8fa9d387381cd1a2",
+    "footer_original": "注：上游加速芯片原厂（NVIDIA、AMD）采取轻资产 Fabless 晶圆代工模式，其数据中心芯片销售收入对应下游云巨头 CapEx 中的服务器采购项，故不与云巨头 CapEx 简单相加。来源：Alphabet、Microsoft、Amazon、Meta、Oracle 2025至2026年官方财务报告、Form 10-Q及业绩电话会记录；介子九维（JIEZIJIUWEI）整理核算 56至60 。",
+    "reference_numbers": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-5-1",
+    "exhibit_number": "5.1",
+    "title": "中国Token出海跨境物理通道的六层完整拓扑结构、资源属性与法定管理主体一览表",
+    "table_csv": "data/exhibits/exhibit-5-1.csv",
+    "rows": 6,
+    "columns": 6,
+    "source_variable": "CHAPTER_5_HTML",
+    "source_html_id": "exhibit-5-1",
+    "source_html_sha256": "abbe9c4228c96a6103f1aaab7718afc61b97deab31d9fcdb93bf2e8afa1d5aed",
+    "footer_original": "来源：《国际通信出入口局管理办法》（信息产业部令第22号）、工信部2024至2026年公告、中国电信/中国移动公开资料、HKIX与SGIX官方规程；介子九维（JIEZIJIUWEI）研究构建 64, 65, 66, 68, 69, 71 。",
+    "reference_numbers": [
+      64,
+      65,
+      66,
+      68,
+      69,
+      71
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-5-4",
+    "exhibit_number": "5.4",
+    "title": "中国面向东南亚、南亚、中亚及欧洲的七大跨境陆缆与海陆联运走廊技术参数与演进阶段一览表",
+    "table_csv": "data/exhibits/exhibit-5-4.csv",
+    "rows": 7,
+    "columns": 6,
+    "source_variable": "CHAPTER_5_HTML",
+    "source_html_id": "exhibit-5-3",
+    "source_html_sha256": "56cbdb151d1bde9faa4d734df45f4473ba7487e8b22ba04fc4211b0cc0def5eb",
+    "footer_original": "来源：中国电信公告、云南省政府云政办发〔2026〕27号、Kazakhtelecom 2024与2025年报、CPEC项目汇编、SCO与Zeta官网、亨通光电2026年半年度报告；介子九维（JIEZIJIUWEI）整理 66, 69, 70 。",
+    "reference_numbers": [
+      66,
+      69,
+      70
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-5-5",
+    "exhibit_number": "5.5",
+    "title": "2024年7月获批新增四座国际通信业务出入口局（南宁 / 青岛 / 昆明 / 海口）的承建主体、工程进度与算力接续一览表",
+    "table_csv": "data/exhibits/exhibit-5-5.csv",
+    "rows": 4,
+    "columns": 6,
+    "source_variable": "CHAPTER_5_HTML",
+    "source_html_id": "exhibit-5-4",
+    "source_html_sha256": "e7d369dd4622647615d7923b36bd640e5c06ac1e4640f47ea9a6fef71b69b68a",
+    "footer_original": "来源：工业和信息化部（2024-07-10）、广西通信管理局（2026-04-13）、山东省通信管理局（2026-04-07）、青岛市政府网/青岛日报（2026-03-28 / 2026-08-22）、中国电信（2025-09 / 2026-04）、云南省政府（2026-05-20）、海南省通信管理局（2025-07-31）、海南省政府工作报告（2026-02-02）；介子九维（JIEZIJIUWEI）整理 64, 69, 71 。",
+    "reference_numbers": [
+      64,
+      69,
+      71
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-5-8",
+    "exhibit_number": "5.8",
+    "title": "中国Token出海国际通信通道的“环节 × 资源 × 市场方向 × 业务触发条件”约束定位与高可靠冗余方案表",
+    "table_csv": "data/exhibits/exhibit-5-8.csv",
+    "rows": 5,
+    "columns": 6,
+    "source_variable": "CHAPTER_5_HTML",
+    "source_html_id": "exhibit-5-6",
+    "source_html_sha256": "9f8d9b0d6019c99cd97f382f34bb1c635343065c869e002805e33356a63c509b",
+    "footer_original": "注：末列拓扑介数中心性（Betweenness Centrality C B ）与最短时延路由变化由本报告基于 NetworkX 16节点跨境海陆光缆加权图模型（见《M07B_NetworkX跨境海陆光缆拓扑中心性与咽喉识别表.csv》）实算得出。来源：工信部令第22号、FCC档案、ICPC/OFCA指南、Cloudflare实测报告、Kazakhtelecom年报、CTG/HKIX/SGIX官方文件；介子九维（JIEZIJIUWEI）研究构建 64至72 。",
+    "reference_numbers": [
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-6-1",
+    "exhibit_number": "6.1",
+    "title": "跨境计算五类典型部署形态的架构边界、审计字段与适用场景对比表",
+    "table_csv": "data/exhibits/exhibit-6-1.csv",
+    "rows": 5,
+    "columns": 6,
+    "source_variable": "CHAPTER_6_HTML",
+    "source_html_id": "",
+    "source_html_sha256": "24d6316011a78194685a5ad10608d0241455d25744f610bf03ac63d481b6d709",
+    "footer_original": "资料来源：阿里云百炼官方技术文档（2026年10月13日版） 73 、AWS Bedrock跨区域推理开发者指南 74 、广东天亿马投资者关系活动记录表（2026年9月15日） 75 ；介子九维（JIEZIJIUWEI）研究整理。",
+    "reference_numbers": [
+      73,
+      74,
+      75
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-6-4",
+    "exhibit_number": "6.4",
+    "title": "跨境Token交付五层协议栈的职责边界、核心控制字段与故障计费耦合分析表",
+    "table_csv": "data/exhibits/exhibit-6-4.csv",
+    "rows": 5,
+    "columns": 5,
+    "source_variable": "CHAPTER_6_HTML",
+    "source_html_id": "",
+    "source_html_sha256": "3341e7826a972d7fee943eaa2aa0d5efc6bccf63f2fffba4249af498fa17b34c",
+    "footer_original": "资料来源：IETF RFC 9000标准 82 、阿里云百炼技术规范与国际站SLA（2026年9月至10月版） 73, 81, 83, 85, 86, 87 、AWS Bedrock官方技术文档 74, 84 ；介子九维（JIEZIJIUWEI）研究整理。",
+    "reference_numbers": [
+      73,
+      74,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-6-5",
+    "exhibit_number": "6.5",
+    "title": "生产级大模型服务SLA合同精算条款、审计日志字段与端到端可靠性治理框架表",
+    "table_csv": "data/exhibits/exhibit-6-5.csv",
+    "rows": 5,
+    "columns": 4,
+    "source_variable": "CHAPTER_6_HTML",
+    "source_html_id": "",
+    "source_html_sha256": "3e5e8c0a8a389596f304a1fe343a770b3a49e06db927ed2f2a4d2ee22ac05b80",
+    "footer_original": "资料来源：阿里云百炼国际站SLA（2026年9月8日版） 85 、阿里云百炼审计日志与模型监控文档（2026年10月版） 86 、限流策略与平滑请求速率指南 87 、RIPE Atlas网络测量规范 88 ；介子九维（JIEZIJIUWEI）研究整理。",
+    "reference_numbers": [
+      85,
+      86,
+      87,
+      88
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-6-8",
+    "exhibit_number": "6.8",
+    "title": "中国四大供给节点对标海外三大市场的跨洋Token交付技术经济分析（TEA）与临界值反解表",
+    "table_csv": "data/exhibits/exhibit-6-8.csv",
+    "rows": 7,
+    "columns": 7,
+    "source_variable": "CHAPTER_6_HTML",
+    "source_html_id": "exhibit-6-8",
+    "source_html_sha256": "19983de868b76742da87e1975b9506807952b6861e7d96b131b0afa40d6e1a3b",
+    "footer_original": "注：完整 30 组情景明细及 SciPy.optimize.brentq 数值寻根反解结果见《M02_24加6情景交付成本与临界利用率矩阵.csv》与《M03B_SciPy_Brentq跨洋交付三维临界值反解表.csv》；跨洋算电联合凸优化（CVXPY SCS 求解器）对偶影子价格见《M04B_CVXPY跨洋算电联合调度最优分配表.csv》。来源：介子九维（JIEZIJIUWEI）技术经济与凸优化模型。",
+    "reference_numbers": []
+  },
+  {
+    "exhibit_id": "exhibit-7-1",
+    "exhibit_number": "7.1",
+    "title": "中国支撑Token出海的四大国家政策支柱、主管机关、核心量化目标与适用边界一览表",
+    "table_csv": "data/exhibits/exhibit-7-1.csv",
+    "rows": 4,
+    "columns": 5,
+    "source_variable": "CHAPTER_7_HTML",
+    "source_html_id": "",
+    "source_html_sha256": "8d0d6b1ff620570559a16662ced6104a2f34307e886151738da28cbbfaa75412",
+    "footer_original": "资料来源：中办国办《关于数字贸易改革创新发展的意见》、国家发改委（发改数据〔2023〕1779号）、国家能源局等四部门（国能发科技〔2026〕34号）、国家网信办令第16号 90 ；介子九维（JIEZIJIUWEI）研究整理。",
+    "reference_numbers": [
+      90
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-7-2",
+    "exhibit_number": "7.2",
+    "title": "Token出海全业务链条的电信与AI监管许可证映射、审批机关及外资试点条件表",
+    "table_csv": "data/exhibits/exhibit-7-2.csv",
+    "rows": 5,
+    "columns": 5,
+    "source_variable": "CHAPTER_7_HTML",
+    "source_html_id": "",
+    "source_html_sha256": "63a062ec7710280febb4cb19bcb88f2677649f604b73067f3e8fd4247059eb37",
+    "footer_original": "资料来源：《国际通信出入口局管理办法》（部令第22号）、《电信业务分类目录（2015年版/2019年修订）》、《电信业务经营许可管理办法》（工信部令第42号）、工信部2024增值电信扩大开放试点方案、《生成式人工智能服务管理暂行办法》 90 ；介子九维（JIEZIJIUWEI）研究整理。",
+    "reference_numbers": [
+      90
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-7-5",
+    "exhibit_number": "7.5",
+    "title": "上海自贸区、海南自贸港与广东汕头华侨试验区跨境数据及来数加工试点制度对照表",
+    "table_csv": "data/exhibits/exhibit-7-5.csv",
+    "rows": 3,
+    "columns": 5,
+    "source_variable": "CHAPTER_7_HTML",
+    "source_html_id": "",
+    "source_html_sha256": "4969530bd721cfcca66cc3884d94b1fc1f1c580f4e5f15863a6d9bb307147869",
+    "footer_original": "资料来源：上海市数据出境负面清单管理办法与操作指南（2026年4月版）、《中国（海南）自由贸易港数据出境管理清单（负面清单）》（2025年2月正式公布）、汕头华侨经济文化合作试验区来数加工科技团队激励措施（2025年11月施行）及国家数据局2026年8月数博会动态 90 ；介子九维（JIEZIJIUWEI）研究整理。",
+    "reference_numbers": [
+      90
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-8-2",
+    "exhibit_number": "8.2",
+    "title": "主要海外目标市场人工智能推理准入、个人数据跨境与主权合规规则对比表（10大重点法域）",
+    "table_csv": "data/exhibits/exhibit-8-2.csv",
+    "rows": 10,
+    "columns": 5,
+    "source_variable": "CHAPTER_8_HTML",
+    "source_html_id": "exhibit-8-matrix",
+    "source_html_sha256": "cc25b169d7de99ac72c17a8a831902c046687ae8da012bbfc2a867b6e19af4b5",
+    "footer_original": "来源：欧盟 GDPR、Regulation (EU) 2024/1689 & 2026/1744、DORA；美国 28 CFR Part 202；新加坡 S 86/2026；日本 PPC；马来西亚 JPDP Guidelines No. 3/2025；沙特 SDAIA 2024 v2.0；印尼 UU 27/2022；越南 Law 91/2025/QH15 & Decree 356/2025/ND-CP；印度 G.S.R. 843(E)/846(E) & RBI 2025 Directions；介子九维（JIEZIJIUWEI）整理 91~98 。",
+    "reference_numbers": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-8-3",
+    "exhibit_number": "8.3",
+    "title": "跨法域技术供应管制（美国 EAR §744.23）与三类“算力/模型/Token”跨境活动的法律适用边界对照表",
+    "table_csv": "data/exhibits/exhibit-8-3.csv",
+    "rows": 4,
+    "columns": 5,
+    "source_variable": "CHAPTER_8_HTML",
+    "source_html_id": "exhibit-8-2",
+    "source_html_sha256": "429459a773ff3b1445b454bd5686b56b44bc3a04a94cd3ef00e3d99f65919f77",
+    "footer_original": "来源：美国商务部 BIS 15 CFR §744.23、美国司法部 DOJ 28 CFR Part 202（§§202.205, 202.208, 202.211, 202.1103）；介子九维（JIEZIJIUWEI）跨法域合规模型整理 94, 99 。",
+    "reference_numbers": [
+      94,
+      99
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-8-4",
+    "exhibit_number": "8.4",
+    "title": "国内外代表性大模型 API 平台的数据处理角色、存储位置、模型改进开关与安全审计条款对照表",
+    "table_csv": "data/exhibits/exhibit-8-4.csv",
+    "rows": 4,
+    "columns": 4,
+    "source_variable": "CHAPTER_8_HTML",
+    "source_html_id": "exhibit-8-3",
+    "source_html_sha256": "a6fc577ba2ce378413dac4ec9e69e333c3289ee4c822bd5b3ce36e19ae187928",
+    "footer_original": "来源：DeepSeek Terms of Use (2026-03-27) & Privacy Policy (2026-02-10)、Anthropic Commercial Terms (2025-06-17) & DPA (2025-02-24)、Alibaba Cloud International Product Terms v3.8.0 (2026-09-23)；介子九维（JIEZIJIUWEI）法务条款对标整理 100 。",
+    "reference_numbers": [
+      100
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-8-5",
+    "exhibit_number": "8.5",
+    "title": "主流开放权重模型许可证（MIT / Apache 2.0 / Llama 4）与托管 API 权利条款及输出版权属性对照表",
+    "table_csv": "data/exhibits/exhibit-8-5.csv",
+    "rows": 5,
+    "columns": 6,
+    "source_variable": "CHAPTER_8_HTML",
+    "source_html_id": "exhibit-8-4",
+    "source_html_sha256": "57def67bada49193f9cca7da2d10d683e3d1b6b7767f63de9c8581a5a837e2db",
+    "footer_original": "来源：DeepSeek-R1 License、Qwen3 License、Apache License 2.0、Meta Llama 4 Community License (2025-04-05) & AUP (2026-10)、Alibaba Cloud International Product Terms §4.48.1 (2026-09-23)、U.S. Copyright Office (2025-01-29)；介子九维（JIEZIJIUWEI）知识产权与许可研究 99, 100 。",
+    "reference_numbers": [
+      99,
+      100
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-9-1",
+    "exhibit_number": "9.1",
+    "title": "中国算力与人工智能跨境交付的六大商业模式、计费标尺、资产结构与核心竞争壁垒对照表",
+    "table_csv": "data/exhibits/exhibit-9-1.csv",
+    "rows": 6,
+    "columns": 6,
+    "source_variable": "CHAPTER_9_HTML",
+    "source_html_id": "exhibit-9-1",
+    "source_html_sha256": "ccb958e8c0400bfc0dbf9710774405599a8724ab508c64283ef9e616634a973b",
+    "footer_original": "来源：DeepSeek API Docs、Alibaba Cloud Model Studio、Lambda、OpenRouter、Together AI、万国数据（GDS）及广东天亿马公告；介子九维（JIEZIJIUWEI）商业模式整理 101, 102, 103, 104, 105, 106 。",
+    "reference_numbers": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-9-5",
+    "exhibit_number": "9.5",
+    "title": "跨境 Token 交付全产业链六大环节的收费模式、成本刚性、利润率基准与议价权格局表",
+    "table_csv": "data/exhibits/exhibit-9-5.csv",
+    "rows": 6,
+    "columns": 6,
+    "source_variable": "CHAPTER_9_HTML",
+    "source_html_id": "exhibit-9-4",
+    "source_html_sha256": "1b864feaccbead9eaf566cb901288e7f67098f911aebb7b42917f2f064a8ad91",
+    "footer_original": "来源：OpenRouter Pricing、Lambda Instances、Cloudflare R2、万国数据（GDS）2025Q4 及 2026Q2 财报、广东天亿马公告（2026-063）；介子九维（JIEZIJIUWEI）产业链价值分配模型 103, 105, 106 。",
+    "reference_numbers": [
+      103,
+      105,
+      106
+    ]
+  },
+  {
+    "exhibit_id": "exhibit-9-9",
+    "exhibit_number": "9.9",
+    "title": "跨洋Token交付成本六大核心驱动因子的Sobol全局方差指数与指定单因素干预边际降本优先级排序表",
+    "table_csv": "data/exhibits/exhibit-9-9.csv",
+    "rows": 6,
+    "columns": 7,
+    "source_variable": "CHAPTER_9_HTML",
+    "source_html_id": "exhibit-9-9",
+    "source_html_sha256": "6ae6af889bf1b9d37ae67864aa94aabba4777c0f8fbaba08c7388a51afad1dc0",
+    "footer_original": "注：表中前四列全局方差敏感性指数源自《M03_Sobol全局方差敏感性指数表.csv》（基于固定随机种子 seed ＝ 20261015 的 32,768 组随机样本条件均值与 Jansen 数值估计），后三列源自《M06_边际改善措施影子价格与优先级排序表.csv》（在参考基准成本 $0.7064/1M Tokens、千节点集群年产 82.8 万亿合格 Token［52% 基准利用率］下，对 6 项不同物理幅度的单因素干预分别计算有限差分成本变化与年化节约额，非单位约束松弛的规划对偶值；在 M06 单次干预节约额排序中，通信费降低 40%［$1.49M/年］高于电价降低 20%［$0.72M/年］，表中按 M03 全局方差贡献 P1 至 P6 排列）。基于另一套六维参数区间与成本函数的 SALib Saltelli 28,672 次采样（固定随机种子 seed ＝ 20261018）结果见《M05B_SALib_Sobol全局敏感性与耦合交互效应表.csv》。来源：介子九维（JIEZIJIUWEI）全局敏感性与单因素有限差分模型。",
+    "reference_numbers": []
+  },
+  {
+    "exhibit_id": "exhibit-es-3",
+    "exhibit_number": "ES.3",
+    "title": "《中国绿色算力全球化交付体系与国际价值重构》全报告六篇十二章核心研究命题、数据基准与关键分析维度总览表",
+    "table_csv": "data/exhibits/exhibit-es-3.csv",
+    "rows": 12,
+    "columns": 5,
+    "source_variable": "EXEC_SUMMARY_HTML",
+    "source_html_id": "exhibit-es-2",
+    "source_html_sha256": "a951d39d1af932cbeb769991d8d1707cf5f1f4bcd3519dc05e6deacc1b561bbd",
+    "footer_original": "来源：介子九维（JIEZIJIUWEI）研究体系顶层设计，基于 2026 年 10 月最新国际宏观核算准则、各国官方统计公报与能源通信监管文件编制。",
+    "reference_numbers": []
+  }
+]

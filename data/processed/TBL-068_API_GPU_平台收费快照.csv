@@ -1,0 +1,25 @@
+﻿数据ID,产品或规则,数值,单位,时间,地域,适用范围,来源ID,原文位置,性质,检索日期
+C09-D001,DeepSeek-V4.1-Flash OFF-PEAK 缓存命中输入,0.003,USD/百万Token,2026-10-15快照,计费地域未在本页注明,按官方对应价格格录入；峰时为非中国节假日周一至周五UTC 01—04及06—10；执行地点另证,C09-S001,Model Details—PRICING,企业标价,2026-10-15
+C09-D002,DeepSeek-V4.1-Flash OFF-PEAK 缓存未命中输入,0.15,USD/百万Token,2026-10-15快照,计费地域未在本页注明,按官方对应价格格录入；峰时为非中国节假日周一至周五UTC 01—04及06—10；执行地点另证,C09-S001,Model Details—PRICING,企业标价,2026-10-15
+C09-D003,DeepSeek-V4.1-Flash OFF-PEAK 输出,0.6,USD/百万Token,2026-10-15快照,计费地域未在本页注明,按官方对应价格格录入；峰时为非中国节假日周一至周五UTC 01—04及06—10；执行地点另证,C09-S001,Model Details—PRICING,企业标价,2026-10-15
+C09-D004,DeepSeek-V4.1-Flash PEAK 缓存命中输入,0.006,USD/百万Token,2026-10-15快照,计费地域未在本页注明,按官方对应价格格录入；峰时为非中国节假日周一至周五UTC 01—04及06—10；执行地点另证,C09-S001,Model Details—PRICING,企业标价,2026-10-15
+C09-D005,DeepSeek-V4.1-Flash PEAK 缓存未命中输入,0.3,USD/百万Token,2026-10-15快照,计费地域未在本页注明,按官方对应价格格录入；峰时为非中国节假日周一至周五UTC 01—04及06—10；执行地点另证,C09-S001,Model Details—PRICING,企业标价,2026-10-15
+C09-D006,DeepSeek-V4.1-Flash PEAK 输出,1.2,USD/百万Token,2026-10-15快照,计费地域未在本页注明,按官方对应价格格录入；峰时为非中国节假日周一至周五UTC 01—04及06—10；执行地点另证,C09-S001,Model Details—PRICING,企业标价,2026-10-15
+C09-D007,DeepSeek-V4-Pro-0813 OFF-PEAK 缓存命中输入,0.022,USD/百万Token,2026-10-15快照,计费地域未在本页注明,按官方对应价格格录入；峰时为非中国节假日周一至周五UTC 01—04及06—10；执行地点另证,C09-S001,Model Details—PRICING,企业标价,2026-10-15
+C09-D008,DeepSeek-V4-Pro-0813 OFF-PEAK 缓存未命中输入,0.66,USD/百万Token,2026-10-15快照,计费地域未在本页注明,按官方对应价格格录入；峰时为非中国节假日周一至周五UTC 01—04及06—10；执行地点另证,C09-S001,Model Details—PRICING,企业标价,2026-10-15
+C09-D009,DeepSeek-V4-Pro-0813 OFF-PEAK 输出,1.98,USD/百万Token,2026-10-15快照,计费地域未在本页注明,按官方对应价格格录入；峰时为非中国节假日周一至周五UTC 01—04及06—10；执行地点另证,C09-S001,Model Details—PRICING,企业标价,2026-10-15
+C09-D010,DeepSeek-V4-Pro-0813 PEAK 缓存命中输入,0.044,USD/百万Token,2026-10-15快照,计费地域未在本页注明,按官方对应价格格录入；峰时为非中国节假日周一至周五UTC 01—04及06—10；执行地点另证,C09-S001,Model Details—PRICING,企业标价,2026-10-15
+C09-D011,DeepSeek-V4-Pro-0813 PEAK 缓存未命中输入,1.32,USD/百万Token,2026-10-15快照,计费地域未在本页注明,按官方对应价格格录入；峰时为非中国节假日周一至周五UTC 01—04及06—10；执行地点另证,C09-S001,Model Details—PRICING,企业标价,2026-10-15
+C09-D012,DeepSeek-V4-Pro-0813 PEAK 输出,3.96,USD/百万Token,2026-10-15快照,计费地域未在本页注明,按官方对应价格格录入；峰时为非中国节假日周一至周五UTC 01—04及06—10；执行地点另证,C09-S001,Model Details—PRICING,企业标价,2026-10-15
+C09-D014,qwen3.8-max-0902 Singapore / International 输入,2,USD/百万Token,2026-10-13更新；10-15获取,Singapore / International,输入区间0<Token≤1M；标准价；执行范围另按地域文档核验,C09-S002,Qwen-Max—地域子表对应模型行,企业标价,2026-10-15
+C09-D015,qwen3.8-max-0902 Singapore / International 输出,6,USD/百万Token,2026-10-13更新；10-15获取,Singapore / International,输入区间0<Token≤1M；标准价；执行范围另按地域文档核验,C09-S002,Qwen-Max—地域子表对应模型行,企业标价,2026-10-15
+C09-D016,qwen3.8-max-0902 China (Beijing) 输入,1.65,USD/百万Token,2026-10-13更新；10-15获取,China (Beijing),输入区间0<Token≤1M；标准价；执行范围另按地域文档核验,C09-S002,Qwen-Max—地域子表对应模型行,企业标价,2026-10-15
+C09-D017,qwen3.8-max-0902 China (Beijing) 输出,4.951,USD/百万Token,2026-10-13更新；10-15获取,China (Beijing),输入区间0<Token≤1M；标准价；执行范围另按地域文档核验,C09-S002,Qwen-Max—地域子表对应模型行,企业标价,2026-10-15
+C09-D018,支持批处理模型的输入输出价格比例,0.5,实时价的倍数,2026-10-13,Alibaba Model Studio,仅限支持batch的模型；与context cache折扣互斥,C09-S002,Text generation—Qwen说明,原文核实,2026-10-15
+C09-D019,Lambda 1卡实例 H100 SXM 80GB,4.29,USD/GPU·小时,2026-10-15快照,实例地域/容量需另核,1卡实例的每GPU单价；税另加；运行即计费,C09-S005;C09-S006,On-demand 1x表,企业标价,2026-10-15
+C09-D020,Lambda 8卡实例 H100 SXM 80GB,3.99,USD/GPU·小时,2026-10-15快照,实例地域/容量需另核,8卡实例的每GPU单价；税另加；运行即计费,C09-S005;C09-S006,On-demand 8x表,企业标价,2026-10-15
+C09-D021,Lambda 1卡实例 B200 SXM6 180GB,6.99,USD/GPU·小时,2026-10-15快照,实例地域/容量需另核,1卡实例的每GPU单价；税另加；运行即计费,C09-S005;C09-S006,On-demand 1x表,企业标价,2026-10-15
+C09-D022,Lambda 8卡实例 B200 SXM6 180GB,6.69,USD/GPU·小时,2026-10-15快照,实例地域/容量需另核,8卡实例的每GPU单价；税另加；运行即计费,C09-S005;C09-S006,On-demand 8x表,企业标价,2026-10-15
+C09-D024,OpenRouter Standard充值平台费,5.5,%,2026-10-15快照,OpenRouter,购买credits时收取；推理按provider列表价扣除,C09-S007,Platform fees; Billing and Pricing,企业收费条款,2026-10-15
+C09-D025,OpenRouter Business充值平台费,8,%,2026-10-15快照,OpenRouter,购买credits时收取；推理按provider列表价扣除,C09-S007,Platform fees; Billing and Pricing,企业收费条款,2026-10-15
+C09-D026,OpenRouter Standard/Business BYOK免费额度,25000,USD列表推理价/月,2026-10-15快照,OpenRouter,以list-price inference金额计；超过后按等价列表请求费用5%收费,C09-S007,BYOK Limits,原文核实,2026-10-15

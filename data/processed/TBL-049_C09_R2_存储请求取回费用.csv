@@ -1,0 +1,13 @@
+﻿storage_class,metric,value,unit,snapshot,source_id,locator,scope
+Standard,Storage,0.015,USD/GB-month,2026-10-15,C09-S016,R2 pricing / Minimum storage duration,Free/None显式按0表示；其他网络/产品费用不在此表；免费额度只适用Standard
+Standard,Class A,4.5,USD/million requests,2026-10-15,C09-S016,R2 pricing / Minimum storage duration,Free/None显式按0表示；其他网络/产品费用不在此表；免费额度只适用Standard
+Standard,Class B,0.36,USD/million requests,2026-10-15,C09-S016,R2 pricing / Minimum storage duration,Free/None显式按0表示；其他网络/产品费用不在此表；免费额度只适用Standard
+Standard,Data Retrieval,0,USD/GB,2026-10-15,C09-S016,R2 pricing / Minimum storage duration,Free/None显式按0表示；其他网络/产品费用不在此表；免费额度只适用Standard
+Standard,Internet Egress,0,USD/GB,2026-10-15,C09-S016,R2 pricing / Minimum storage duration,Free/None显式按0表示；其他网络/产品费用不在此表；免费额度只适用Standard
+Standard,Minimum duration,0,days,2026-10-15,C09-S016,R2 pricing / Minimum storage duration,Free/None显式按0表示；其他网络/产品费用不在此表；免费额度只适用Standard
+Infrequent Access,Storage,0.01,USD/GB-month,2026-10-15,C09-S016,R2 pricing / Minimum storage duration,Free/None显式按0表示；其他网络/产品费用不在此表；免费额度只适用Standard
+Infrequent Access,Class A,9,USD/million requests,2026-10-15,C09-S016,R2 pricing / Minimum storage duration,Free/None显式按0表示；其他网络/产品费用不在此表；免费额度只适用Standard
+Infrequent Access,Class B,0.9,USD/million requests,2026-10-15,C09-S016,R2 pricing / Minimum storage duration,Free/None显式按0表示；其他网络/产品费用不在此表；免费额度只适用Standard
+Infrequent Access,Data Retrieval,0.01,USD/GB,2026-10-15,C09-S016,R2 pricing / Minimum storage duration,Free/None显式按0表示；其他网络/产品费用不在此表；免费额度只适用Standard
+Infrequent Access,Internet Egress,0,USD/GB,2026-10-15,C09-S016,R2 pricing / Minimum storage duration,Free/None显式按0表示；其他网络/产品费用不在此表；免费额度只适用Standard
+Infrequent Access,Minimum duration,30,days,2026-10-15,C09-S016,R2 pricing / Minimum storage duration,Free/None显式按0表示；其他网络/产品费用不在此表；免费额度只适用Standard

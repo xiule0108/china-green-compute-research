@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="625.515781pt" height="307.811969pt" viewBox="0 0 625.515781 307.811969" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-17T00:56:03.420533</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 307.811969 
+L 625.515781 307.811969 
+L 625.515781 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 121.515781 273.528 
+L 612.555781 273.528 
+L 612.555781 12.96 
+L 121.515781 12.96 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p9925e05b02)">
+    <image xlink:href="data:image/png;base64,
+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" id="imageb00d29783c" transform="scale(1 -1) translate(0 -260.64)" x="121.68" y="-12.611969" width="491.04" height="260.64"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="mdb42fcd288" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#mdb42fcd288" x="170.619781" y="273.528" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(143.019781 286.6)">受控国家批量敏感</text>
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(146.469781 293.5)">数据禁令与限制</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#mdb42fcd288" x="268.827781" y="273.528" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(241.227781 286.6)">出境前置影响评估</text>
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(244.677781 293.5)">与政府报备时限</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#mdb42fcd288" x="367.035781" y="273.528" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(343.630766 286.6)">金融/医疗/政务</text>
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(342.885781 293.907531)">行业本地化强度</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mdb42fcd288" x="465.243781" y="273.528" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(437.643781 286.6)">明文云处理与政府</text>
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(443.163781 293.5)">访问审查 (TIA)</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#mdb42fcd288" x="563.451781" y="273.528" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(536.193547 286.6)">AI生成物机器可读</text>
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(539.301781 293.5)">标识与版权合规</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <path d="M 121.515781 273.528 
+L 121.515781 12.96 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <path d="M 219.723781 273.528 
+L 219.723781 12.96 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_8">
+      <path d="M 317.931781 273.528 
+L 317.931781 12.96 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_9">
+      <path d="M 416.139781 273.528 
+L 416.139781 12.96 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_10">
+      <path d="M 514.347781 273.528 
+L 514.347781 12.96 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_11">
+      <path d="M 612.555781 273.528 
+L 612.555781 12.96 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_12">
+      <defs>
+       <path id="m5da0f8fd6a" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m5da0f8fd6a" x="121.515781" y="25.9884" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0f2537" x="114.515781" y="29.0684" transform="rotate(-0 114.515781 29.0684)">美国 (DOJ DSP 28 CFR 202)</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m5da0f8fd6a" x="121.515781" y="52.0452" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0f2537" x="114.515781" y="55.1252" transform="rotate(-0 114.515781 55.1252)">欧盟 (GDPR / AI Act / DORA)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m5da0f8fd6a" x="121.515781" y="78.102" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0f2537" x="114.515781" y="81.182" transform="rotate(-0 114.515781 81.182)">越南 (2026个人数据法/356号令)</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m5da0f8fd6a" x="121.515781" y="104.1588" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0f2537" x="114.515781" y="107.2388" transform="rotate(-0 114.515781 107.2388)">印度 (DPDP法 / RBI银行外包令)</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m5da0f8fd6a" x="121.515781" y="130.2156" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0f2537" x="114.515781" y="133.2956" transform="rotate(-0 114.515781 133.2956)">印尼 (PDP法 2024.10全面生效)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m5da0f8fd6a" x="121.515781" y="156.2724" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0f2537" x="114.515781" y="159.3524" transform="rotate(-0 114.515781 159.3524)">沙特 (PDPL 2024跨境转移规则)</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m5da0f8fd6a" x="121.515781" y="182.3292" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0f2537" x="114.515781" y="185.4092" transform="rotate(-0 114.515781 185.4092)">韩国 (PIPA 境外远程访问告知)</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m5da0f8fd6a" x="121.515781" y="208.386" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0f2537" x="114.515781" y="211.466" transform="rotate(-0 114.515781 211.466)">日本 (APPI 第28条相当措施)</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m5da0f8fd6a" x="121.515781" y="234.4428" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0f2537" x="114.515781" y="237.5228" transform="rotate(-0 114.515781 237.5228)">马来西亚 (2025.04跨境传输指引)</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m5da0f8fd6a" x="121.515781" y="260.4996" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #0f2537" x="114.515781" y="263.5796" transform="rotate(-0 114.515781 263.5796)">新加坡 (PDPA 可比保护标准)</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_22">
+      <path d="M 121.515781 12.96 
+L 612.555781 12.96 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_23">
+      <path d="M 121.515781 39.0168 
+L 612.555781 39.0168 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_24">
+      <path d="M 121.515781 65.0736 
+L 612.555781 65.0736 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_25">
+      <path d="M 121.515781 91.1304 
+L 612.555781 91.1304 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_26">
+      <path d="M 121.515781 117.1872 
+L 612.555781 117.1872 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_27">
+      <path d="M 121.515781 143.244 
+L 612.555781 143.244 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_28">
+      <path d="M 121.515781 169.3008 
+L 612.555781 169.3008 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_29">
+      <path d="M 121.515781 195.3576 
+L 612.555781 195.3576 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_30">
+      <path d="M 121.515781 221.4144 
+L 612.555781 221.4144 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_31">
+      <path d="M 121.515781 247.4712 
+L 612.555781 247.4712 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_32">
+      <path d="M 121.515781 273.528 
+L 612.555781 273.528 
+" clip-path="url(#p9925e05b02)" style="fill: none; stroke: #ffffff; stroke-width: 1.8; stroke-linecap: square"/>
+     </g>
+    </g>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="170.619781" y="28.4584" transform="rotate(-0 170.619781 28.4584)">5级 · 刚性禁令</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="268.827781" y="28.4584" transform="rotate(-0 268.827781 28.4584)">4级 · 强监管</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="367.035781" y="28.4584" transform="rotate(-0 367.035781 28.4584)">4级 · 强监管</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="465.243781" y="28.4584" transform="rotate(-0 465.243781 28.4584)">5级 · 刚性禁令</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="563.451781" y="28.4584" transform="rotate(-0 563.451781 28.4584)">3级 · 专项评估</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="170.619781" y="54.5152" transform="rotate(-0 170.619781 54.5152)">3级 · 专项评估</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="268.827781" y="54.5152" transform="rotate(-0 268.827781 54.5152)">4级 · 强监管</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="367.035781" y="54.5152" transform="rotate(-0 367.035781 54.5152)">5级 · 刚性禁令</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="465.243781" y="54.5152" transform="rotate(-0 465.243781 54.5152)">5级 · 刚性禁令</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="563.451781" y="54.5152" transform="rotate(-0 563.451781 54.5152)">5级 · 刚性禁令</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="170.619781" y="80.572" transform="rotate(-0 170.619781 80.572)">3级 · 专项评估</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="268.827781" y="80.572" transform="rotate(-0 268.827781 80.572)">5级 · 刚性禁令</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="367.035781" y="80.572" transform="rotate(-0 367.035781 80.572)">4级 · 强监管</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="465.243781" y="80.572" transform="rotate(-0 465.243781 80.572)">3级 · 专项评估</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="563.451781" y="80.572" transform="rotate(-0 563.451781 80.572)">2级 · 标准合同</text>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="170.619781" y="106.6288" transform="rotate(-0 170.619781 106.6288)">3级 · 专项评估</text>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="268.827781" y="106.6288" transform="rotate(-0 268.827781 106.6288)">4级 · 强监管</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="367.035781" y="106.6288" transform="rotate(-0 367.035781 106.6288)">5级 · 刚性禁令</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="465.243781" y="106.6288" transform="rotate(-0 465.243781 106.6288)">4级 · 强监管</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="563.451781" y="106.6288" transform="rotate(-0 563.451781 106.6288)">2级 · 标准合同</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="170.619781" y="132.6856" transform="rotate(-0 170.619781 132.6856)">2级 · 标准合同</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="268.827781" y="132.6856" transform="rotate(-0 268.827781 132.6856)">4级 · 强监管</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="367.035781" y="132.6856" transform="rotate(-0 367.035781 132.6856)">3级 · 专项评估</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="465.243781" y="132.6856" transform="rotate(-0 465.243781 132.6856)">3级 · 专项评估</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="563.451781" y="132.6856" transform="rotate(-0 563.451781 132.6856)">2级 · 标准合同</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="170.619781" y="158.7424" transform="rotate(-0 170.619781 158.7424)">3级 · 专项评估</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="268.827781" y="158.7424" transform="rotate(-0 268.827781 158.7424)">4级 · 强监管</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="367.035781" y="158.7424" transform="rotate(-0 367.035781 158.7424)">4级 · 强监管</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="465.243781" y="158.7424" transform="rotate(-0 465.243781 158.7424)">3级 · 专项评估</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="563.451781" y="158.7424" transform="rotate(-0 563.451781 158.7424)">2级 · 标准合同</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="170.619781" y="184.7992" transform="rotate(-0 170.619781 184.7992)">2级 · 标准合同</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="268.827781" y="184.7992" transform="rotate(-0 268.827781 184.7992)">3级 · 专项评估</text>
+   </g>
+   <g id="text_48">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="367.035781" y="184.7992" transform="rotate(-0 367.035781 184.7992)">3级 · 专项评估</text>
+   </g>
+   <g id="text_49">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="465.243781" y="184.7992" transform="rotate(-0 465.243781 184.7992)">3级 · 专项评估</text>
+   </g>
+   <g id="text_50">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="563.451781" y="184.7992" transform="rotate(-0 563.451781 184.7992)">3级 · 专项评估</text>
+   </g>
+   <g id="text_51">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="170.619781" y="210.856" transform="rotate(-0 170.619781 210.856)">2级 · 标准合同</text>
+   </g>
+   <g id="text_52">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="268.827781" y="210.856" transform="rotate(-0 268.827781 210.856)">3级 · 专项评估</text>
+   </g>
+   <g id="text_53">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="367.035781" y="210.856" transform="rotate(-0 367.035781 210.856)">3级 · 专项评估</text>
+   </g>
+   <g id="text_54">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="465.243781" y="210.856" transform="rotate(-0 465.243781 210.856)">3级 · 专项评估</text>
+   </g>
+   <g id="text_55">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="563.451781" y="210.856" transform="rotate(-0 563.451781 210.856)">2级 · 标准合同</text>
+   </g>
+   <g id="text_56">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="170.619781" y="236.9128" transform="rotate(-0 170.619781 236.9128)">1级 · 极低摩擦</text>
+   </g>
+   <g id="text_57">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="268.827781" y="236.9128" transform="rotate(-0 268.827781 236.9128)">2级 · 标准合同</text>
+   </g>
+   <g id="text_58">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="367.035781" y="236.9128" transform="rotate(-0 367.035781 236.9128)">2级 · 标准合同</text>
+   </g>
+   <g id="text_59">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="465.243781" y="236.9128" transform="rotate(-0 465.243781 236.9128)">2级 · 标准合同</text>
+   </g>
+   <g id="text_60">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="563.451781" y="236.9128" transform="rotate(-0 563.451781 236.9128)">2级 · 标准合同</text>
+   </g>
+   <g id="text_61">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="170.619781" y="262.9696" transform="rotate(-0 170.619781 262.9696)">1级 · 极低摩擦</text>
+   </g>
+   <g id="text_62">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="268.827781" y="262.9696" transform="rotate(-0 268.827781 262.9696)">2级 · 标准合同</text>
+   </g>
+   <g id="text_63">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="367.035781" y="262.9696" transform="rotate(-0 367.035781 262.9696)">2级 · 标准合同</text>
+   </g>
+   <g id="text_64">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="465.243781" y="262.9696" transform="rotate(-0 465.243781 262.9696)">2级 · 标准合同</text>
+   </g>
+   <g id="text_65">
+    <text style="font-size: 6.5px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="563.451781" y="262.9696" transform="rotate(-0 563.451781 262.9696)">2级 · 标准合同</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9925e05b02">
+   <rect x="121.515781" y="12.96" width="491.04" height="260.568"/>
+  </clipPath>
+ </defs>
+</svg>

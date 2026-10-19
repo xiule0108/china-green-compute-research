@@ -1,0 +1,29 @@
+﻿model,input_usd_per_1m_tokens,cached_input_usd_per_1m_tokens,output_usd_per_1m_tokens,input_original,output_original,source_id,locator,snapshot_date,scope
+MiniMax M3,0.30,0.06,1.20,$0.30 $0.06 (cached),$1.20,C09-S013,第1张Serverless Inference表第1行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Kimi K3,3.00,0.30,15.00,$3.00 $0.30 (cached),$15.00,C09-S013,第1张Serverless Inference表第2行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Qwen3.8-2.4T-A95B,2.00,0.25,6.00,$2.00 $0.25 (cached),$6.00,C09-S013,第1张Serverless Inference表第3行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Muse Glimmer 30B,0.35,0.04,1.50,$0.35 $0.04 (cached),$1.50,C09-S013,第1张Serverless Inference表第4行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+DeepSeek V4 Pro 0813,1.32,0.13,3.96,$1.32 $0.13 (cached),$3.96,C09-S013,第1张Serverless Inference表第5行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+GLM-5.3,1.40,0.26,4.40,$1.40 $0.26 (cached),$4.40,C09-S013,第1张Serverless Inference表第6行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+GLM-5.3-Flash,0.15,0.03,0.50,$0.15 $0.03 (cached),$0.50,C09-S013,第1张Serverless Inference表第7行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+DeepSeek V4.1 Flash,0.30,0.006,1.20,$0.30 $0.006 (cached),$1.20,C09-S013,第1张Serverless Inference表第8行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Tev1 4B Experimental,0.04,,0,$0.04,Free,C09-S013,第1张Serverless Inference表第9行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Gemma 4 31B,0.39,,0.97,$0.39,$0.97,C09-S013,第1张Serverless Inference表第10行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Qwen3.7-Plus,0.32,,1.28,$0.32,$1.28,C09-S013,第1张Serverless Inference表第11行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+GLM-5.2,1.40,0.26,4.40,$1.40 $0.26 (cached),$4.40,C09-S013,第1张Serverless Inference表第12行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Ternary Bonsai 27B,0.00,,0.00,$0.00,$0.00,C09-S013,第1张Serverless Inference表第13行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Inkling,1.00,0.17,4.05,$1.00 $0.17 (cached),$4.05,C09-S013,第1张Serverless Inference表第14行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+DeepSeek V4 Flash 0731,0.14,0.03,0.28,$0.14 $0.03 (cached),$0.28,C09-S013,第1张Serverless Inference表第15行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Qwen3.8 Flash,0.15,,0.47,$0.15,$0.47,C09-S013,第1张Serverless Inference表第16行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Qwen3.7-Max,1.50,0.30,4.50,$1.50 $0.30 (cached),$4.50,C09-S013,第1张Serverless Inference表第17行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+gpt-oss-120B,0.15,,0.60,$0.15,$0.60,C09-S013,第1张Serverless Inference表第18行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Qwen3.5-397B-A17B,0.60,0.35,3.60,$0.60 $0.35 (cached),$3.60,C09-S013,第1张Serverless Inference表第19行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Qwen3.5 9B,0.17,,0.25,$0.17,$0.25,C09-S013,第1张Serverless Inference表第20行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Cogito v2.1 671B,1.25,,1.25,$1.25,$1.25,C09-S013,第1张Serverless Inference表第21行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Rnj-1 Instruct,0.15,,0.15,$0.15,$0.15,C09-S013,第1张Serverless Inference表第22行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Llama 3.3 70B,1.04,,1.04,$1.04,$1.04,C09-S013,第1张Serverless Inference表第23行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+MiniMax M2.7,0.30,0.06,1.20,$0.30 $0.06 (cached),$1.20,C09-S013,第1张Serverless Inference表第24行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Qwen3.6-Plus,0.50,,3.00,$0.50,$3.00,C09-S013,第1张Serverless Inference表第25行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Qwen2.5 7B Instruct Turbo,0.30,,0.30,$0.30,$0.30,C09-S013,第1张Serverless Inference表第26行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Llama 3 8B Instruct Lite,0.14,,0.14,$0.14,$0.14,C09-S013,第1张Serverless Inference表第27行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例
+Qwen3 235B A22B Instruct 2507 FP8 Throughput,0.20,,0.60,$0.20,$0.60,C09-S013,第1张Serverless Inference表第28行,2026-10-15,公开serverless文字模型单价；缓存空值表示该格未列，不代表免费；不含其他模态/专用实例

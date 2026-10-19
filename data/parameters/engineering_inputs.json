@@ -1,0 +1,513 @@
+{
+  "run_engineering_partial_identification": {
+    "p_active_kw": 10.2,
+    "p_idle_kw": 3.2,
+    "hours_yr": 8760.0,
+    "tokens_per_it_kwh_low": 1.45,
+    "tokens_per_it_kwh_high": 2.25,
+    "clusters": [
+      {
+        "cluster": "宁夏中卫算力枢纽集群（2026H1已投运基数）",
+        "disclosed_scale": "33.1万标准机架（2.5kW/架折算，总IT功率827.5MW）；智算算力26.37万PFLOPS（FP16稀疏）",
+        "pue": 1.2,
+        "it_power_mw_cap": 827.5,
+        "ai_share_bounds": {
+          "__tuple__": [
+            0.55,
+            0.72
+          ]
+        },
+        "rack_shelf_rate_bounds": {
+          "__tuple__": [
+            0.68,
+            0.82
+          ]
+        },
+        "active_u_bounds": {
+          "__tuple__": [
+            0.38,
+            0.64
+          ]
+        },
+        "tariff_rmb_kwh": 0.335
+      },
+      {
+        "cluster": "甘肃庆阳“东数西算”园区（2026H1已投运基数）",
+        "disclosed_scale": "10.2万标准机架（总IT功率255.0MW）；智算算力18.55万PFLOPS",
+        "pue": 1.2,
+        "it_power_mw_cap": 255.0,
+        "ai_share_bounds": {
+          "__tuple__": [
+            0.65,
+            0.8
+          ]
+        },
+        "rack_shelf_rate_bounds": {
+          "__tuple__": [
+            0.65,
+            0.78
+          ]
+        },
+        "active_u_bounds": {
+          "__tuple__": [
+            0.35,
+            0.6
+          ]
+        },
+        "tariff_rmb_kwh": 0.338
+      },
+      {
+        "cluster": "内蒙古和林格尔新区枢纽集群（余热制冷改造标杆）",
+        "disclosed_scale": "B02等核心智算机楼群（折算IT功率450.0MW）；实测PUE由1.315降至1.209",
+        "pue": 1.209,
+        "it_power_mw_cap": 450.0,
+        "ai_share_bounds": {
+          "__tuple__": [
+            0.58,
+            0.75
+          ]
+        },
+        "rack_shelf_rate_bounds": {
+          "__tuple__": [
+            0.7,
+            0.84
+          ]
+        },
+        "active_u_bounds": {
+          "__tuple__": [
+            0.42,
+            0.68
+          ]
+        },
+        "tariff_rmb_kwh": 0.312
+      },
+      {
+        "cluster": "万国数据（GDS）全国在运营机房组合（2026Q2财报披露）",
+        "disclosed_scale": "签约与计费面积高稼动率组合（2025年稼动率75.5%，2026Q2升至79.2%；Q2营业成本24.24亿元）",
+        "pue": 1.27,
+        "it_power_mw_cap": 920.0,
+        "ai_share_bounds": {
+          "__tuple__": [
+            0.45,
+            0.62
+          ]
+        },
+        "rack_shelf_rate_bounds": {
+          "__tuple__": [
+            0.755,
+            0.792
+          ]
+        },
+        "active_u_bounds": {
+          "__tuple__": [
+            0.48,
+            0.71
+          ]
+        },
+        "tariff_rmb_kwh": 0.565
+      },
+      {
+        "cluster": "广东汕头华侨试验区1号词元工厂（首期已投运基数）",
+        "disclosed_scale": "首期2,000P算力底座（2026年5月启动，9月部分投产；折算IT功率约4.8MW）",
+        "pue": 1.25,
+        "it_power_mw_cap": 4.8,
+        "ai_share_bounds": {
+          "__tuple__": [
+            0.85,
+            0.95
+          ]
+        },
+        "rack_shelf_rate_bounds": {
+          "__tuple__": [
+            0.6,
+            0.85
+          ]
+        },
+        "active_u_bounds": {
+          "__tuple__": [
+            0.32,
+            0.65
+          ]
+        },
+        "tariff_rmb_kwh": 0.618
+      }
+    ]
+  },
+  "run_24_plus_6_tea_and_thresholds": {
+    "p_idle_kw": 3.2,
+    "hours_yr": 8760.0,
+    "nodes": [
+      {
+        "node_id": "N1_NW",
+        "node_name": "西北风光储枢纽（宁夏中卫/甘肃庆阳）",
+        "elec_usd_kwh": 0.047,
+        "pue": 1.2,
+        "hw_fac_capex_yr_usd": 49500.0,
+        "ref_utilization": 0.65,
+        "co2_kg_kwh": 0.4471
+      },
+      {
+        "node_id": "N2_SW",
+        "node_name": "西南水电与陆缆枢纽（云南昆明）",
+        "elec_usd_kwh": 0.052,
+        "pue": 1.23,
+        "hw_fac_capex_yr_usd": 50800.0,
+        "ref_utilization": 0.62,
+        "co2_kg_kwh": 0.1333
+      },
+      {
+        "node_id": "N3_GD",
+        "node_name": "华南沿海海缆门户（广东汕头/深圳）",
+        "elec_usd_kwh": 0.087,
+        "pue": 1.25,
+        "hw_fac_capex_yr_usd": 54200.0,
+        "ref_utilization": 0.72,
+        "co2_kg_kwh": 0.395
+      },
+      {
+        "node_id": "N4_HN",
+        "node_name": "自贸港跨境合规枢纽（海南海口/文昌）",
+        "elec_usd_kwh": 0.089,
+        "pue": 1.26,
+        "hw_fac_capex_yr_usd": 54800.0,
+        "ref_utilization": 0.6,
+        "co2_kg_kwh": 0.412
+      }
+    ],
+    "overseas_baselines": {
+      "M1_SEA": {
+        "market_name": "东南亚（新加坡本地节点对照）",
+        "elec_usd_kwh": 0.215,
+        "pue": 1.32,
+        "hw_fac_capex_yr_usd": 68500.0,
+        "ref_utilization": 0.7,
+        "rtt_ms": 4.0,
+        "net_var_usd_per_1m": 0.008,
+        "comp_var_usd_per_1m": 0.015
+      },
+      "M2_MEA": {
+        "market_name": "中东（阿联酋迪拜/沙特利雅得对照）",
+        "elec_usd_kwh": 0.082,
+        "pue": 1.38,
+        "hw_fac_capex_yr_usd": 66000.0,
+        "ref_utilization": 0.58,
+        "rtt_ms": 6.0,
+        "net_var_usd_per_1m": 0.012,
+        "comp_var_usd_per_1m": 0.018
+      },
+      "M3_US_EU": {
+        "market_name": "欧美（美东弗吉尼亚/法兰克福对照）",
+        "elec_usd_kwh": 0.125,
+        "pue": 1.24,
+        "hw_fac_capex_yr_usd": 65000.0,
+        "ref_utilization": 0.72,
+        "rtt_ms": 5.0,
+        "net_var_usd_per_1m": 0.008,
+        "comp_var_usd_per_1m": 0.016
+      }
+    },
+    "routes": {
+      "__pairs__": [
+        [
+          {
+            "__tuple__": [
+              "N1_NW",
+              "M1_SEA"
+            ]
+          },
+          {
+            "__tuple__": [
+              68.0,
+              0.036,
+              0.02,
+              "中卫/庆阳→广州/南宁出入口→SJC2/SEA-H2X→SGIX"
+            ]
+          }
+        ],
+        [
+          {
+            "__tuple__": [
+              "N1_NW",
+              "M2_MEA"
+            ]
+          },
+          {
+            "__tuple__": [
+              118.0,
+              0.052,
+              0.025,
+              "中卫/庆阳→霍尔果斯陆缆或香港AAE-1→迪拜/利雅得"
+            ]
+          }
+        ],
+        [
+          {
+            "__tuple__": [
+              "N1_NW",
+              "M3_US_EU"
+            ]
+          },
+          {
+            "__tuple__": [
+              182.0,
+              0.068,
+              0.038,
+              "中卫/庆阳→上海/青岛出入口→跨太海缆或亚欧陆缆→欧美"
+            ]
+          }
+        ],
+        [
+          {
+            "__tuple__": [
+              "N2_SW",
+              "M1_SEA"
+            ]
+          },
+          {
+            "__tuple__": [
+              26.0,
+              0.022,
+              0.018,
+              "昆明出入口→中老泰跨境陆缆走廊（20ms圈）→曼谷/新加坡"
+            ]
+          }
+        ],
+        [
+          {
+            "__tuple__": [
+              "N2_SW",
+              "M2_MEA"
+            ]
+          },
+          {
+            "__tuple__": [
+              108.0,
+              0.045,
+              0.024,
+              "昆明出入口→中缅/中巴跨境陆缆或AAE-1→迪拜"
+            ]
+          }
+        ],
+        [
+          {
+            "__tuple__": [
+              "N2_SW",
+              "M3_US_EU"
+            ]
+          },
+          {
+            "__tuple__": [
+              176.0,
+              0.065,
+              0.038,
+              "昆明→广州/上海出入口→跨太海缆或AAE-1→法兰克福/美东"
+            ]
+          }
+        ],
+        [
+          {
+            "__tuple__": [
+              "N3_GD",
+              "M1_SEA"
+            ]
+          },
+          {
+            "__tuple__": [
+              34.0,
+              0.018,
+              0.016,
+              "汕头/深圳→香港将军澳/舂坎角→SJC2/ALC海缆直达新加坡"
+            ]
+          }
+        ],
+        [
+          {
+            "__tuple__": [
+              "N3_GD",
+              "M2_MEA"
+            ]
+          },
+          {
+            "__tuple__": [
+              96.0,
+              0.038,
+              0.022,
+              "汕头/深圳→香港→AAE-1/PEACE海缆直达阿联酋/沙特"
+            ]
+          }
+        ],
+        [
+          {
+            "__tuple__": [
+              "N3_GD",
+              "M3_US_EU"
+            ]
+          },
+          {
+            "__tuple__": [
+              152.0,
+              0.054,
+              0.034,
+              "汕头/深圳→香港/上海→跨太海缆或AAE-1至马赛/美东"
+            ]
+          }
+        ],
+        [
+          {
+            "__tuple__": [
+              "N4_HN",
+              "M1_SEA"
+            ]
+          },
+          {
+            "__tuple__": [
+              32.0,
+              0.016,
+              0.014,
+              "海口出入口/陵水登陆站→ALC/SEA-H2X海缆直达新加坡"
+            ]
+          }
+        ],
+        [
+          {
+            "__tuple__": [
+              "N4_HN",
+              "M2_MEA"
+            ]
+          },
+          {
+            "__tuple__": [
+              94.0,
+              0.036,
+              0.018,
+              "海口/文昌→香港/新加坡中转→AAE-1直达中东"
+            ]
+          }
+        ],
+        [
+          {
+            "__tuple__": [
+              "N4_HN",
+              "M3_US_EU"
+            ]
+          },
+          {
+            "__tuple__": [
+              158.0,
+              0.055,
+              0.028,
+              "海口自贸港来数加工通道→ALC/跨太海缆→欧美"
+            ]
+          }
+        ]
+      ]
+    },
+    "tasks": [
+      {
+        "task_id": "T1_BATCH",
+        "task_name": "标准任务A：异步批量与高吞吐处理（k=1，TTFT≤3.0s）",
+        "q_max_m_tokens": 173448.0,
+        "dynamic_it_kwh_per_1m": 0.3535
+      },
+      {
+        "task_id": "T2_INTERACTIVE",
+        "task_name": "标准任务B：实时交互与多步Agent推理（k=5，TTFT≤0.8s）",
+        "q_max_m_tokens": 98112.0,
+        "dynamic_it_kwh_per_1m": 0.625
+      }
+    ]
+  },
+  "run_lmdi_sobol_shadow_and_rebound": {
+    "n_samples": 32768,
+    "param_names": [
+      "有效业务利用率 (u：30%至85%)",
+      "年化硬件与机房资本成本 (CapEx：4.5万至7.5万美元/节点年)",
+      "KV缓存命中率与工程效率 (η：15%至80%)",
+      "综合到户电价 (p_elec：0.042至0.220美元/kWh)",
+      "跨境通信与端口费率 (p_net：0.010至0.085美元/百万Token)",
+      "机房电能利用效率 (PUE：1.15至1.42)"
+    ],
+    "bounds_ordered": [
+      {
+        "__tuple__": [
+          0.3,
+          0.85
+        ]
+      },
+      {
+        "__tuple__": [
+          45000.0,
+          75000.0
+        ]
+      },
+      {
+        "__tuple__": [
+          0.15,
+          0.8
+        ]
+      },
+      {
+        "__tuple__": [
+          0.042,
+          0.22
+        ]
+      },
+      {
+        "__tuple__": [
+          0.01,
+          0.085
+        ]
+      },
+      {
+        "__tuple__": [
+          1.15,
+          1.42
+        ]
+      }
+    ],
+    "E0__ET": {
+      "__tuple__": [
+        102.0,
+        277.0
+      ]
+    },
+    "io_rows": [
+      {
+        "mode": "模式A：进口高端算力硬件纯IaaS裸金属出租（Imported Hardware Bare-Metal IaaS）",
+        "imported_hw_cloud_leakage_pct": 68.5,
+        "domestic_green_power_grid_pct": 14.0,
+        "domestic_telecom_gateway_pct": 0.0,
+        "domestic_aidc_engineering_pct": 7.5,
+        "domestic_model_rd_ops_pct": 10.0,
+        "total_domestic_value_added_pct": 31.5
+      },
+      {
+        "mode": "模式B：进口/混合算力集群+跨境标准Token API直连（Cross-Border Standard Token API）",
+        "imported_hw_cloud_leakage_pct": 42.0,
+        "domestic_green_power_grid_pct": 16.5,
+        "domestic_telecom_gateway_pct": 0.0,
+        "domestic_aidc_engineering_pct": 8.5,
+        "domestic_model_rd_ops_pct": 33.0,
+        "total_domestic_value_added_pct": 58.0
+      },
+      {
+        "mode": "模式C：海外边缘合规前店+西部绿电算力后厂+垂直行业Agent交付（Front-Shop Back-Factory Agent）",
+        "imported_hw_cloud_leakage_pct": 31.0,
+        "domestic_green_power_grid_pct": 17.5,
+        "domestic_telecom_gateway_pct": 3.5,
+        "domestic_aidc_engineering_pct": 6.5,
+        "domestic_model_rd_ops_pct": 41.5,
+        "total_domestic_value_added_pct": 69.0
+      },
+      {
+        "mode": "模式D：全国产自主推理NPU集群+西部/西南清洁电力+本土开源基座模型（Indigenous NPU & Green Power）",
+        "imported_hw_cloud_leakage_pct": 11.5,
+        "domestic_green_power_grid_pct": 18.0,
+        "domestic_telecom_gateway_pct": 0.0,
+        "domestic_aidc_engineering_pct": 33.5,
+        "domestic_model_rd_ops_pct": 37.0,
+        "total_domestic_value_added_pct": 88.5
+      }
+    ]
+  }
+}

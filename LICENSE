@@ -1,0 +1,12 @@
+Mixed-license repository / 分层许可
+
+Copyright (c) 2026 介子九维 (JIEZIJIUWEI)
+
+Source code in src/ and tools/: MIT License (LICENSES/MIT.txt).
+Original report, curated data, figures and documentation: CC BY-NC 4.0,
+subject to source-specific exceptions and third-party rights.
+IEA Annex A derived data and identified adaptations: CC BY-NC-SA 4.0.
+
+See LICENSES/LICENSE-SCOPE.md for the exact scope and attribution.
+Code may be used commercially under MIT. This does not grant commercial
+rights in separately licensed report content, data or figures.

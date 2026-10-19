@@ -1,0 +1,525 @@
+script,function,parameter_group,parameter_file,original_script,original_line,expression,value_json
+src/models_engineering.py,run_engineering_partial_identification,p_active_kw,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,31,10.2,10.2
+src/models_engineering.py,run_engineering_partial_identification,p_idle_kw,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,32,3.2,3.2
+src/models_engineering.py,run_engineering_partial_identification,hours_yr,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,33,8760.0,8760.0
+src/models_engineering.py,run_engineering_partial_identification,tokens_per_it_kwh_low,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,34,1.45,1.45
+src/models_engineering.py,run_engineering_partial_identification,tokens_per_it_kwh_high,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,35,2.25,2.25
+src/models_engineering.py,run_engineering_partial_identification,clusters,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,37,"[
+        {
+            ""cluster"": ""宁夏中卫算力枢纽集群（2026H1已投运基数）"",
+            ""disclosed_scale"": ""33.1万标准机架（2.5kW/架折算，总IT功率827.5MW）；智算算力26.37万PFLOPS（FP16稀疏）"",
+            ""pue"": 1.20,
+            ""it_power_mw_cap"": 827.5,
+            ""ai_share_bounds"": (0.55, 0.72),
+            ""rack_shelf_rate_bounds"": (0.68, 0.82),
+            ""active_u_bounds"": (0.38, 0.64),
+            ""tariff_rmb_kwh"": 0.335,
+        },
+        {
+            ""cluster"": ""甘肃庆阳“东数西算”园区（2026H1已投运基数）"",
+            ""disclosed_scale"": ""10.2万标准机架（总IT功率255.0MW）；智算算力18.55万PFLOPS"",
+            ""pue"": 1.20,
+            ""it_power_mw_cap"": 255.0,
+            ""ai_share_bounds"": (0.65, 0.80),
+            ""rack_shelf_rate_bounds"": (0.65, 0.78),
+            ""active_u_bounds"": (0.35, 0.60),
+            ""tariff_rmb_kwh"": 0.338,
+        },
+        {
+            ""cluster"": ""内蒙古和林格尔新区枢纽集群（余热制冷改造标杆）"",
+            ""disclosed_scale"": ""B02等核心智算机楼群（折算IT功率450.0MW）；实测PUE由1.315降至1.209"",
+            ""pue"": 1.209,
+            ""it_power_mw_cap"": 450.0,
+            ""ai_share_bounds"": (0.58, 0.75),
+            ""rack_shelf_rate_bounds"": (0.70, 0.84),
+            ""active_u_bounds"": (0.42, 0.68),
+            ""tariff_rmb_kwh"": 0.312,
+        },
+        {
+            ""cluster"": ""万国数据（GDS）全国在运营机房组合（2026Q2财报披露）"",
+            ""disclosed_scale"": ""签约与计费面积高稼动率组合（2025年稼动率75.5%，2026Q2升至79.2%；Q2营业成本24.24亿元）"",
+            ""pue"": 1.27,
+            ""it_power_mw_cap"": 920.0,
+            ""ai_share_bounds"": (0.45, 0.62),
+            ""rack_shelf_rate_bounds"": (0.755, 0.792),
+            ""active_u_bounds"": (0.48, 0.71),
+            ""tariff_rmb_kwh"": 0.565,
+        },
+        {
+            ""cluster"": ""广东汕头华侨试验区1号词元工厂（首期已投运基数）"",
+            ""disclosed_scale"": ""首期2,000P算力底座（2026年5月启动，9月部分投产；折算IT功率约4.8MW）"",
+            ""pue"": 1.25,
+            ""it_power_mw_cap"": 4.8,
+            ""ai_share_bounds"": (0.85, 0.95),
+            ""rack_shelf_rate_bounds"": (0.60, 0.85),
+            ""active_u_bounds"": (0.32, 0.65),
+            ""tariff_rmb_kwh"": 0.618,
+        },
+    ]","[{""cluster"": ""宁夏中卫算力枢纽集群（2026H1已投运基数）"", ""disclosed_scale"": ""33.1万标准机架（2.5kW/架折算，总IT功率827.5MW）；智算算力26.37万PFLOPS（FP16稀疏）"", ""pue"": 1.2, ""it_power_mw_cap"": 827.5, ""ai_share_bounds"": {""__tuple__"": [0.55, 0.72]}, ""rack_shelf_rate_bounds"": {""__tuple__"": [0.68, 0.82]}, ""active_u_bounds"": {""__tuple__"": [0.38, 0.64]}, ""tariff_rmb_kwh"": 0.335}, {""cluster"": ""甘肃庆阳“东数西算”园区（2026H1已投运基数）"", ""disclosed_scale"": ""10.2万标准机架（总IT功率255.0MW）；智算算力18.55万PFLOPS"", ""pue"": 1.2, ""it_power_mw_cap"": 255.0, ""ai_share_bounds"": {""__tuple__"": [0.65, 0.8]}, ""rack_shelf_rate_bounds"": {""__tuple__"": [0.65, 0.78]}, ""active_u_bounds"": {""__tuple__"": [0.35, 0.6]}, ""tariff_rmb_kwh"": 0.338}, {""cluster"": ""内蒙古和林格尔新区枢纽集群（余热制冷改造标杆）"", ""disclosed_scale"": ""B02等核心智算机楼群（折算IT功率450.0MW）；实测PUE由1.315降至1.209"", ""pue"": 1.209, ""it_power_mw_cap"": 450.0, ""ai_share_bounds"": {""__tuple__"": [0.58, 0.75]}, ""rack_shelf_rate_bounds"": {""__tuple__"": [0.7, 0.84]}, ""active_u_bounds"": {""__tuple__"": [0.42, 0.68]}, ""tariff_rmb_kwh"": 0.312}, {""cluster"": ""万国数据（GDS）全国在运营机房组合（2026Q2财报披露）"", ""disclosed_scale"": ""签约与计费面积高稼动率组合（2025年稼动率75.5%，2026Q2升至79.2%；Q2营业成本24.24亿元）"", ""pue"": 1.27, ""it_power_mw_cap"": 920.0, ""ai_share_bounds"": {""__tuple__"": [0.45, 0.62]}, ""rack_shelf_rate_bounds"": {""__tuple__"": [0.755, 0.792]}, ""active_u_bounds"": {""__tuple__"": [0.48, 0.71]}, ""tariff_rmb_kwh"": 0.565}, {""cluster"": ""广东汕头华侨试验区1号词元工厂（首期已投运基数）"", ""disclosed_scale"": ""首期2,000P算力底座（2026年5月启动，9月部分投产；折算IT功率约4.8MW）"", ""pue"": 1.25, ""it_power_mw_cap"": 4.8, ""ai_share_bounds"": {""__tuple__"": [0.85, 0.95]}, ""rack_shelf_rate_bounds"": {""__tuple__"": [0.6, 0.85]}, ""active_u_bounds"": {""__tuple__"": [0.32, 0.65]}, ""tariff_rmb_kwh"": 0.618}]"
+src/models_engineering.py,run_24_plus_6_tea_and_thresholds,p_idle_kw,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,144,3.2,3.2
+src/models_engineering.py,run_24_plus_6_tea_and_thresholds,hours_yr,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,145,8760.0,8760.0
+src/models_engineering.py,run_24_plus_6_tea_and_thresholds,nodes,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,147,"[
+        {
+            ""node_id"": ""N1_NW"",
+            ""node_name"": ""西北风光储枢纽（宁夏中卫/甘肃庆阳）"",
+            ""elec_usd_kwh"": 0.047,
+            ""pue"": 1.20,
+            ""hw_fac_capex_yr_usd"": 49500.0,
+            ""ref_utilization"": 0.65,
+            ""co2_kg_kwh"": 0.4471,
+        },
+        {
+            ""node_id"": ""N2_SW"",
+            ""node_name"": ""西南水电与陆缆枢纽（云南昆明）"",
+            ""elec_usd_kwh"": 0.052,
+            ""pue"": 1.23,
+            ""hw_fac_capex_yr_usd"": 50800.0,
+            ""ref_utilization"": 0.62,
+            ""co2_kg_kwh"": 0.1333,
+        },
+        {
+            ""node_id"": ""N3_GD"",
+            ""node_name"": ""华南沿海海缆门户（广东汕头/深圳）"",
+            ""elec_usd_kwh"": 0.087,
+            ""pue"": 1.25,
+            ""hw_fac_capex_yr_usd"": 54200.0,
+            ""ref_utilization"": 0.72,
+            ""co2_kg_kwh"": 0.3950,
+        },
+        {
+            ""node_id"": ""N4_HN"",
+            ""node_name"": ""自贸港跨境合规枢纽（海南海口/文昌）"",
+            ""elec_usd_kwh"": 0.089,
+            ""pue"": 1.26,
+            ""hw_fac_capex_yr_usd"": 54800.0,
+            ""ref_utilization"": 0.60,
+            ""co2_kg_kwh"": 0.4120,
+        },
+    ]","[{""node_id"": ""N1_NW"", ""node_name"": ""西北风光储枢纽（宁夏中卫/甘肃庆阳）"", ""elec_usd_kwh"": 0.047, ""pue"": 1.2, ""hw_fac_capex_yr_usd"": 49500.0, ""ref_utilization"": 0.65, ""co2_kg_kwh"": 0.4471}, {""node_id"": ""N2_SW"", ""node_name"": ""西南水电与陆缆枢纽（云南昆明）"", ""elec_usd_kwh"": 0.052, ""pue"": 1.23, ""hw_fac_capex_yr_usd"": 50800.0, ""ref_utilization"": 0.62, ""co2_kg_kwh"": 0.1333}, {""node_id"": ""N3_GD"", ""node_name"": ""华南沿海海缆门户（广东汕头/深圳）"", ""elec_usd_kwh"": 0.087, ""pue"": 1.25, ""hw_fac_capex_yr_usd"": 54200.0, ""ref_utilization"": 0.72, ""co2_kg_kwh"": 0.395}, {""node_id"": ""N4_HN"", ""node_name"": ""自贸港跨境合规枢纽（海南海口/文昌）"", ""elec_usd_kwh"": 0.089, ""pue"": 1.26, ""hw_fac_capex_yr_usd"": 54800.0, ""ref_utilization"": 0.6, ""co2_kg_kwh"": 0.412}]"
+src/models_engineering.py,run_24_plus_6_tea_and_thresholds,overseas_baselines,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,186,"{
+        ""M1_SEA"": {
+            ""market_name"": ""东南亚（新加坡本地节点对照）"",
+            ""elec_usd_kwh"": 0.215,
+            ""pue"": 1.32,
+            ""hw_fac_capex_yr_usd"": 68500.0,
+            ""ref_utilization"": 0.70,
+            ""rtt_ms"": 4.0,
+            ""net_var_usd_per_1m"": 0.008,
+            ""comp_var_usd_per_1m"": 0.015,
+        },
+        ""M2_MEA"": {
+            ""market_name"": ""中东（阿联酋迪拜/沙特利雅得对照）"",
+            ""elec_usd_kwh"": 0.082,
+            ""pue"": 1.38,
+            ""hw_fac_capex_yr_usd"": 66000.0,
+            ""ref_utilization"": 0.58,
+            ""rtt_ms"": 6.0,
+            ""net_var_usd_per_1m"": 0.012,
+            ""comp_var_usd_per_1m"": 0.018,
+        },
+        ""M3_US_EU"": {
+            ""market_name"": ""欧美（美东弗吉尼亚/法兰克福对照）"",
+            ""elec_usd_kwh"": 0.125,
+            ""pue"": 1.24,
+            ""hw_fac_capex_yr_usd"": 65000.0,
+            ""ref_utilization"": 0.72,
+            ""rtt_ms"": 5.0,
+            ""net_var_usd_per_1m"": 0.008,
+            ""comp_var_usd_per_1m"": 0.016,
+        },
+    }","{""M1_SEA"": {""market_name"": ""东南亚（新加坡本地节点对照）"", ""elec_usd_kwh"": 0.215, ""pue"": 1.32, ""hw_fac_capex_yr_usd"": 68500.0, ""ref_utilization"": 0.7, ""rtt_ms"": 4.0, ""net_var_usd_per_1m"": 0.008, ""comp_var_usd_per_1m"": 0.015}, ""M2_MEA"": {""market_name"": ""中东（阿联酋迪拜/沙特利雅得对照）"", ""elec_usd_kwh"": 0.082, ""pue"": 1.38, ""hw_fac_capex_yr_usd"": 66000.0, ""ref_utilization"": 0.58, ""rtt_ms"": 6.0, ""net_var_usd_per_1m"": 0.012, ""comp_var_usd_per_1m"": 0.018}, ""M3_US_EU"": {""market_name"": ""欧美（美东弗吉尼亚/法兰克福对照）"", ""elec_usd_kwh"": 0.125, ""pue"": 1.24, ""hw_fac_capex_yr_usd"": 65000.0, ""ref_utilization"": 0.72, ""rtt_ms"": 5.0, ""net_var_usd_per_1m"": 0.008, ""comp_var_usd_per_1m"": 0.016}}"
+src/models_engineering.py,run_24_plus_6_tea_and_thresholds,routes,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,219,"{
+        (""N1_NW"", ""M1_SEA""): (68.0, 0.036, 0.020, ""中卫/庆阳→广州/南宁出入口→SJC2/SEA-H2X→SGIX""),
+        (""N1_NW"", ""M2_MEA""): (118.0, 0.052, 0.025, ""中卫/庆阳→霍尔果斯陆缆或香港AAE-1→迪拜/利雅得""),
+        (""N1_NW"", ""M3_US_EU""): (182.0, 0.068, 0.038, ""中卫/庆阳→上海/青岛出入口→跨太海缆或亚欧陆缆→欧美""),
+        (""N2_SW"", ""M1_SEA""): (26.0, 0.022, 0.018, ""昆明出入口→中老泰跨境陆缆走廊（20ms圈）→曼谷/新加坡""),
+        (""N2_SW"", ""M2_MEA""): (108.0, 0.045, 0.024, ""昆明出入口→中缅/中巴跨境陆缆或AAE-1→迪拜""),
+        (""N2_SW"", ""M3_US_EU""): (176.0, 0.065, 0.038, ""昆明→广州/上海出入口→跨太海缆或AAE-1→法兰克福/美东""),
+        (""N3_GD"", ""M1_SEA""): (34.0, 0.018, 0.016, ""汕头/深圳→香港将军澳/舂坎角→SJC2/ALC海缆直达新加坡""),
+        (""N3_GD"", ""M2_MEA""): (96.0, 0.038, 0.022, ""汕头/深圳→香港→AAE-1/PEACE海缆直达阿联酋/沙特""),
+        (""N3_GD"", ""M3_US_EU""): (152.0, 0.054, 0.034, ""汕头/深圳→香港/上海→跨太海缆或AAE-1至马赛/美东""),
+        (""N4_HN"", ""M1_SEA""): (32.0, 0.016, 0.014, ""海口出入口/陵水登陆站→ALC/SEA-H2X海缆直达新加坡""),
+        (""N4_HN"", ""M2_MEA""): (94.0, 0.036, 0.018, ""海口/文昌→香港/新加坡中转→AAE-1直达中东""),
+        (""N4_HN"", ""M3_US_EU""): (158.0, 0.055, 0.028, ""海口自贸港来数加工通道→ALC/跨太海缆→欧美""),
+    }","{""__pairs__"": [[{""__tuple__"": [""N1_NW"", ""M1_SEA""]}, {""__tuple__"": [68.0, 0.036, 0.02, ""中卫/庆阳→广州/南宁出入口→SJC2/SEA-H2X→SGIX""]}], [{""__tuple__"": [""N1_NW"", ""M2_MEA""]}, {""__tuple__"": [118.0, 0.052, 0.025, ""中卫/庆阳→霍尔果斯陆缆或香港AAE-1→迪拜/利雅得""]}], [{""__tuple__"": [""N1_NW"", ""M3_US_EU""]}, {""__tuple__"": [182.0, 0.068, 0.038, ""中卫/庆阳→上海/青岛出入口→跨太海缆或亚欧陆缆→欧美""]}], [{""__tuple__"": [""N2_SW"", ""M1_SEA""]}, {""__tuple__"": [26.0, 0.022, 0.018, ""昆明出入口→中老泰跨境陆缆走廊（20ms圈）→曼谷/新加坡""]}], [{""__tuple__"": [""N2_SW"", ""M2_MEA""]}, {""__tuple__"": [108.0, 0.045, 0.024, ""昆明出入口→中缅/中巴跨境陆缆或AAE-1→迪拜""]}], [{""__tuple__"": [""N2_SW"", ""M3_US_EU""]}, {""__tuple__"": [176.0, 0.065, 0.038, ""昆明→广州/上海出入口→跨太海缆或AAE-1→法兰克福/美东""]}], [{""__tuple__"": [""N3_GD"", ""M1_SEA""]}, {""__tuple__"": [34.0, 0.018, 0.016, ""汕头/深圳→香港将军澳/舂坎角→SJC2/ALC海缆直达新加坡""]}], [{""__tuple__"": [""N3_GD"", ""M2_MEA""]}, {""__tuple__"": [96.0, 0.038, 0.022, ""汕头/深圳→香港→AAE-1/PEACE海缆直达阿联酋/沙特""]}], [{""__tuple__"": [""N3_GD"", ""M3_US_EU""]}, {""__tuple__"": [152.0, 0.054, 0.034, ""汕头/深圳→香港/上海→跨太海缆或AAE-1至马赛/美东""]}], [{""__tuple__"": [""N4_HN"", ""M1_SEA""]}, {""__tuple__"": [32.0, 0.016, 0.014, ""海口出入口/陵水登陆站→ALC/SEA-H2X海缆直达新加坡""]}], [{""__tuple__"": [""N4_HN"", ""M2_MEA""]}, {""__tuple__"": [94.0, 0.036, 0.018, ""海口/文昌→香港/新加坡中转→AAE-1直达中东""]}], [{""__tuple__"": [""N4_HN"", ""M3_US_EU""]}, {""__tuple__"": [158.0, 0.055, 0.028, ""海口自贸港来数加工通道→ALC/跨太海缆→欧美""]}]]}"
+src/models_engineering.py,run_24_plus_6_tea_and_thresholds,tasks,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,234,"[
+        {
+            ""task_id"": ""T1_BATCH"",
+            ""task_name"": ""标准任务A：异步批量与高吞吐处理（k=1，TTFT≤3.0s）"",
+            ""q_max_m_tokens"": 173448.0,
+            ""dynamic_it_kwh_per_1m"": 0.3535,
+        },
+        {
+            ""task_id"": ""T2_INTERACTIVE"",
+            ""task_name"": ""标准任务B：实时交互与多步Agent推理（k=5，TTFT≤0.8s）"",
+            ""q_max_m_tokens"": 98112.0,
+            ""dynamic_it_kwh_per_1m"": 0.6250,
+        },
+    ]","[{""task_id"": ""T1_BATCH"", ""task_name"": ""标准任务A：异步批量与高吞吐处理（k=1，TTFT≤3.0s）"", ""q_max_m_tokens"": 173448.0, ""dynamic_it_kwh_per_1m"": 0.3535}, {""task_id"": ""T2_INTERACTIVE"", ""task_name"": ""标准任务B：实时交互与多步Agent推理（k=5，TTFT≤0.8s）"", ""q_max_m_tokens"": 98112.0, ""dynamic_it_kwh_per_1m"": 0.625}]"
+src/models_engineering.py,run_lmdi_sobol_shadow_and_rebound,n_samples,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,355,32768,32768
+src/models_engineering.py,run_lmdi_sobol_shadow_and_rebound,param_names,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,356,"[
+        ""有效业务利用率 (u：30%至85%)"",
+        ""年化硬件与机房资本成本 (CapEx：4.5万至7.5万美元/节点年)"",
+        ""KV缓存命中率与工程效率 (η：15%至80%)"",
+        ""综合到户电价 (p_elec：0.042至0.220美元/kWh)"",
+        ""跨境通信与端口费率 (p_net：0.010至0.085美元/百万Token)"",
+        ""机房电能利用效率 (PUE：1.15至1.42)"",
+    ]","[""有效业务利用率 (u：30%至85%)"", ""年化硬件与机房资本成本 (CapEx：4.5万至7.5万美元/节点年)"", ""KV缓存命中率与工程效率 (η：15%至80%)"", ""综合到户电价 (p_elec：0.042至0.220美元/kWh)"", ""跨境通信与端口费率 (p_net：0.010至0.085美元/百万Token)"", ""机房电能利用效率 (PUE：1.15至1.42)""]"
+src/models_engineering.py,run_lmdi_sobol_shadow_and_rebound,bounds_ordered,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,364,"[
+        (0.30, 0.85),       # u
+        (45000.0, 75000.0), # CapEx $/node-yr
+        (0.15, 0.80),       # eta KV cache hit rate
+        (0.042, 0.220),     # p_elec $/kWh
+        (0.010, 0.085),     # p_net $/1M tokens
+        (1.15, 1.42),       # PUE
+    ]","[{""__tuple__"": [0.3, 0.85]}, {""__tuple__"": [45000.0, 75000.0]}, {""__tuple__"": [0.15, 0.8]}, {""__tuple__"": [0.042, 0.22]}, {""__tuple__"": [0.01, 0.085]}, {""__tuple__"": [1.15, 1.42]}]"
+src/models_engineering.py,run_lmdi_sobol_shadow_and_rebound,E0__ET,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,485,"102.0, 277.0","{""__tuple__"": [102.0, 277.0]}"
+src/models_engineering.py,run_lmdi_sobol_shadow_and_rebound,io_rows,data/parameters/engineering_inputs.json,run_moat_methodology_models.py,530,"[
+        {
+            ""mode"": ""模式一：境外云算力租用与纯API转售（Asset-Light Overseas Cloud）"",
+            ""imported_hw_cloud_leakage_pct"": 68.5,
+            ""domestic_green_power_grid_pct"": 0.0,
+            ""domestic_telecom_gateway_pct"": 2.5,
+            ""domestic_aidc_engineering_pct"": 0.0,
+            ""domestic_model_rd_ops_pct"": 29.0,
+            ""total_domestic_value_added_pct"": 31.5,
+        },
+        {
+            ""mode"": ""模式二：沿海中心进口算力集群直连出海（Coastal Imported GPU Cluster）"",
+            ""imported_hw_cloud_leakage_pct"": 42.0,
+            ""domestic_green_power_grid_pct"": 11.5,
+            ""domestic_telecom_gateway_pct"": 7.5,
+            ""domestic_aidc_engineering_pct"": 14.0,
+            ""domestic_model_rd_ops_pct"": 25.0,
+            ""total_domestic_value_added_pct"": 58.0,
+        },
+        {
+            ""mode"": ""模式三：西部绿电枢纽+沿海海缆门户协同推理（West-East Green Compute Synergy）"",
+            ""imported_hw_cloud_leakage_pct"": 31.0,
+            ""domestic_green_power_grid_pct"": 16.5,
+            ""domestic_telecom_gateway_pct"": 9.5,
+            ""domestic_aidc_engineering_pct"": 16.0,
+            ""domestic_model_rd_ops_pct"": 27.0,
+            ""total_domestic_value_added_pct"": 69.0,
+        },
+        {
+            ""mode"": ""模式四：国产推理集群+西部绿电直连+自贸港来数加工（Indigenous Compute & Green Power）"",
+            ""imported_hw_cloud_leakage_pct"": 11.5,
+            ""domestic_green_power_grid_pct"": 19.0,
+            ""domestic_telecom_gateway_pct"": 9.0,
+            ""domestic_aidc_engineering_pct"": 21.5,
+            ""domestic_model_rd_ops_pct"": 39.0,
+            ""total_domestic_value_added_pct"": 88.5,
+        },
+    ]","[{""mode"": ""模式A：进口高端算力硬件纯IaaS裸金属出租（Imported Hardware Bare-Metal IaaS）"", ""imported_hw_cloud_leakage_pct"": 68.5, ""domestic_green_power_grid_pct"": 14.0, ""domestic_telecom_gateway_pct"": 0.0, ""domestic_aidc_engineering_pct"": 7.5, ""domestic_model_rd_ops_pct"": 10.0, ""total_domestic_value_added_pct"": 31.5}, {""mode"": ""模式B：进口/混合算力集群+跨境标准Token API直连（Cross-Border Standard Token API）"", ""imported_hw_cloud_leakage_pct"": 42.0, ""domestic_green_power_grid_pct"": 16.5, ""domestic_telecom_gateway_pct"": 0.0, ""domestic_aidc_engineering_pct"": 8.5, ""domestic_model_rd_ops_pct"": 33.0, ""total_domestic_value_added_pct"": 58.0}, {""mode"": ""模式C：海外边缘合规前店+西部绿电算力后厂+垂直行业Agent交付（Front-Shop Back-Factory Agent）"", ""imported_hw_cloud_leakage_pct"": 31.0, ""domestic_green_power_grid_pct"": 17.5, ""domestic_telecom_gateway_pct"": 3.5, ""domestic_aidc_engineering_pct"": 6.5, ""domestic_model_rd_ops_pct"": 41.5, ""total_domestic_value_added_pct"": 69.0}, {""mode"": ""模式D：全国产自主推理NPU集群+西部/西南清洁电力+本土开源基座模型（Indigenous NPU & Green Power）"", ""imported_hw_cloud_leakage_pct"": 11.5, ""domestic_green_power_grid_pct"": 18.0, ""domestic_telecom_gateway_pct"": 0.0, ""domestic_aidc_engineering_pct"": 33.5, ""domestic_model_rd_ops_pct"": 37.0, ""total_domestic_value_added_pct"": 88.5}]"
+src/models_analytics.py,run_model1_policy_identity_inversion,E_tot_24__E_it_24,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,172,"102.0, 68.0","{""__tuple__"": [102.0, 68.0]}"
+src/models_analytics.py,run_model1_policy_identity_inversion,E_tot_30__E_it_30,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,173,"277.0, 205.0","{""__tuple__"": [277.0, 205.0]}"
+src/models_analytics.py,run_model1_policy_identity_inversion,pue_new_policy,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,184,1.22,1.22
+src/models_analytics.py,run_model1_policy_identity_inversion,western_surplus_twh,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,194,371.89,371.89
+src/models_analytics.py,run_model1_policy_identity_inversion,aidc_allocable_twh,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,196,118.50,118.5
+src/models_analytics.py,run_model1_policy_identity_inversion,kwh_per_1m_tokens,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,199,0.31,0.31
+src/models_analytics.py,run_model2_kaya_lmdi_decomposition,E0__E1,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,237,"102.0, 277.0","{""__tuple__"": [102.0, 277.0]}"
+src/models_analytics.py,run_model2_kaya_lmdi_decomposition,Q0__Q1,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,241,"100.0, 1120.0","{""__tuple__"": [100.0, 1120.0]}"
+src/models_analytics.py,run_model2_kaya_lmdi_decomposition,S0__S1,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,242,"1.00, 1.34","{""__tuple__"": [1.0, 1.34]}"
+src/models_analytics.py,run_model2_kaya_lmdi_decomposition,PUE0__PUE1,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,243,"102.0 / 68.0, 277.0 / 205.0","{""__tuple__"": [1.5, 1.351219512195122]}"
+src/models_analytics.py,run_model2_kaya_lmdi_decomposition,ef0__ef1,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,256,"0.5306, 0.2480","{""__tuple__"": [0.5306, 0.248]}"
+src/models_analytics.py,run_model3_scipy_brentq_breakeven,pe_node_map,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,352,"{
+        ""西北风光储枢纽（宁夏中卫/甘肃庆阳）"": 0.305,
+        ""西南水电与陆缆枢纽（云南昆明）"": 0.335,
+        ""华南沿海海缆门户（广东汕头/深圳）"": 0.580,
+        ""自贸港跨境合规枢纽（海南海口/文昌）"": 0.610,
+    }","{""西北风光储枢纽（宁夏中卫/甘肃庆阳）"": 0.305, ""西南水电与陆缆枢纽（云南昆明）"": 0.335, ""华南沿海海缆门户（广东汕头/深圳）"": 0.58, ""自贸港跨境合规枢纽（海南海口/文昌）"": 0.61}"
+src/models_analytics.py,run_model4_cvxpy_convex_optimization,nodes,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,424,"[
+        ""西北风光储枢纽（宁夏中卫/甘肃庆阳）"",
+        ""西南水电与陆缆枢纽（云南昆明）"",
+        ""华南沿海海缆门户（广东汕头/深圳）"",
+        ""自贸港跨境合规枢纽（海南海口/文昌）"",
+    ]","[""西北风光储枢纽（宁夏中卫/甘肃庆阳）"", ""西南水电与陆缆枢纽（云南昆明）"", ""华南沿海海缆门户（广东汕头/深圳）"", ""自贸港跨境合规枢纽（海南海口/文昌）""]"
+src/models_analytics.py,run_model4_cvxpy_convex_optimization,markets,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,430,"[""东南亚"", ""中东"", ""欧美""]","[""东南亚"", ""中东"", ""欧美""]"
+src/models_analytics.py,run_model4_cvxpy_convex_optimization,modes,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,431,"[
+        ""标准任务A：异步批量与高吞吐处理（k=1，TTFT≤3.0s）"",
+        ""标准任务B：实时交互与多步Agent推理（k=5，TTFT≤0.8s）"",
+    ]","[""标准任务A：异步批量与高吞吐处理（k=1，TTFT≤3.0s）"", ""标准任务B：实时交互与多步Agent推理（k=5，TTFT≤0.8s）""]"
+src/models_analytics.py,run_model4_cvxpy_convex_optimization,Green_direct_ratio,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,441,"[0.86, 0.92, 0.62, 0.74]","[0.86, 0.92, 0.62, 0.74]"
+src/models_analytics.py,run_model4_cvxpy_convex_optimization,D_mkt,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,454,"[
+            [42.0 * 0.58, 42.0 * 0.42],  # 东南亚: 24.36T Batch, 17.64T Interactive
+            [23.0 * 0.62, 23.0 * 0.38],  # 中东: 14.26T Batch, 8.74T Interactive
+            [35.0 * 0.68, 35.0 * 0.32],  # 欧美: 23.80T Batch, 11.20T Interactive
+        ]","[[24.36, 17.64], [14.26, 8.74], [23.8, 11.200000000000001]]"
+src/models_analytics.py,run_model4_cvxpy_convex_optimization,Cap_node,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,464,"[38.0, 24.0, 26.0, 18.0]","[38.0, 24.0, 26.0, 18.0]"
+src/models_analytics.py,run_model5_salib_sobol_and_monte_carlo,problem,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,523,"{
+        ""num_vars"": 6,
+        ""names"": [
+            ""utilization_u"",
+            ""kv_cache_hit_eta"",
+            ""electricity_price_pe"",
+            ""hw_capex_mult"",
+            ""network_tariff_mult"",
+            ""facility_pue"",
+        ],
+        ""bounds"": [
+            [0.35, 0.88],  # 1. 集群活跃计费利用率 u
+            [0.15, 0.80],  # 2. KV Cache 前缀缓存命中率 η
+            [0.24, 0.68],  # 3. 全口径到户电价 p_e (元/kWh)
+            [0.80, 1.35],  # 4. 硬件折旧与采购成本乘子
+            [0.50, 2.00],  # 5. 跨境专线与IXP端口费乘子
+            [1.15, 1.48],  # 6. 算力中心实测 PUE
+        ],
+    }","{""num_vars"": 6, ""names"": [""utilization_u"", ""kv_cache_hit_eta"", ""electricity_price_pe"", ""hw_capex_mult"", ""network_tariff_mult"", ""facility_pue""], ""bounds"": [[0.35, 0.88], [0.15, 0.8], [0.24, 0.68], [0.8, 1.35], [0.5, 2.0], [1.15, 1.48]]}"
+src/models_analytics.py,run_model5_salib_sobol_and_monte_carlo,labels_zh,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,562,"[
+        ""集群有效计费利用率 (u)"",
+        ""KV Cache前缀缓存命中率与算子效率 (η)"",
+        ""全口径绿电到户电价 (p_e)"",
+        ""GPU/AI芯片采购与折旧成本 (c_hw)"",
+        ""国际海陆缆专线与IXP交换资费 (p_net)"",
+        ""算力中心液冷与余热实测PUE"",
+    ]","[""集群有效计费利用率 (u)"", ""KV Cache前缀缓存命中率与算子效率 (η)"", ""全口径绿电到户电价 (p_e)"", ""GPU/AI芯片采购与折旧成本 (c_hw)"", ""国际海陆缆专线与IXP交换资费 (p_net)"", ""算力中心液冷与余热实测PUE""]"
+src/models_analytics.py,run_model6_sklearn_theil_pca_and_hedonic,region_map,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,618,"{
+        ""云南"": ""西南水电清洁区"", ""四川"": ""西南水电清洁区"", ""广西"": ""西南水电清洁区"", ""贵州"": ""西南水电清洁区"", ""重庆"": ""西南水电清洁区"",
+        ""青海"": ""西北风光绿电区"", ""甘肃"": ""西北风光绿电区"", ""宁夏"": ""西北风光绿电区"", ""新疆"": ""西北风光绿电区"", ""陕西"": ""西北风光绿电区"", ""内蒙古"": ""西北风光绿电区"",
+        ""北京"": ""东部沿海门户区"", ""上海"": ""东部沿海门户区"", ""广东"": ""东部沿海门户区"", ""浙江"": ""东部沿海门户区"", ""江苏"": ""东部沿海门户区"", ""福建"": ""东部沿海门户区"", ""海南"": ""东部沿海门户区"", ""山东"": ""东部沿海门户区"", ""天津"": ""东部沿海门户区"",
+    }","{""云南"": ""西南水电清洁区"", ""四川"": ""西南水电清洁区"", ""广西"": ""西南水电清洁区"", ""贵州"": ""西南水电清洁区"", ""重庆"": ""西南水电清洁区"", ""青海"": ""西北风光绿电区"", ""甘肃"": ""西北风光绿电区"", ""宁夏"": ""西北风光绿电区"", ""新疆"": ""西北风光绿电区"", ""陕西"": ""西北风光绿电区"", ""内蒙古"": ""西北风光绿电区"", ""北京"": ""东部沿海门户区"", ""上海"": ""东部沿海门户区"", ""广东"": ""东部沿海门户区"", ""浙江"": ""东部沿海门户区"", ""江苏"": ""东部沿海门户区"", ""福建"": ""东部沿海门户区"", ""海南"": ""东部沿海门户区"", ""山东"": ""东部沿海门户区"", ""天津"": ""东部沿海门户区""}"
+src/models_analytics.py,run_model6_sklearn_theil_pca_and_hedonic,gpu_samples,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,654,"[
+        # (sku_label, provider, arch_gen, vram_gb, mem_bw_tbs, nvlink_flag, actual_gpu_hr_usd)
+        (""BM.GPU.GB300.4"", ""Oracle"", 4.0, 288, 8.0, 1, 18.00),
+        (""BM.GPU.GB200.4"", ""Oracle"", 3.8, 186, 8.0, 1, 16.00),
+        (""BM.GPU.B200.8"", ""Oracle"", 3.5, 180, 8.0, 1, 14.00),
+        (""BM.GPU.H200.8"", ""Oracle"", 2.6, 141, 4.8, 1, 10.00),
+        (""BM.GPU.H100.8"", ""Oracle"", 2.4, 80, 3.35, 1, 10.00),
+        (""BM.GPU.MI355X.8"", ""Oracle"", 3.2, 288, 8.0, 1, 8.60),
+        (""BM.GPU.MI300X.8"", ""Oracle"", 2.5, 192, 5.3, 1, 6.00),
+        (""BM.GPU.A100-v2.8"", ""Oracle"", 1.5, 80, 2.0, 1, 4.00),
+        (""BM.GPU4.8 (A100 40G)"", ""Oracle"", 1.3, 40, 1.55, 1, 3.05),
+        (""BM.GPU.L40S.4"", ""Oracle"", 1.6, 48, 0.86, 0, 3.50),
+        (""BM.GPU.A10.4"", ""Oracle"", 1.0, 24, 0.60, 0, 2.00),
+        (""p6-b300.48xlarge (us-east-1)"", ""AWS"", 4.0, 288, 8.0, 1, 17.8025),
+        (""p6-b200.48xlarge (us-east-1)"", ""AWS"", 3.5, 180, 8.0, 1, 14.2413),
+        (""p5.48xlarge H100 (us-east-1)"", ""AWS"", 2.4, 80, 3.35, 1, 6.8800),
+        (""p4de.24xlarge A100-80G (us-east-1)"", ""AWS"", 1.5, 80, 2.0, 1, 3.4313),
+        (""p4de.24xlarge A100-80G (ap-southeast-1)"", ""AWS"", 1.5, 80, 2.0, 1, 4.1175),
+        (""p4de.24xlarge A100-80G (eu-central-1)"", ""AWS"", 1.5, 80, 2.0, 1, 4.2863),
+        (""NC40ads_H100_v5 (eastus)"", ""Azure"", 2.4, 80, 3.35, 1, 6.9800),
+        (""NC40ads_H100_v5 (southeastasia)"", ""Azure"", 2.4, 80, 3.35, 1, 9.0740),
+        (""ND96amsr_A100_v4 (eastus)"", ""Azure"", 1.5, 80, 2.0, 1, 4.0960),
+        (""ND96amsr_A100_v4 (southeastasia)"", ""Azure"", 1.5, 80, 2.0, 1, 5.1200),
+        (""a3-highgpu-8g H100 (us-central1)"", ""GCP"", 2.4, 80, 3.35, 1, 11.0612),
+        (""a2-ultragpu-8g A100-80G (us-central1)"", ""GCP"", 1.5, 80, 2.0, 1, 5.0289),
+        (""Lambda B200 SXM6 180GB"", ""Lambda"", 3.5, 180, 8.0, 1, 6.6900),
+        (""Lambda H100 SXM5 80GB"", ""Lambda"", 2.4, 80, 3.35, 1, 3.9900),
+    ]","[{""__tuple__"": [""BM.GPU.GB300.4"", ""Oracle"", 4.0, 288, 8.0, 1, 18.0]}, {""__tuple__"": [""BM.GPU.GB200.4"", ""Oracle"", 3.8, 186, 8.0, 1, 16.0]}, {""__tuple__"": [""BM.GPU.B200.8"", ""Oracle"", 3.5, 180, 8.0, 1, 14.0]}, {""__tuple__"": [""BM.GPU.H200.8"", ""Oracle"", 2.6, 141, 4.8, 1, 10.0]}, {""__tuple__"": [""BM.GPU.H100.8"", ""Oracle"", 2.4, 80, 3.35, 1, 10.0]}, {""__tuple__"": [""BM.GPU.MI355X.8"", ""Oracle"", 3.2, 288, 8.0, 1, 8.6]}, {""__tuple__"": [""BM.GPU.MI300X.8"", ""Oracle"", 2.5, 192, 5.3, 1, 6.0]}, {""__tuple__"": [""BM.GPU.A100-v2.8"", ""Oracle"", 1.5, 80, 2.0, 1, 4.0]}, {""__tuple__"": [""BM.GPU4.8 (A100 40G)"", ""Oracle"", 1.3, 40, 1.55, 1, 3.05]}, {""__tuple__"": [""BM.GPU.L40S.4"", ""Oracle"", 1.6, 48, 0.86, 0, 3.5]}, {""__tuple__"": [""BM.GPU.A10.4"", ""Oracle"", 1.0, 24, 0.6, 0, 2.0]}, {""__tuple__"": [""p6-b300.48xlarge (us-east-1)"", ""AWS"", 4.0, 288, 8.0, 1, 17.8025]}, {""__tuple__"": [""p6-b200.48xlarge (us-east-1)"", ""AWS"", 3.5, 180, 8.0, 1, 14.2413]}, {""__tuple__"": [""p5.48xlarge H100 (us-east-1)"", ""AWS"", 2.4, 80, 3.35, 1, 6.88]}, {""__tuple__"": [""p4de.24xlarge A100-80G (us-east-1)"", ""AWS"", 1.5, 80, 2.0, 1, 3.4313]}, {""__tuple__"": [""p4de.24xlarge A100-80G (ap-southeast-1)"", ""AWS"", 1.5, 80, 2.0, 1, 4.1175]}, {""__tuple__"": [""p4de.24xlarge A100-80G (eu-central-1)"", ""AWS"", 1.5, 80, 2.0, 1, 4.2863]}, {""__tuple__"": [""NC40ads_H100_v5 (eastus, 94GB NVL / 80G同代口径)"", ""Azure"", 2.4, 80, 3.35, 1, 6.98]}, {""__tuple__"": [""NC40ads_H100_v5 (southeastasia, 94GB NVL / 80G同代口径)"", ""Azure"", 2.4, 80, 3.35, 1, 9.074]}, {""__tuple__"": [""ND96amsr_A100_v4 (eastus)"", ""Azure"", 1.5, 80, 2.0, 1, 4.096]}, {""__tuple__"": [""ND96amsr_A100_v4 (southeastasia)"", ""Azure"", 1.5, 80, 2.0, 1, 5.12]}, {""__tuple__"": [""a3-highgpu-8g H100 (us-central1)"", ""GCP"", 2.4, 80, 3.35, 1, 11.0612]}, {""__tuple__"": [""a2-ultragpu-8g A100-80G (us-central1)"", ""GCP"", 1.5, 80, 2.0, 1, 5.0289]}, {""__tuple__"": [""Lambda B200 SXM6 180GB"", ""Lambda"", 3.5, 180, 8.0, 1, 6.69]}, {""__tuple__"": [""Lambda H100 SXM5 80GB"", ""Lambda"", 2.4, 80, 3.35, 1, 3.99]}]"
+src/models_analytics.py,run_model7_networkx_cable_topology,legacy_edges,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,719,"[
+        # (u, v, rtt_ms, cap_tbps)
+        (""中卫枢纽"", ""北京出入口"", 18, 40),
+        (""庆阳枢纽"", ""北京出入口"", 19, 35),
+        (""庆阳枢纽"", ""上海出入口"", 24, 30),
+        (""和林格尔"", ""北京出入口"", 7, 60),
+        (""贵安枢纽"", ""广州出入口"", 16, 45),
+        (""昆明节点"", ""广州出入口"", 22, 25),
+        (""北京出入口"", ""上海出入口"", 16, 80),
+        (""上海出入口"", ""广州出入口"", 20, 80),
+        (""上海出入口"", ""东京节点"", 32, 90),
+        (""上海出入口"", ""美西洛杉矶"", 135, 70),
+        (""广州出入口"", ""香港HKIX"", 5, 160),
+        (""香港HKIX"", ""新加坡SGIX"", 34, 220),
+        (""香港HKIX"", ""东京节点"", 46, 120),
+        (""东京节点"", ""美西洛杉矶"", 108, 160),
+        (""美西洛杉矶"", ""美东弗吉尼亚"", 62, 200),
+        (""新加坡SGIX"", ""曼谷节点"", 24, 60),
+        (""新加坡SGIX"", ""卡拉奇节点"", 68, 50),
+        (""新加坡SGIX"", ""马赛/法兰克福"", 145, 100),  # Via Red Sea AAE-1 / SMW5
+    ]","[{""__tuple__"": [""中卫枢纽"", ""北京出入口"", 18, 40]}, {""__tuple__"": [""庆阳枢纽"", ""北京出入口"", 19, 35]}, {""__tuple__"": [""庆阳枢纽"", ""上海出入口"", 24, 30]}, {""__tuple__"": [""和林格尔"", ""北京出入口"", 7, 60]}, {""__tuple__"": [""贵安枢纽"", ""广州出入口"", 16, 45]}, {""__tuple__"": [""昆明节点"", ""广州出入口"", 22, 25]}, {""__tuple__"": [""北京出入口"", ""上海出入口"", 16, 80]}, {""__tuple__"": [""上海出入口"", ""广州出入口"", 20, 80]}, {""__tuple__"": [""上海出入口"", ""东京节点"", 32, 90]}, {""__tuple__"": [""上海出入口"", ""美西洛杉矶"", 135, 70]}, {""__tuple__"": [""广州出入口"", ""香港HKIX"", 5, 160]}, {""__tuple__"": [""香港HKIX"", ""新加坡SGIX"", 34, 220]}, {""__tuple__"": [""香港HKIX"", ""东京节点"", 46, 120]}, {""__tuple__"": [""东京节点"", ""美西洛杉矶"", 108, 160]}, {""__tuple__"": [""美西洛杉矶"", ""美东弗吉尼亚"", 62, 200]}, {""__tuple__"": [""新加坡SGIX"", ""曼谷节点"", 24, 60]}, {""__tuple__"": [""新加坡SGIX"", ""卡拉奇节点"", 68, 50]}, {""__tuple__"": [""新加坡SGIX"", ""马赛/法兰克福"", 145, 100]}]"
+src/models_analytics.py,run_model7_networkx_cable_topology,new_2026_edges,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,744,"[
+        # 2024.07 获批新增四城出入口局 + 跨境陆缆与新海缆 (SJC2/SEA-H2X/ALC)
+        (""昆明节点"", ""曼谷节点"", 20, 12),        # 昆明全业务出入口局 + 昆曼大湄公河陆缆直连 (70ms -> 20ms)
+        (""贵安枢纽"", ""昆明节点"", 8, 40),
+        (""贵安枢纽"", ""南宁出入口"", 11, 35),
+        (""南宁出入口"", ""曼谷节点"", 26, 15),      # 南宁出入口局 + 中越/中南半岛陆缆
+        (""南宁出入口"", ""香港HKIX"", 12, 40),
+        (""海口出入口"", ""香港HKIX"", 10, 150),     # ALC & SEA-H2X 海南海口/陵水登陆直连
+        (""海口出入口"", ""新加坡SGIX"", 30, 160),   # SEA-H2X / ALC 海南直达新加坡
+        (""青岛出入口"", ""东京节点"", 26, 80),      # 青岛出入口局 + 东亚海缆直连日韩
+        (""中卫枢纽"", ""阿拉木图节点"", 36, 1.3),   # 中哈 6x100G + 7x100G 陆缆走廊
+        (""庆阳枢纽"", ""阿拉木图节点"", 38, 1.3),
+        (""阿拉木图节点"", ""马赛/法兰克福"", 68, 3.2),  # 中哈俄 12x100G / 跨里海 AKSCS 陆路走廊直达欧洲
+        (""昆明节点"", ""卡拉奇节点"", 48, 0.8),     # 中巴跨境光缆 (Pak-China OFC) + 南亚陆路
+    ]","[{""__tuple__"": [""昆明节点"", ""曼谷节点"", 20, 12]}, {""__tuple__"": [""贵安枢纽"", ""昆明节点"", 8, 40]}, {""__tuple__"": [""贵安枢纽"", ""南宁出入口"", 11, 35]}, {""__tuple__"": [""南宁出入口"", ""曼谷节点"", 26, 15]}, {""__tuple__"": [""南宁出入口"", ""香港HKIX"", 12, 40]}, {""__tuple__"": [""海口出入口"", ""香港HKIX"", 10, 150]}, {""__tuple__"": [""海口出入口"", ""新加坡SGIX"", 30, 160]}, {""__tuple__"": [""青岛出入口"", ""东京节点"", 26, 80]}, {""__tuple__"": [""中卫枢纽"", ""阿拉木图节点"", 36, 1.3]}, {""__tuple__"": [""庆阳枢纽"", ""阿拉木图节点"", 38, 1.3]}, {""__tuple__"": [""阿拉木图节点"", ""马赛/法兰克福"", 68, 3.2]}, {""__tuple__"": [""昆明节点"", ""卡拉奇节点"", 48, 0.8]}]"
+src/render_figures.py,build_cover_hero,stages,data/parameters/figure_inputs.json,generate_consulting_visuals.py,156,"[
+        (12.8, ""STAGE 01"", ""绿色电力底座"", ""38.91 亿kW 总装机\n风光装机占比 47.3%\n西部电价 0.30~0.38元/度"", ""#059669""),
+        (31.4, ""STAGE 02"", ""智算集群承载"", ""1,373 万标准机架\n1,590 EFLOPS 智能算力\n液冷 PUE 1.12~1.25"", ""#008B99""),
+        (50.0, ""STAGE 03"", ""模型与算子工程"", ""细粒度 MoE + 稀疏 MLA\nFlashMLA 算子级优化\n单位Token能耗降 60%+"", ""#2563EB""),
+        (68.6, ""STAGE 04"", ""海陆跨境通道"", ""北上广+四城新增国际局\nSJC2 / SEA-H2X / ADC / ALC\n在建与投产容量 >900 Tbps"", ""#D97706""),
+        (87.2, ""STAGE 05"", ""全球Token交付"", ""5.27 万亿美元全球DDS基底\n路径A: 境内直供异步推理\n路径B: 前店后厂混合调度"", ""#38BDF8""),
+    ]","[{""__tuple__"": [12.8, ""STAGE 01"", ""绿色电力底座"", ""38.91 亿kW 总装机\n风光装机占比 47.3%\n西部电价 0.30~0.38元/度"", ""#059669""]}, {""__tuple__"": [31.4, ""STAGE 02"", ""智算集群承载"", ""1,373 万标准机架\n1,590 EFLOPS 智能算力\n液冷 PUE 1.12~1.25"", ""#008B99""]}, {""__tuple__"": [50.0, ""STAGE 03"", ""模型与算子工程"", ""细粒度 MoE + 稀疏 MLA\nFlashMLA 算子级优化\n单位Token能耗降 60%+"", ""#2563EB""]}, {""__tuple__"": [68.6, ""STAGE 04"", ""海陆跨境通道"", ""北上广+四城新增国际局\nSJC2 / SEA-H2X / ADC / ALC\n在建与投产容量 >900 Tbps"", ""#D97706""]}, {""__tuple__"": [87.2, ""STAGE 05"", ""全球Token交付"", ""5.27 万亿美元全球DDS基底\n路径A: 境内直供异步推理\n路径B: 前店后厂混合调度"", ""#38BDF8""]}]"
+src/render_figures.py,build_chart_es_2,tasks,data/parameters/figure_inputs.json,generate_consulting_visuals.py,256,"[""代码研发与软件工程"", ""离线批处理与语料合成"", ""多步智能体工作流"", ""跨境电商多语种内容"", ""金融政务与实时语音""]","[""代码研发与软件工程"", ""离线批处理与语料合成"", ""多步智能体工作流"", ""跨境电商多语种内容"", ""金融政务与实时语音""]"
+src/render_figures.py,build_chart_es_2,path_a,data/parameters/figure_inputs.json,generate_consulting_visuals.py,257,"[58, 76, 38, 52, 8]","[58, 76, 38, 52, 8]"
+src/render_figures.py,build_chart_es_2,path_b,data/parameters/figure_inputs.json,generate_consulting_visuals.py,258,"[28, 16, 44, 34, 32]","[28, 16, 44, 34, 32]"
+src/render_figures.py,build_chart_1_2_v,layers,data/parameters/figure_inputs.json,generate_consulting_visuals.py,326,"[
+        ""L1 绿色电力与电网"",
+        ""L2 智算中心与集群"",
+        ""L3 基座与领域模型"",
+        ""L4 推理词元流 (Token)"",
+        ""L5 行业智能体 (Agent)"",
+    ]","[""L1 绿色电力与电网"", ""L2 智算中心与集群"", ""L3 基座与领域模型"", ""L4 推理词元流 (Token)"", ""L5 行业智能体 (Agent)""]"
+src/render_figures.py,build_chart_1_2_v,capex_share,data/parameters/figure_inputs.json,generate_consulting_visuals.py,334,"[68, 78, 52, 28, 15]","[68, 78, 52, 28, 15]"
+src/render_figures.py,build_chart_1_2_v,gross_margin,data/parameters/figure_inputs.json,generate_consulting_visuals.py,335,"[22, 46, 55, 38, 65]","[22, 46, 55, 38, 65]"
+src/render_figures.py,build_chart_2_4,steps,data/parameters/figure_inputs.json,generate_consulting_visuals.py,637,"[""全球SI2基底\n(TAM)"", ""时延物理\n损耗剔除"", ""可远程交付集\n(SAM)"", ""双向主权\n合规过滤"", ""云商锁定与\n迁移摩擦"", ""净可获空间\n(SOM)""]","[""全球SI2基底\n(TAM)"", ""时延物理\n损耗剔除"", ""可远程交付集\n(SAM)"", ""双向主权\n合规过滤"", ""云商锁定与\n迁移摩擦"", ""净可获空间\n(SOM)""]"
+src/render_figures.py,build_chart_2_4,vals,data/parameters/figure_inputs.json,generate_consulting_visuals.py,638,"[100.0, -48.0, 52.0, -26.0, -13.5, 12.5]","[100.0, -48.0, 52.0, -26.0, -13.5, 12.5]"
+src/render_figures.py,build_chart_2_4,bottoms,data/parameters/figure_inputs.json,generate_consulting_visuals.py,639,"[0.0, 52.0, 0.0, 26.0, 12.5, 0.0]","[0.0, 52.0, 0.0, 26.0, 12.5, 0.0]"
+src/render_figures.py,build_chart_2_4,sub_notes,data/parameters/figure_inputs.json,generate_consulting_visuals.py,641,"[""$1.15万亿"", ""-$5,520亿"", ""$5,980亿"", ""-$2,990亿"", ""-$1,552亿"", ""$1,438亿""]","[""$1.15万亿"", ""-$5,520亿"", ""$5,980亿"", ""-$2,990亿"", ""-$1,552亿"", ""$1,438亿""]"
+src/render_figures.py,build_chart_3_1,regions,data/parameters/figure_inputs.json,generate_consulting_visuals.py,665,"[
+        ""全国总装机\n(38.91亿kW)"",
+        ""内蒙古规上发电\n(1-10月 7,115亿kWh)"",
+        ""云南规上发电\n(4,596.1亿kWh)"",
+        ""贵州全省发电\n(2,734.6亿kWh)"",
+        ""宁夏全区装机\n(9,105万kW)"",
+        ""甘肃全省装机\n(12,418万kW)"",
+    ]","[""全国总装机\n(38.91亿kW)"", ""内蒙古规上发电\n(1-10月 7,115亿kWh)"", ""云南规上发电\n(4,596.1亿kWh)"", ""贵州全省发电\n(2,734.6亿kWh)"", ""宁夏全区装机\n(9,105万kW)"", ""甘肃全省装机\n(12,418万kW)""]"
+src/render_figures.py,build_chart_3_1,thermal,data/parameters/figure_inputs.json,generate_consulting_visuals.py,673,"[39.6, 72.1, 12.4, 56.0, 36.6, 27.8]","[39.6, 72.1, 12.4, 56.0, 36.6, 27.8]"
+src/render_figures.py,build_chart_3_1,hydro_nuc,data/parameters/figure_inputs.json,generate_consulting_visuals.py,674,"[13.1, 0.4, 71.7, 29.7, 0.5, 7.8]","[13.1, 0.4, 71.7, 29.7, 0.5, 7.8]"
+src/render_figures.py,build_chart_3_1,wind,data/parameters/figure_inputs.json,generate_consulting_visuals.py,675,"[16.4, 19.6, 7.2, 5.8, 17.0, 32.9]","[16.4, 19.6, 7.2, 5.8, 17.0, 32.9]"
+src/render_figures.py,build_chart_3_1,solar,data/parameters/figure_inputs.json,generate_consulting_visuals.py,676,"[30.9, 7.9, 8.7, 8.5, 45.9, 31.5]","[30.9, 7.9, 8.7, 8.5, 45.9, 31.5]"
+src/render_figures.py,build_chart_3_1b,notes_r,data/parameters/figure_inputs.json,generate_consulting_visuals.py,728,"[
+        ""全口径发电 105,752.5 亿kWh / 非火电清洁发电 42,512.5 亿kWh (40.2%)"",
+        ""全区发电 2,503.0 亿kWh / 风光新能源发电 766.4 亿kWh (装机占比 62.9%)"",
+        ""全省发电 2,734.6 亿kWh / 水风光清洁电力 1,203.2 亿kWh (占比 44.0%)"",
+        ""规上发电 4,596.1 亿kWh / 非火电 4,024.2 亿kWh (87.6%，净盈余 +1,670.7亿)"",
+        ""全区总发电 8,757.0 亿kWh / 新能源发电 2,590.5 亿kWh (外送电量 >3,400亿)"",
+    ]","[""全口径发电 105,752.5 亿kWh / 非火电清洁发电 42,512.5 亿kWh (40.2%)"", ""全区发电 2,503.0 亿kWh / 风光新能源发电 766.4 亿kWh (装机占比 62.9%)"", ""全省发电 2,734.6 亿kWh / 水风光清洁电力 1,203.2 亿kWh (占比 44.0%)"", ""规上发电 4,596.1 亿kWh / 非火电 4,024.2 亿kWh (87.6%，净盈余 +1,670.7亿)"", ""全区总发电 8,757.0 亿kWh / 新能源发电 2,590.5 亿kWh (外送电量 >3,400亿)""]"
+src/render_figures.py,build_chart_3_3,loss34,data/parameters/figure_inputs.json,generate_consulting_visuals.py,860,"[
+        (""黑龙江"", 6.46), (""蒙东"", 6.41), (""四川"", 5.64), (""海南"", 5.37), (""吉林"", 5.17),
+        (""湖南"", 4.95), (""河南"", 4.82), (""广西"", 4.67), (""湖北"", 4.55), (""贵州"", 4.50),
+        (""云南"", 4.24), (""陕西(非榆)"", 4.24), (""陕北榆林"", 4.24), (""重庆"", 4.18), (""河北南网"", 4.08),
+        (""安徽"", 3.90), (""辽宁"", 3.78), (""江西"", 3.68), (""山西"", 3.52), (""新疆"", 3.45),
+        (""福建"", 3.37), (""广东"", 3.31), (""北京"", 3.11), (""山东"", 3.07), (""浙江"", 3.07),
+        (""青海"", 2.90), (""冀北"", 2.87), (""江苏"", 2.83), (""蒙西"", 2.81), (""上海"", 2.61),
+        (""宁夏"", 2.58), (""天津"", 2.54), (""甘肃"", 2.31), (""深圳"", 2.11),
+    ]","[{""__tuple__"": [""黑龙江"", 6.46]}, {""__tuple__"": [""蒙东"", 6.41]}, {""__tuple__"": [""四川"", 5.64]}, {""__tuple__"": [""海南"", 5.37]}, {""__tuple__"": [""吉林"", 5.17]}, {""__tuple__"": [""湖南"", 4.95]}, {""__tuple__"": [""河南"", 4.82]}, {""__tuple__"": [""广西"", 4.67]}, {""__tuple__"": [""湖北"", 4.55]}, {""__tuple__"": [""贵州"", 4.5]}, {""__tuple__"": [""云南"", 4.24]}, {""__tuple__"": [""陕西(非榆)"", 4.24]}, {""__tuple__"": [""陕北榆林"", 4.24]}, {""__tuple__"": [""重庆"", 4.18]}, {""__tuple__"": [""河北南网"", 4.08]}, {""__tuple__"": [""安徽"", 3.9]}, {""__tuple__"": [""辽宁"", 3.78]}, {""__tuple__"": [""江西"", 3.68]}, {""__tuple__"": [""山西"", 3.52]}, {""__tuple__"": [""新疆"", 3.45]}, {""__tuple__"": [""福建"", 3.37]}, {""__tuple__"": [""广东"", 3.31]}, {""__tuple__"": [""北京"", 3.11]}, {""__tuple__"": [""山东"", 3.07]}, {""__tuple__"": [""浙江"", 3.07]}, {""__tuple__"": [""青海"", 2.9]}, {""__tuple__"": [""冀北"", 2.87]}, {""__tuple__"": [""江苏"", 2.83]}, {""__tuple__"": [""蒙西"", 2.81]}, {""__tuple__"": [""上海"", 2.61]}, {""__tuple__"": [""宁夏"", 2.58]}, {""__tuple__"": [""天津"", 2.54]}, {""__tuple__"": [""甘肃"", 2.31]}, {""__tuple__"": [""深圳"", 2.11]}]"
+src/render_figures.py,build_chart_3_5,yrs,data/parameters/figure_inputs.json,generate_consulting_visuals.py,934,"[2021, 2022, 2023, 2024, 2025]","[2021, 2022, 2023, 2024, 2025]"
+src/render_figures.py,build_chart_3_5,racks,data/parameters/figure_inputs.json,generate_consulting_visuals.py,935,"[520, 650, 810, 900, 1373]","[520, 650, 810, 900, 1373]"
+src/render_figures.py,build_chart_3_5,ai_eflops,data/parameters/figure_inputs.json,generate_consulting_visuals.py,936,"[159, 225, 383, 493, 1590]","[159, 225, 383, 493, 1590]"
+src/render_figures.py,build_chart_4_1b,firms,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1084,"[""Amazon"", ""Alphabet"", ""Microsoft"", ""Meta"", ""Oracle""]","[""Amazon"", ""Alphabet"", ""Microsoft"", ""Meta"", ""Oracle""]"
+src/render_figures.py,build_chart_4_1b,capex_prev,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1085,"[128.3, 91.5, 115.9, 72.0, 68.0]","[128.3, 91.5, 115.9, 72.0, 68.0]"
+src/render_figures.py,build_chart_4_1b,capex_2026,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1086,"[212.0, 200.0, 175.0, 137.5, 114.0]","[212.0, 200.0, 175.0, 137.5, 114.0]"
+src/render_figures.py,build_chart_4_3b,regs,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1142,"[""北美东岸基准\n(us-east-1)"", ""欧洲法兰克福\n(eu-central-1)"", ""亚太新加坡\n(ap-southeast-1)"", ""中国西部绿电枢纽\n(全口径折算)""]","[""北美东岸基准\n(us-east-1)"", ""欧洲法兰克福\n(eu-central-1)"", ""亚太新加坡\n(ap-southeast-1)"", ""中国西部绿电枢纽\n(全口径折算)""]"
+src/render_figures.py,build_chart_4_3b,a100_idx,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1143,"[100.0, 125.0, 130.0, 62.0]","[100.0, 125.0, 130.0, 62.0]"
+src/render_figures.py,build_chart_4_3b,h100_idx,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1144,"[100.0, 122.0, 130.0, 68.0]","[100.0, 122.0, 130.0, 68.0]"
+src/render_figures.py,build_chart_5_2b,routes,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1210,"[""香港至新加坡\n(亚太海缆主干)"", ""香港至中国内地\n(跨境政企延伸)"", ""香港至美国西岸\n(跨太平洋通道)"", ""香港至英国伦敦\n(亚欧长途通道)""]","[""香港至新加坡\n(亚太海缆主干)"", ""香港至中国内地\n(跨境政企延伸)"", ""香港至美国西岸\n(跨太平洋通道)"", ""香港至英国伦敦\n(亚欧长途通道)""]"
+src/render_figures.py,build_chart_5_2b,iplc_usd,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1211,"[5.65, 11.00, 16.70, 75.65]","[5.65, 11.0, 16.7, 75.65]"
+src/render_figures.py,build_chart_5_5,ports,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1235,"[""1G 端口"", ""10G 端口"", ""100G 端口"", ""400G 端口""]","[""1G 端口"", ""10G 端口"", ""100G 端口"", ""400G 端口""]"
+src/render_figures.py,build_chart_5_5,hkix_usd_per_gbps,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1236,"[936 / 7.8 / 1, 7800 / 7.8 / 10, 31200 / 7.8 / 100, 93600 / 7.8 / 400]","[120.0, 100.0, 40.0, 30.0]"
+src/render_figures.py,build_chart_5_5,sgix_usd_per_gbps,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1237,"[70 / 1.34 / 1, 300 / 1.34 / 10, 1500 / 1.34 / 100, 4000 / 1.34 / 400]","[52.23880597014925, 22.388059701492537, 11.194029850746267, 7.462686567164179]"
+src/render_figures.py,build_chart_5_5b,metrics,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1261,"[""昆明至曼谷跨境陆缆直连\n(1,200 Gbps 大湄公河走廊)"", ""加德满都至香港中尼陆缆\n(樟木/吉隆 100G 双路由)"", ""2025.01 AAE-1海缆故障实证\n(巴基斯坦跨境连接冲击)""]","[""昆明至曼谷跨境陆缆直连\n(1,200 Gbps 大湄公河走廊)"", ""加德满都至香港中尼陆缆\n(樟木/吉隆 100G 双路由)"", ""2025.01 AAE-1海缆故障实证\n(巴基斯坦跨境连接冲击)""]"
+src/render_figures.py,build_chart_5_5b,before_v,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1262,"[70, 73, 80]","[70, 73, 80]"
+src/render_figures.py,build_chart_5_5b,after_v,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1263,"[20, 64, 125]","[20, 64, 125]"
+src/render_figures.py,build_chart_6_5,grid_carbon,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1362,"[
+        580, 560, 480, 340, 220, 180, 175, 210, 320, 460, 540, 590,
+        610, 600, 590, 570, 540, 510, 490, 500, 520, 550, 570, 580
+    ]","[580, 560, 480, 340, 220, 180, 175, 210, 320, 460, 540, 590, 610, 600, 590, 570, 540, 510, 490, 500, 520, 550, 570, 580]"
+src/render_figures.py,build_chart_6_5,virtual_cap,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1366,"[
+        62, 65, 78, 92, 100, 100, 98, 88, 70, 55, 48, 45,
+        45, 48, 52, 60, 85, 92, 95, 95, 92, 88, 82, 75
+    ]","[62, 65, 78, 92, 100, 100, 98, 88, 70, 55, 48, 45, 45, 48, 52, 60, 85, 92, 95, 95, 92, 88, 82, 75]"
+src/render_figures.py,build_chart_7_5,metrics,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1475,"[""直连绿电自用\n比例下限"", ""存量总用电\n绿电现行下限"", ""2030年总用电\n绿电比例下限"", ""国家枢纽新建\n绿电消费占比"", ""新增算力向\n国家枢纽集聚""]","[""直连绿电自用\n比例下限"", ""存量总用电\n绿电现行下限"", ""2030年总用电\n绿电比例下限"", ""国家枢纽新建\n绿电消费占比"", ""新增算力向\n国家枢纽集聚""]"
+src/render_figures.py,build_chart_7_5,vals,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1476,"[60, 30, 35, 80, 60]","[60, 30, 35, 80, 60]"
+src/render_figures.py,build_chart_8_1,markets,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1531,"[
+        ""美国 (DOJ DSP 28 CFR 202)"",
+        ""欧盟 (GDPR / AI Act / DORA)"",
+        ""越南 (2026个人数据法/356号令)"",
+        ""印度 (DPDP法 / RBI银行外包令)"",
+        ""印尼 (PDP法 2024.10全面生效)"",
+        ""沙特 (PDPL 2024跨境转移规则)"",
+        ""韩国 (PIPA 境外远程访问告知)"",
+        ""日本 (APPI 第28条相当措施)"",
+        ""马来西亚 (2025.04跨境传输指引)"",
+        ""新加坡 (PDPA 可比保护标准)"",
+    ]","[""美国 (DOJ DSP 28 CFR 202)"", ""欧盟 (GDPR / AI Act / DORA)"", ""越南 (2026个人数据法/356号令)"", ""印度 (DPDP法 / RBI银行外包令)"", ""印尼 (PDP法 2024.10全面生效)"", ""沙特 (PDPL 2024跨境转移规则)"", ""韩国 (PIPA 境外远程访问告知)"", ""日本 (APPI 第28条相当措施)"", ""马来西亚 (2025.04跨境传输指引)"", ""新加坡 (PDPA 可比保护标准)""]"
+src/render_figures.py,build_chart_8_1,dims,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1543,"[
+        ""受控国家批量敏感\n数据禁令与限制"",
+        ""出境前置影响评估\n与政府报备时限"",
+        ""金融/医疗/政务\n行业本地化强度"",
+        ""明文云处理与政府\n访问审查 (TIA)"",
+        ""AI生成物机器可读\n标识与版权合规"",
+    ]","[""受控国家批量敏感\n数据禁令与限制"", ""出境前置影响评估\n与政府报备时限"", ""金融/医疗/政务\n行业本地化强度"", ""明文云处理与政府\n访问审查 (TIA)"", ""AI生成物机器可读\n标识与版权合规""]"
+src/render_figures.py,build_chart_8_1,matrix,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1550,"[
+        [5, 4, 4, 5, 3],
+        [3, 4, 5, 5, 5],
+        [3, 5, 4, 3, 2],
+        [3, 4, 5, 4, 2],
+        [2, 4, 3, 3, 2],
+        [3, 4, 4, 3, 2],
+        [2, 3, 3, 3, 3],
+        [2, 3, 3, 3, 2],
+        [1, 2, 2, 2, 2],
+        [1, 2, 2, 2, 2],
+    ]","[[5, 4, 4, 5, 3], [3, 4, 5, 5, 5], [3, 5, 4, 3, 2], [3, 4, 5, 4, 2], [2, 4, 3, 3, 2], [3, 4, 4, 3, 2], [2, 3, 3, 3, 3], [2, 3, 3, 3, 2], [1, 2, 2, 2, 2], [1, 2, 2, 2, 2]]"
+src/render_figures.py,build_chart_8_1,level_txt,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1576,"{1: ""1级 · 极低摩擦"", 2: ""2级 · 标准合同"", 3: ""3级 · 专项评估"", 4: ""4级 · 强监管"", 5: ""5级 · 刚性禁令""}","{""__pairs__"": [[1, ""1级 · 极低摩擦""], [2, ""2级 · 标准合同""], [3, ""3级 · 专项评估""], [4, ""4级 · 强监管""], [5, ""5级 · 刚性禁令""]]}"
+src/render_figures.py,build_chart_9_2,modes,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1598,"[
+        ""北美云按需基准\n(us-east-1)"",
+        ""新加坡本地节点\n(亚太电力与机房溢价)"",
+        ""前店后厂混合架构\n(新加坡网关+境内推理)"",
+        ""中国西部绿电直供\n(绿电直连+异步批量)"",
+    ]","[""北美云按需基准\n(us-east-1)"", ""新加坡本地节点\n(亚太电力与机房溢价)"", ""前店后厂混合架构\n(新加坡网关+境内推理)"", ""中国西部绿电直供\n(绿电直连+异步批量)""]"
+src/render_figures.py,build_chart_9_2,hw_depr,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1604,"[52.0, 64.0, 44.0, 34.0]","[52.0, 64.0, 44.0, 34.0]"
+src/render_figures.py,build_chart_9_2,power_pue,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1605,"[18.0, 26.0, 9.5, 7.2]","[18.0, 26.0, 9.5, 7.2]"
+src/render_figures.py,build_chart_9_2,net_ixp,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1606,"[4.0, 6.0, 11.5, 8.5]","[4.0, 6.0, 11.5, 8.5]"
+src/render_figures.py,build_chart_9_2,ops_comp,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1607,"[26.0, 28.0, 16.0, 12.3]","[26.0, 28.0, 16.0, 12.3]"
+src/render_figures.py,build_chart_9_2b,gds_metrics,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1655,"[""2025年末\n计费面积使用率"", ""2026Q2末\n计费面积使用率"", ""2025全年\n经调整EBITDA率"", ""2026Q2单季\n经调整EBITDA率""]","[""2025年末\n计费面积使用率"", ""2026Q2末\n计费面积使用率"", ""2025全年\n经调整EBITDA率"", ""2026Q2单季\n经调整EBITDA率""]"
+src/render_figures.py,build_chart_9_2b,gds_vals,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1656,"[75.5, 79.2, 47.3, 45.5]","[75.5, 79.2, 47.3, 45.5]"
+src/render_figures.py,build_chart_10_1,notes_h,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1797,"[
+        ""首期 2,000P (0.20万PFLOPS)，已部分投产服务东南亚跨境AI应用"",
+        ""规划 20 EFLOPS (2.00万PFLOPS)，配套跨境陆缆带宽达 9 Tbps"",
+        ""2025年末 11.40万PFLOPS / 标准机架 10.2万架（集聚数经企业 737家）"",
+        ""2026上半年增至 18.55万PFLOPS / 在建及投运标准机架 10.2万架"",
+        ""累计投资 >685亿元，建成 10个超大型园区 / 26.37万PFLOPS / 33.1万架"",
+    ]","[""首期 2,000P (0.20万PFLOPS)，已部分投产服务东南亚跨境AI应用"", ""规划 20 EFLOPS (2.00万PFLOPS)，配套跨境陆缆带宽达 9 Tbps"", ""2025年末 11.40万PFLOPS / 标准机架 10.2万架（集聚数经企业 737家）"", ""2026上半年增至 18.55万PFLOPS / 在建及投运标准机架 10.2万架"", ""累计投资 >685亿元，建成 10个超大型园区 / 26.37万PFLOPS / 33.1万架""]"
+src/render_figures.py,build_chart_10_1b,dims,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1827,"[""低成本绿电重资产承载"", ""海陆光缆低时延出入口"", ""自贸负面清单与外汇便利"", ""模型研发与海外客群组织""]","[""低成本绿电重资产承载"", ""海陆光缆低时延出入口"", ""自贸负面清单与外汇便利"", ""模型研发与海外客群组织""]"
+src/render_figures.py,build_chart_10_1b,west_v,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1828,"[95, 42, 55, 48]","[95, 42, 55, 48]"
+src/render_figures.py,build_chart_10_1b,coast_v,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1829,"[38, 96, 94, 92]","[38, 96, 94, 92]"
+src/render_figures.py,build_chart_10_1b,sw_v,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1830,"[88, 84, 68, 56]","[88, 84, 68, 56]"
+src/render_figures.py,build_chart_10_3b,items,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1898,"[
+        ""全国超大型算力中心\n现行平均PUE水平"",
+        ""和林格尔B02机楼\n余热制冷改造前"",
+        ""国家算力枢纽节点\n新建中心PUE上限"",
+        ""和林格尔B02机楼\n余热制冷改造后"",
+        ""宁夏中卫集群项目\n优先支持PUE上限"",
+    ]","[""全国超大型算力中心\n现行平均PUE水平"", ""和林格尔B02机楼\n余热制冷改造前"", ""国家算力枢纽节点\n新建中心PUE上限"", ""和林格尔B02机楼\n余热制冷改造后"", ""宁夏中卫集群项目\n优先支持PUE上限""]"
+src/render_figures.py,build_chart_10_3b,pue_v,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1905,"[1.340, 1.315, 1.250, 1.209, 1.150]","[1.34, 1.315, 1.25, 1.209, 1.15]"
+src/render_figures.py,build_chart_11_2,provs30,data/parameters/figure_inputs.json,generate_consulting_visuals.py,1933,"[
+        (""云南"", 0.1333), (""四川"", 0.1564), (""青海"", 0.1796), (""海南"", 0.3648), (""湖北"", 0.4044),
+        (""福建"", 0.4211), (""广东"", 0.4419), (""甘肃"", 0.4471), (""广西"", 0.4476), (""吉林"", 0.4671),
+        (""辽宁"", 0.4878), (""浙江"", 0.4974), (""湖南"", 0.4976), (""黑龙江"", 0.5229), (""北京"", 0.5554),
+        (""重庆"", 0.5581), (""贵州"", 0.5683), (""上海"", 0.5737), (""江苏"", 0.5827), (""江西"", 0.5836),
+        (""河南"", 0.5897), (""新疆"", 0.6021), (""宁夏"", 0.6187), (""山东"", 0.6191), (""陕西"", 0.6335),
+        (""内蒙古"", 0.6479), (""河北"", 0.6516), (""安徽"", 0.6553), (""山西"", 0.6634), (""天津"", 0.6796),
+    ]","[{""__tuple__"": [""云南"", 0.1333]}, {""__tuple__"": [""四川"", 0.1564]}, {""__tuple__"": [""青海"", 0.1796]}, {""__tuple__"": [""海南"", 0.3648]}, {""__tuple__"": [""湖北"", 0.4044]}, {""__tuple__"": [""福建"", 0.4211]}, {""__tuple__"": [""广东"", 0.4419]}, {""__tuple__"": [""甘肃"", 0.4471]}, {""__tuple__"": [""广西"", 0.4476]}, {""__tuple__"": [""吉林"", 0.4671]}, {""__tuple__"": [""辽宁"", 0.4878]}, {""__tuple__"": [""浙江"", 0.4974]}, {""__tuple__"": [""湖南"", 0.4976]}, {""__tuple__"": [""黑龙江"", 0.5229]}, {""__tuple__"": [""北京"", 0.5554]}, {""__tuple__"": [""重庆"", 0.5581]}, {""__tuple__"": [""贵州"", 0.5683]}, {""__tuple__"": [""上海"", 0.5737]}, {""__tuple__"": [""江苏"", 0.5827]}, {""__tuple__"": [""江西"", 0.5836]}, {""__tuple__"": [""河南"", 0.5897]}, {""__tuple__"": [""新疆"", 0.6021]}, {""__tuple__"": [""宁夏"", 0.6187]}, {""__tuple__"": [""山东"", 0.6191]}, {""__tuple__"": [""陕西"", 0.6335]}, {""__tuple__"": [""内蒙古"", 0.6479]}, {""__tuple__"": [""河北"", 0.6516]}, {""__tuple__"": [""安徽"", 0.6553]}, {""__tuple__"": [""山西"", 0.6634]}, {""__tuple__"": [""天津"", 0.6796]}]"
+src/render_figures.py,build_chart_12_4,targets,data/parameters/figure_inputs.json,generate_consulting_visuals.py,2177,"[
+        ""全国算力中心\n整体上架率底线"",
+        ""国家绿色算力设施\n评价上架率底线"",
+        ""国家枢纽节点新建\n绿电消费占比"",
+        ""2029年数字贸易\nDDS占比目标"",
+        ""2035年数字贸易\nDDS占比目标"",
+    ]","[""全国算力中心\n整体上架率底线"", ""国家绿色算力设施\n评价上架率底线"", ""国家枢纽节点新建\n绿电消费占比"", ""2029年数字贸易\nDDS占比目标"", ""2035年数字贸易\nDDS占比目标""]"
+src/render_figures.py,build_chart_12_4,t_vals,data/parameters/figure_inputs.json,generate_consulting_visuals.py,2184,"[60, 60, 80, 45, 50]","[60, 60, 80, 45, 50]"
+src/render_figures.py,build_chart_11_1b_lmdi,steps,data/parameters/figure_inputs.json,generate_consulting_visuals.py,2315,"[
+        ""2024年基准\n用电总量"",
+        ""Token调用总量\n规模扩张效应"",
+        ""长思维链与多模态\n结构复杂度效应"",
+        ""芯片制程与MoE\n算子能效效应"",
+        ""液冷普及与PUE\n工程改善效应"",
+        ""2030年预测\n用电总量"",
+    ]","[""2024年基准\n用电总量"", ""Token调用总量\n规模扩张效应"", ""长思维链与多模态\n结构复杂度效应"", ""芯片制程与MoE\n算子能效效应"", ""液冷普及与PUE\n工程改善效应"", ""2030年预测\n用电总量""]"
+src/render_figures.py,build_chart_11_1b_lmdi,vals,data/parameters/figure_inputs.json,generate_consulting_visuals.py,2323,"[102.0, +335.8, +107.8, -250.3, -18.3, 277.0]","[102.0, 335.8, 107.8, -250.3, -18.3, 277.0]"
+src/render_figures.py,build_chart_11_1b_lmdi,bottoms,data/parameters/figure_inputs.json,generate_consulting_visuals.py,2324,"[0.0, 102.0, 437.8, 295.3, 277.0, 0.0]","[0.0, 102.0, 437.8, 295.3, 277.0, 0.0]"
+src/render_figures.py,build_chart_11_1b_lmdi,shares,data/parameters/figure_inputs.json,generate_consulting_visuals.py,2326,"[""基准 100%"", ""+191.9% 净增量"", ""+61.6% 净增量"", ""-143.0% 净增量"", ""-10.5% 净增量"", ""净增 +175.0 TWh""]","[""基准 100%"", ""+191.9% 净增量"", ""+61.6% 净增量"", ""-143.0% 净增量"", ""-10.5% 净增量"", ""净增 +175.0 TWh""]"
+src/models_analytics.py,run_model1_policy_identity_inversion,E_tot_25__E_it_25,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,173,"117.0, 80.0","{""__tuple__"": [117.0, 80.0]}"
+src/models_analytics.py,run_model1_policy_identity_inversion,pue_legacy_target,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,185,1.35,1.35
+src/models_analytics.py,run_model2_kaya_lmdi_decomposition,E_it0__E_it1,data/parameters/analytics_inputs.json,run_token_ontology_analytics.py,238,"68.0, 205.0","{""__tuple__"": [68.0, 205.0]}"
+src/models_analytics.py,run_model8_2030_three_scenarios_monte_carlo,random_seed,data/parameters/monte_carlo_2030_scenarios.json,src/models_analytics.py,830,20261015,20261015
+src/models_analytics.py,run_model8_2030_three_scenarios_monte_carlo,n_samples,data/parameters/monte_carlo_2030_scenarios.json,src/models_analytics.py,830,10000,10000
+src/models_analytics.py,run_model8_2030_three_scenarios_monte_carlo,sampling_method,data/parameters/monte_carlo_2030_scenarios.json,src/models_analytics.py,830,"""Independent Triangular Distribution via numpy.random.default_rng(20261015).triangular(left, mode, right, size=10000)""","""Independent Triangular Distribution via numpy.random.default_rng(20261015).triangular(left, mode, right, size=10000)"""
+src/models_analytics.py,run_model8_2030_three_scenarios_monte_carlo,independence_assumption,data/parameters/monte_carlo_2030_scenarios.json,src/models_analytics.py,830,"""4项随机驱动变量（it_twh_tri, eff_m_kwh_tri, price_usd_1m_tri, broad_mult_tri）在各情景内按独立三角分布依次抽样；pue_fixed 与 load_factor_fixed 为固定常数参数（非随机变量）。""","""4项随机驱动变量（it_twh_tri, eff_m_kwh_tri, price_usd_1m_tri, broad_mult_tri）在各情景内按独立三角分布依次抽样；pue_fixed 与 load_factor_fixed 为固定常数参数（非随机变量）。"""
+src/models_analytics.py,run_model8_2030_three_scenarios_monte_carlo,interval_interpretation,data/parameters/monte_carlo_2030_scenarios.json,src/models_analytics.py,830,"""P10—P90为给定三角分布与独立性假设下的模拟分位区间（覆盖中间80%的模拟结果），不代表统计推断置信区间、已求解的一般均衡或已证实的可实现收入。""","""P10—P90为给定三角分布与独立性假设下的模拟分位区间（覆盖中间80%的模拟结果），不代表统计推断置信区间、已求解的一般均衡或已证实的可实现收入。"""
+src/models_analytics.py,run_model8_2030_three_scenarios_monte_carlo,data_nature,data/parameters/monte_carlo_2030_scenarios.json,src/models_analytics.py,830,"""作者情景假设（Author Scenario Assumption）""","""作者情景假设（Author Scenario Assumption）"""
+src/models_analytics.py,run_model8_2030_three_scenarios_monte_carlo,stochastic_variables_meta,data/parameters/monte_carlo_2030_scenarios.json,src/models_analytics.py,830,"[{""param_key"": ""it_twh_tri"", ""name_zh"": ""2030年境内直接用于跨境推理的IT电量"", ""unit"": ""TWh/年"", ""distribution"": ""Triangular(left, mode, right)"", ""independent"": true, ""data_nature"": ""作者情景假设""}, {""param_key"": ""eff_m_kwh_tri"", ""name_zh"": ""2030年单位IT电能合格推理词元产出效率"", ""unit"": ""百万Token/kWh_IT (即 PetaTokens/TWh_IT)"", ""distribution"": ""Triangular(left, mode, right)"", ""independent"": true, ""data_nature"": ""作者情景假设""}, {""param_key"": ""price_usd_1m_tri"", ""name_zh"": ""跨境推理服务综合结算单价"", ""unit"": ""USD/百万Token"", ""distribution"": ""Triangular(left, mode, right)"", ""independent"": true, ""data_nature"": ""作者情景假设""}, {""param_key"": ""broad_mult_tri"", ""name_zh"": ""广义出海（含海外边缘前店+境内后厂混合回源）相对于狭义境内直供的营收乘数"", ""unit"": ""无量纲倍数"", ""distribution"": ""Triangular(left, mode, right)"", ""independent"": true, ""data_nature"": ""作者情景假设""}]","[{""param_key"": ""it_twh_tri"", ""name_zh"": ""2030年境内直接用于跨境推理的IT电量"", ""unit"": ""TWh/年"", ""distribution"": ""Triangular(left, mode, right)"", ""independent"": true, ""data_nature"": ""作者情景假设""}, {""param_key"": ""eff_m_kwh_tri"", ""name_zh"": ""2030年单位IT电能合格推理词元产出效率"", ""unit"": ""百万Token/kWh_IT (即 PetaTokens/TWh_IT)"", ""distribution"": ""Triangular(left, mode, right)"", ""independent"": true, ""data_nature"": ""作者情景假设""}, {""param_key"": ""price_usd_1m_tri"", ""name_zh"": ""跨境推理服务综合结算单价"", ""unit"": ""USD/百万Token"", ""distribution"": ""Triangular(left, mode, right)"", ""independent"": true, ""data_nature"": ""作者情景假设""}, {""param_key"": ""broad_mult_tri"", ""name_zh"": ""广义出海（含海外边缘前店+境内后厂混合回源）相对于狭义境内直供的营收乘数"", ""unit"": ""无量纲倍数"", ""distribution"": ""Triangular(left, mode, right)"", ""independent"": true, ""data_nature"": ""作者情景假设""}]"
+src/models_analytics.py,run_model8_2030_three_scenarios_monte_carlo,fixed_parameters_meta,data/parameters/monte_carlo_2030_scenarios.json,src/models_analytics.py,830,"[{""param_key"": ""pue_fixed"", ""name_zh"": ""出海智算集群综合电能利用效率（PUE）"", ""value"": 1.22, ""unit"": ""无量纲比值"", ""is_stochastic"": false, ""data_nature"": ""作者情景固定常数（对齐新建枢纽PUE政策加权基准）""}, {""param_key"": ""load_factor_fixed"", ""name_zh"": ""8卡高密推理服务器（10.2 kW IT功率）年均有效综合负荷率"", ""value"": 0.75, ""unit"": ""无量纲比例"", ""is_stochastic"": false, ""data_nature"": ""作者情景固定常数""}]","[{""param_key"": ""pue_fixed"", ""name_zh"": ""出海智算集群综合电能利用效率（PUE）"", ""value"": 1.22, ""unit"": ""无量纲比值"", ""is_stochastic"": false, ""data_nature"": ""作者情景固定常数（对齐新建枢纽PUE政策加权基准）""}, {""param_key"": ""load_factor_fixed"", ""name_zh"": ""8卡高密推理服务器（10.2 kW IT功率）年均有效综合负荷率"", ""value"": 0.75, ""unit"": ""无量纲比例"", ""is_stochastic"": false, ""data_nature"": ""作者情景固定常数""}]"
+src/models_analytics.py,run_model8_2030_three_scenarios_monte_carlo,scenario_specs,data/parameters/monte_carlo_2030_scenarios.json,src/models_analytics.py,830,"[{""scenario_id"": ""S1_Baseline"", ""scenario_name"": ""情景一：基准演进情景（Baseline Scenario）"", ""it_twh_tri"": [18.0, 24.0, 29.5], ""eff_m_kwh_tri"": [1.5, 1.85, 2.15], ""price_usd_1m_tri"": [0.24, 0.33, 0.42], ""broad_mult_tri"": [1.28, 1.4, 1.52], ""pue_fixed"": 1.22, ""load_factor_fixed"": 0.75, ""data_nature"": ""作者情景假设""}, {""scenario_id"": ""S2_Accelerated"", ""scenario_name"": ""情景二：加速突破情景（Accelerated Breakthrough Scenario）"", ""it_twh_tri"": [38.0, 50.0, 61.5], ""eff_m_kwh_tri"": [1.95, 2.3, 2.7], ""price_usd_1m_tri"": [0.28, 0.35, 0.44], ""broad_mult_tri"": [1.22, 1.32, 1.43], ""pue_fixed"": 1.22, ""load_factor_fixed"": 0.75, ""data_nature"": ""作者情景假设""}, {""scenario_id"": ""S3_Fragmented"", ""scenario_name"": ""情景三：主权割裂情景（Sovereign Fragmentation Scenario）"", ""it_twh_tri"": [7.2, 10.5, 14.0], ""eff_m_kwh_tri"": [1.25, 1.45, 1.7], ""price_usd_1m_tri"": [0.21, 0.26, 0.33], ""broad_mult_tri"": [1.4, 1.55, 1.7], ""pue_fixed"": 1.22, ""load_factor_fixed"": 0.75, ""data_nature"": ""作者情景假设""}]","[{""scenario_id"": ""S1_Baseline"", ""scenario_name"": ""情景一：基准演进情景（Baseline Scenario）"", ""it_twh_tri"": {""__tuple__"": [18.0, 24.0, 29.5]}, ""eff_m_kwh_tri"": {""__tuple__"": [1.5, 1.85, 2.15]}, ""price_usd_1m_tri"": {""__tuple__"": [0.24, 0.33, 0.42]}, ""broad_mult_tri"": {""__tuple__"": [1.28, 1.4, 1.52]}, ""pue_fixed"": 1.22, ""load_factor_fixed"": 0.75, ""data_nature"": ""作者情景假设""}, {""scenario_id"": ""S2_Accelerated"", ""scenario_name"": ""情景二：加速突破情景（Accelerated Breakthrough Scenario）"", ""it_twh_tri"": {""__tuple__"": [38.0, 50.0, 61.5]}, ""eff_m_kwh_tri"": {""__tuple__"": [1.95, 2.3, 2.7]}, ""price_usd_1m_tri"": {""__tuple__"": [0.28, 0.35, 0.44]}, ""broad_mult_tri"": {""__tuple__"": [1.22, 1.32, 1.43]}, ""pue_fixed"": 1.22, ""load_factor_fixed"": 0.75, ""data_nature"": ""作者情景假设""}, {""scenario_id"": ""S3_Fragmented"", ""scenario_name"": ""情景三：主权割裂情景（Sovereign Fragmentation Scenario）"", ""it_twh_tri"": {""__tuple__"": [7.2, 10.5, 14.0]}, ""eff_m_kwh_tri"": {""__tuple__"": [1.25, 1.45, 1.7]}, ""price_usd_1m_tri"": {""__tuple__"": [0.21, 0.26, 0.33]}, ""broad_mult_tri"": {""__tuple__"": [1.4, 1.55, 1.7]}, ""pue_fixed"": 1.22, ""load_factor_fixed"": 0.75, ""data_nature"": ""作者情景假设""}]"

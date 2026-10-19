@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="645.172516pt" height="318.357175pt" viewBox="0 0 645.172516 318.357175" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-17T00:56:01.310570</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 318.357175 
+L 645.172516 318.357175 
+L 645.172516 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 141.172516 240.264 
+L 632.212516 240.264 
+L 632.212516 12.96 
+L 141.172516 12.96 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 141.172516 240.264 
+L 141.172516 12.96 
+" clip-path="url(#p371c385e22)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m27a486794e" d="M 0 0 
+L 0 2.8 
+" style="stroke: #1e293b; stroke-width: 0.7"/>
+      </defs>
+      <g>
+       <use xlink:href="#m27a486794e" x="141.172516" y="240.264" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="141.172516" y="253.336" transform="rotate(-0 141.172516 253.336)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 228.85823 240.264 
+L 228.85823 12.96 
+" clip-path="url(#p371c385e22)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m27a486794e" x="228.85823" y="240.264" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="228.85823" y="253.336" transform="rotate(-0 228.85823 253.336)">100</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 316.543944 240.264 
+L 316.543944 12.96 
+" clip-path="url(#p371c385e22)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m27a486794e" x="316.543944" y="240.264" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="316.543944" y="253.336" transform="rotate(-0 316.543944 253.336)">200</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 404.229658 240.264 
+L 404.229658 12.96 
+" clip-path="url(#p371c385e22)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m27a486794e" x="404.229658" y="240.264" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="404.229658" y="253.336" transform="rotate(-0 404.229658 253.336)">300</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 491.915373 240.264 
+L 491.915373 12.96 
+" clip-path="url(#p371c385e22)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m27a486794e" x="491.915373" y="240.264" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="491.915373" y="253.336" transform="rotate(-0 491.915373 253.336)">400</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 579.601087 240.264 
+L 579.601087 12.96 
+" clip-path="url(#p371c385e22)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m27a486794e" x="579.601087" y="240.264" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="579.601087" y="253.336" transform="rotate(-0 579.601087 253.336)">500</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 7.2px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #475569" x="386.692516" y="267.5" transform="rotate(-0 386.692516 267.5)">系统设计容量 (Tbps) 与主干全长（百公里）</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13">
+      <defs>
+       <path id="m7233f5fb77" d="M 0 0 
+L -2.8 0 
+" style="stroke: #1e293b; stroke-width: 0.7"/>
+      </defs>
+      <g>
+       <use xlink:href="#m7233f5fb77" x="141.172516" y="214.036615" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="134.172516" y="217.072615" transform="rotate(-0 134.172516 217.072615)">AAE-1 亚非欧一号 (在役主干)</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m7233f5fb77" x="141.172516" y="170.324308" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="134.172516" y="173.360308" transform="rotate(-0 134.172516 173.360308)">SJC2 东南亚日本二号 (2025-07-16投产)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m7233f5fb77" x="141.172516" y="126.612" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="134.172516" y="129.648" transform="rotate(-0 134.172516 129.648)">ADC 亚太直达 (2025-02投产)</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m7233f5fb77" x="141.172516" y="82.899692" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="134.172516" y="85.935692" transform="rotate(-0 134.172516 85.935692)">SEA-H2X 亚太快线 (2026-07-22投产)</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m7233f5fb77" x="141.172516" y="39.187385" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="134.172516" y="42.223385" transform="rotate(-0 134.172516 42.223385)">ALC 亚洲快链 (2025至2026分段登陆)</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 141.172516 213.162369 
+L 228.85823 213.162369 
+L 228.85823 199.174431 
+L 141.172516 199.174431 
+z
+" clip-path="url(#p371c385e22)" style="fill: #0f2537"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 141.172516 169.450062 
+L 251.656516 169.450062 
+L 251.656516 155.462123 
+L 141.172516 155.462123 
+z
+" clip-path="url(#p371c385e22)" style="fill: #0f2537"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 141.172516 125.737754 
+L 281.469658 125.737754 
+L 281.469658 111.749815 
+L 141.172516 111.749815 
+z
+" clip-path="url(#p371c385e22)" style="fill: #0f2537"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 141.172516 82.025446 
+L 316.543944 82.025446 
+L 316.543944 68.037508 
+L 141.172516 68.037508 
+z
+" clip-path="url(#p371c385e22)" style="fill: #0f2537"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 141.172516 38.313138 
+L 426.151087 38.313138 
+L 426.151087 24.3252 
+L 141.172516 24.3252 
+z
+" clip-path="url(#p371c385e22)" style="fill: #0f2537"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 141.172516 228.8988 
+L 360.386801 228.8988 
+L 360.386801 214.910862 
+L 141.172516 214.910862 
+z
+" clip-path="url(#p371c385e22)" style="fill: #007a87"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 141.172516 185.186492 
+L 233.242516 185.186492 
+L 233.242516 171.198554 
+L 141.172516 171.198554 
+z
+" clip-path="url(#p371c385e22)" style="fill: #007a87"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 141.172516 141.474185 
+L 228.753007 141.474185 
+L 228.753007 127.486246 
+L 141.172516 127.486246 
+z
+" clip-path="url(#p371c385e22)" style="fill: #007a87"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 141.172516 97.761877 
+L 191.556727 97.761877 
+L 191.556727 83.773938 
+L 141.172516 83.773938 
+z
+" clip-path="url(#p371c385e22)" style="fill: #007a87"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 141.172516 54.049569 
+L 195.537658 54.049569 
+L 195.537658 40.061631 
+L 141.172516 40.061631 
+z
+" clip-path="url(#p371c385e22)" style="fill: #007a87"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 141.172516 240.264 
+L 141.172516 12.96 
+" style="fill: none; stroke: #cbd5e1; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 141.172516 240.264 
+L 632.212516 240.264 
+" style="fill: none; stroke: #64748b; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_13">
+    <g id="patch_15">
+     <path d="M 233.242516 210.266134 
+L 386.483953 210.266134 
+Q 387.309953 210.266134 387.309953 209.440134 
+L 387.309953 202.896666 
+Q 387.309953 202.070666 386.483953 202.070666 
+L 233.242516 202.070666 
+Q 232.416516 202.070666 232.416516 202.896666 
+L 232.416516 209.440134 
+Q 232.416516 210.266134 233.242516 210.266134 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 5.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="233.242516" y="208.088666" transform="rotate(-0 233.242516 208.088666)">系统 &gt;100 Tbps（中国联通参建，亚非欧超长距主干通道）</text>
+   </g>
+   <g id="text_14">
+    <g id="patch_16">
+     <path d="M 364.771087 225.954831 
+L 418.645462 225.954831 
+Q 419.485462 225.954831 419.485462 225.114831 
+L 419.485462 218.694831 
+Q 419.485462 217.854831 418.645462 217.854831 
+L 364.771087 217.854831 
+Q 363.931087 217.854831 363.931087 218.694831 
+L 363.931087 225.114831 
+Q 363.931087 225.954831 364.771087 225.954831 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #007a87" x="364.771087" y="223.974831" transform="rotate(-0 364.771087 223.974831)">主干全长 25,000 km</text>
+   </g>
+   <g id="text_15">
+    <g id="patch_17">
+     <path d="M 256.040801 166.553827 
+L 404.733708 166.553827 
+Q 405.559708 166.553827 405.559708 165.727827 
+L 405.559708 159.184358 
+Q 405.559708 158.358358 404.733708 158.358358 
+L 256.040801 158.358358 
+Q 255.214801 158.358358 255.214801 159.184358 
+L 255.214801 165.727827 
+Q 255.214801 166.553827 256.040801 166.553827 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 5.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="256.040801" y="164.376358" transform="rotate(-0 256.040801 164.376358)">系统 126 Tbps（中国移动参建，连通香港/新加坡/日本）</text>
+   </g>
+   <g id="text_16">
+    <g id="patch_18">
+     <path d="M 237.626801 182.242523 
+L 291.501176 182.242523 
+Q 292.341176 182.242523 292.341176 181.402523 
+L 292.341176 174.982523 
+Q 292.341176 174.142523 291.501176 174.142523 
+L 237.626801 174.142523 
+Q 236.786801 174.142523 236.786801 174.982523 
+L 236.786801 181.402523 
+Q 236.786801 182.242523 237.626801 182.242523 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #007a87" x="237.626801" y="180.262523" transform="rotate(-0 237.626801 180.262523)">主干全长 10,500 km</text>
+   </g>
+   <g id="text_17">
+    <g id="patch_19">
+     <path d="M 285.853944 122.841519 
+L 440.234819 122.841519 
+Q 441.060819 122.841519 441.060819 122.015519 
+L 441.060819 115.47205 
+Q 441.060819 114.64605 440.234819 114.64605 
+L 285.853944 114.64605 
+Q 285.027944 114.64605 285.027944 115.47205 
+L 285.027944 122.015519 
+Q 285.027944 122.841519 285.853944 122.841519 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 5.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="285.853944" y="120.66405" transform="rotate(-0 285.853944 120.66405)">系统 &gt;160 Tbps（中国电信2025年2月宣布启用 &gt;50 Tbps）</text>
+   </g>
+   <g id="text_18">
+    <g id="patch_20">
+     <path d="M 233.137293 138.530215 
+L 283.681668 138.530215 
+Q 284.521668 138.530215 284.521668 137.690215 
+L 284.521668 131.270215 
+Q 284.521668 130.430215 283.681668 130.430215 
+L 233.137293 130.430215 
+Q 232.297293 130.430215 232.297293 131.270215 
+L 232.297293 137.690215 
+Q 232.297293 138.530215 233.137293 138.530215 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #007a87" x="233.137293" y="136.550215" transform="rotate(-0 233.137293 136.550215)">主干全长 9,988 km</text>
+   </g>
+   <g id="text_19">
+    <g id="patch_21">
+     <path d="M 320.92823 79.129211 
+L 489.085605 79.129211 
+Q 489.911605 79.129211 489.911605 78.303211 
+L 489.911605 71.759743 
+Q 489.911605 70.933743 489.085605 70.933743 
+L 320.92823 70.933743 
+Q 320.10223 70.933743 320.10223 71.759743 
+L 320.10223 78.303211 
+Q 320.10223 79.129211 320.92823 79.129211 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 5.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="320.92823" y="76.951743" transform="rotate(-0 320.92823 76.951743)">系统 &gt;200 Tbps（8对光纤，中国移动披露参建权益 &gt;100 Tbps）</text>
+   </g>
+   <g id="text_20">
+    <g id="patch_22">
+     <path d="M 195.941013 94.817908 
+L 246.485388 94.817908 
+Q 247.325388 94.817908 247.325388 93.977908 
+L 247.325388 87.557908 
+Q 247.325388 86.717908 246.485388 86.717908 
+L 195.941013 86.717908 
+Q 195.101013 86.717908 195.101013 87.557908 
+L 195.101013 93.977908 
+Q 195.101013 94.817908 195.941013 94.817908 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #007a87" x="195.941013" y="92.837908" transform="rotate(-0 195.941013 92.837908)">主干全长 5,746 km</text>
+   </g>
+   <g id="text_21">
+    <g id="patch_23">
+     <path d="M 430.535373 35.416904 
+L 591.989795 35.416904 
+Q 592.815795 35.416904 592.815795 34.590904 
+L 592.815795 28.047435 
+Q 592.815795 27.221435 591.989795 27.221435 
+L 430.535373 27.221435 
+Q 429.709373 27.221435 429.709373 28.047435 
+L 429.709373 34.590904 
+Q 429.709373 35.416904 430.535373 35.416904 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 5.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="430.535373" y="33.239435" transform="rotate(-0 430.535373 33.239435)">系统 &gt;325 Tbps（中国电信/联通联合参建，香港及陵水登陆）</text>
+   </g>
+   <g id="text_22">
+    <g id="patch_24">
+     <path d="M 199.921944 51.1056 
+L 250.466319 51.1056 
+Q 251.306319 51.1056 251.306319 50.2656 
+L 251.306319 43.8456 
+Q 251.306319 43.0056 250.466319 43.0056 
+L 199.921944 43.0056 
+Q 199.081944 43.0056 199.081944 43.8456 
+L 199.081944 50.2656 
+Q 199.081944 51.1056 199.921944 51.1056 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #007a87" x="199.921944" y="49.1256" transform="rotate(-0 199.921944 49.1256)">主干全长 6,200 km</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_25">
+     <path d="M 274.111078 305.397175 
+L 499.273953 305.397175 
+Q 500.633953 305.397175 500.633953 304.037175 
+L 500.633953 291.73555 
+Q 500.633953 290.37555 499.273953 290.37555 
+L 274.111078 290.37555 
+Q 272.751078 290.37555 272.751078 291.73555 
+L 272.751078 304.037175 
+Q 272.751078 305.397175 274.111078 305.397175 
+z
+" style="fill: #f8fafc; stroke: #e2e8f0; stroke-width: 0.75; stroke-linejoin: miter"/>
+    </g>
+    <g id="patch_26">
+     <path d="M 276.491078 300.09955 
+L 290.091078 300.09955 
+L 290.091078 295.33955 
+L 276.491078 295.33955 
+z
+" style="fill: #0f2537"/>
+    </g>
+    <g id="text_23">
+     <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start" x="294.171078" y="300.09955" transform="rotate(-0 294.171078 300.09955)">全系统设计容量 (Tbps)</text>
+    </g>
+    <g id="patch_27">
+     <path d="M 375.805078 300.09955 
+L 389.405078 300.09955 
+L 389.405078 295.33955 
+L 375.805078 295.33955 
+z
+" style="fill: #007a87"/>
+    </g>
+    <g id="text_24">
+     <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start" x="393.485078" y="300.09955" transform="rotate(-0 393.485078 300.09955)">海缆主干全长（百公里 / 100 km）</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p371c385e22">
+   <rect x="141.172516" y="12.96" width="491.04" height="227.304"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="516.96pt" height="306.032pt" viewBox="0 0 516.96 306.032" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-18T09:12:18.849410</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 306.032 
+L 516.96 306.032 
+L 516.96 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 12.96 279.072 
+L 504 279.072 
+L 504 12.96 
+L 12.96 12.96 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m458c9b7baf" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m458c9b7baf" x="125.977143" y="279.072" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="125.977143" y="292.232" transform="rotate(-0 125.977143 292.232)">2022年</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m458c9b7baf" x="217.949714" y="279.072" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="217.949714" y="292.232" transform="rotate(-0 217.949714 292.232)">2023年</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m458c9b7baf" x="303.686857" y="279.072" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="303.686857" y="292.232" transform="rotate(-0 303.686857 292.232)">2024年</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m458c9b7baf" x="384.747429" y="279.072" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="384.747429" y="292.232" transform="rotate(-0 384.747429 292.232)">2025年</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m458c9b7baf" x="465.028571" y="279.072" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #0f2537" x="465.028571" y="292.232" transform="rotate(-0 465.028571 292.232)">2026年</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2"/>
+   <g id="line2d_6">
+    <path d="M 106.491429 49.92 
+L 480.617143 49.92 
+" clip-path="url(#p020f115029)" style="fill: none; stroke: #059669; stroke-opacity: 0.35; stroke-width: 2.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 106.491429 118.912 
+L 480.617143 118.912 
+" clip-path="url(#p020f115029)" style="fill: none; stroke: #007a87; stroke-opacity: 0.35; stroke-width: 2.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 106.491429 187.904 
+L 480.617143 187.904 
+" clip-path="url(#p020f115029)" style="fill: none; stroke: #2563eb; stroke-opacity: 0.35; stroke-width: 2.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 106.491429 256.896 
+L 480.617143 256.896 
+" clip-path="url(#p020f115029)" style="fill: none; stroke: #0f2537; stroke-opacity: 0.35; stroke-width: 2.2; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 12.96 279.072 
+L 504 279.072 
+" style="fill: none; stroke: #0f2537; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_6">
+    <g id="patch_4">
+     <path d="M 18.416 54.952 
+L 72.816 54.952 
+Q 74.448 54.952 74.448 53.32 
+L 74.448 46.52 
+Q 74.448 44.888 72.816 44.888 
+L 18.416 44.888 
+Q 16.784 44.888 16.784 46.52 
+L 16.784 53.32 
+Q 16.784 54.952 18.416 54.952 
+z
+" style="fill: #f8fafc; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #059669" x="18.416" y="52.504" transform="rotate(-0 18.416 52.504)">能源与算电底座轨</text>
+   </g>
+   <g id="text_7">
+    <g id="patch_5">
+     <path d="M 18.416 123.944 
+L 66.016 123.944 
+Q 67.648 123.944 67.648 122.312 
+L 67.648 115.512 
+Q 67.648 113.88 66.016 113.88 
+L 18.416 113.88 
+Q 16.784 113.88 16.784 115.512 
+L 16.784 122.312 
+Q 16.784 123.944 18.416 123.944 
+z
+" style="fill: #f8fafc; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #007a87" x="18.416" y="121.496" transform="rotate(-0 18.416 121.496)">国际通信通道轨</text>
+   </g>
+   <g id="text_8">
+    <g id="patch_6">
+     <path d="M 18.416 192.936 
+L 66.016 192.936 
+Q 67.648 192.936 67.648 191.304 
+L 67.648 184.504 
+Q 67.648 182.872 66.016 182.872 
+L 18.416 182.872 
+Q 16.784 182.872 16.784 184.504 
+L 16.784 191.304 
+Q 16.784 192.936 18.416 192.936 
+z
+" style="fill: #f8fafc; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #2563eb" x="18.416" y="190.488" transform="rotate(-0 18.416 190.488)">数据跨境制度轨</text>
+   </g>
+   <g id="text_9">
+    <g id="patch_7">
+     <path d="M 18.416 261.928 
+L 66.016 261.928 
+Q 67.648 261.928 67.648 260.296 
+L 67.648 253.496 
+Q 67.648 251.864 66.016 251.864 
+L 18.416 251.864 
+Q 16.784 251.864 16.784 253.496 
+L 16.784 260.296 
+Q 16.784 261.928 18.416 261.928 
+z
+" style="fill: #f8fafc; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="18.416" y="259.48" transform="rotate(-0 18.416 259.48)">模型架构生态轨</text>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m929c387e98" d="M 0 3.391165 
+C 0.899347 3.391165 1.761981 3.03385 2.397916 2.397916 
+C 3.03385 1.761981 3.391165 0.899347 3.391165 0 
+C 3.391165 -0.899347 3.03385 -1.761981 2.397916 -2.397916 
+C 1.761981 -3.03385 0.899347 -3.391165 0 -3.391165 
+C -0.899347 -3.391165 -1.761981 -3.03385 -2.397916 -2.397916 
+C -3.03385 -1.761981 -3.391165 -0.899347 -3.391165 0 
+C -3.391165 0.899347 -3.03385 1.761981 -2.397916 2.397916 
+C -1.761981 3.03385 -0.899347 3.391165 0 3.391165 
+z
+" style="stroke: #ffffff; stroke-width: 1.2"/>
+    </defs>
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m929c387e98" x="125.977143" y="49.92" style="fill: #059669; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m929c387e98" x="217.949714" y="49.92" style="fill: #059669; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m929c387e98" x="303.686857" y="49.92" style="fill: #059669; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m929c387e98" x="384.747429" y="49.92" style="fill: #059669; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m929c387e98" x="465.028571" y="49.92" style="fill: #059669; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_6">
+    <defs>
+     <path id="m460d0e90b5" d="M 0 3.391165 
+C 0.899347 3.391165 1.761981 3.03385 2.397916 2.397916 
+C 3.03385 1.761981 3.391165 0.899347 3.391165 0 
+C 3.391165 -0.899347 3.03385 -1.761981 2.397916 -2.397916 
+C 1.761981 -3.03385 0.899347 -3.391165 0 -3.391165 
+C -0.899347 -3.391165 -1.761981 -3.03385 -2.397916 -2.397916 
+C -3.03385 -1.761981 -3.391165 -0.899347 -3.391165 0 
+C -3.391165 0.899347 -3.03385 1.761981 -2.397916 2.397916 
+C -1.761981 3.03385 -0.899347 3.391165 0 3.391165 
+z
+" style="stroke: #ffffff; stroke-width: 1.2"/>
+    </defs>
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m460d0e90b5" x="125.977143" y="118.912" style="fill: #007a87; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m460d0e90b5" x="217.949714" y="118.912" style="fill: #007a87; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_8">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m460d0e90b5" x="303.686857" y="118.912" style="fill: #007a87; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m460d0e90b5" x="384.747429" y="118.912" style="fill: #007a87; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_10">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m460d0e90b5" x="465.028571" y="118.912" style="fill: #007a87; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_11">
+    <defs>
+     <path id="m568c65fec0" d="M 0 3.391165 
+C 0.899347 3.391165 1.761981 3.03385 2.397916 2.397916 
+C 3.03385 1.761981 3.391165 0.899347 3.391165 0 
+C 3.391165 -0.899347 3.03385 -1.761981 2.397916 -2.397916 
+C 1.761981 -3.03385 0.899347 -3.391165 0 -3.391165 
+C -0.899347 -3.391165 -1.761981 -3.03385 -2.397916 -2.397916 
+C -3.03385 -1.761981 -3.391165 -0.899347 -3.391165 0 
+C -3.391165 0.899347 -3.03385 1.761981 -2.397916 2.397916 
+C -1.761981 3.03385 -0.899347 3.391165 0 3.391165 
+z
+" style="stroke: #ffffff; stroke-width: 1.2"/>
+    </defs>
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m568c65fec0" x="125.977143" y="187.904" style="fill: #2563eb; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_12">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m568c65fec0" x="217.949714" y="187.904" style="fill: #2563eb; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_13">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m568c65fec0" x="303.686857" y="187.904" style="fill: #2563eb; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_14">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m568c65fec0" x="384.747429" y="187.904" style="fill: #2563eb; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_15">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#m568c65fec0" x="465.028571" y="187.904" style="fill: #2563eb; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_16">
+    <defs>
+     <path id="mf17358d992" d="M 0 3.391165 
+C 0.899347 3.391165 1.761981 3.03385 2.397916 2.397916 
+C 3.03385 1.761981 3.391165 0.899347 3.391165 0 
+C 3.391165 -0.899347 3.03385 -1.761981 2.397916 -2.397916 
+C 1.761981 -3.03385 0.899347 -3.391165 0 -3.391165 
+C -0.899347 -3.391165 -1.761981 -3.03385 -2.397916 -2.397916 
+C -3.03385 -1.761981 -3.391165 -0.899347 -3.391165 0 
+C -3.391165 0.899347 -3.03385 1.761981 -2.397916 2.397916 
+C -1.761981 3.03385 -0.899347 3.391165 0 3.391165 
+z
+" style="stroke: #ffffff; stroke-width: 1.2"/>
+    </defs>
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#mf17358d992" x="125.977143" y="256.896" style="fill: #0f2537; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_17">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#mf17358d992" x="217.949714" y="256.896" style="fill: #0f2537; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_18">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#mf17358d992" x="303.686857" y="256.896" style="fill: #0f2537; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_19">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#mf17358d992" x="384.747429" y="256.896" style="fill: #0f2537; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="PathCollection_20">
+    <g clip-path="url(#p020f115029)">
+     <use xlink:href="#mf17358d992" x="465.028571" y="256.896" style="fill: #0f2537; stroke: #ffffff; stroke-width: 1.2"/>
+    </g>
+   </g>
+   <g id="text_10">
+    <g id="patch_8">
+     <path d="M 107.677143 39.9324 
+L 144.277143 39.9324 
+Q 145.131143 39.9324 145.131143 39.0784 
+L 145.131143 24.1944 
+Q 145.131143 23.3404 144.277143 23.3404 
+L 107.677143 23.3404 
+Q 106.823143 23.3404 106.823143 24.1944 
+L 106.823143 39.0784 
+Q 106.823143 39.9324 107.677143 39.9324 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(114.972838 30.150955)">2022.02</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(107.677143 37.684455)">东数西算启动</text>
+   </g>
+   <g id="text_11">
+    <g id="patch_9">
+     <path d="M 192.878714 39.9324 
+L 243.020714 39.9324 
+Q 243.874714 39.9324 243.874714 39.0784 
+L 243.874714 24.1944 
+Q 243.874714 23.3404 243.020714 23.3404 
+L 192.878714 23.3404 
+Q 192.024714 23.3404 192.024714 24.1944 
+L 192.024714 39.0784 
+Q 192.024714 39.9324 192.878714 39.9324 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(206.94541 30.150955)">2023.12</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(192.878714 37.69065)">1779号文算电协同</text>
+   </g>
+   <g id="text_12">
+    <g id="patch_10">
+     <path d="M 277.164248 39.9324 
+L 330.209467 39.9324 
+Q 331.063467 39.9324 331.063467 39.0784 
+L 331.063467 24.1944 
+Q 331.063467 23.3404 330.209467 23.3404 
+L 277.164248 23.3404 
+Q 276.310248 23.3404 276.310248 24.1944 
+L 276.310248 39.0784 
+Q 276.310248 39.9324 277.164248 39.9324 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(292.682552 30.150955)">2024.07</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(277.164248 37.699705)">970号文绿电≥80%</text>
+   </g>
+   <g id="text_13">
+    <g id="patch_11">
+     <path d="M 361.369179 39.9324 
+L 408.125679 39.9324 
+Q 408.979679 39.9324 408.979679 39.0784 
+L 408.979679 24.1944 
+Q 408.979679 23.3404 408.125679 23.3404 
+L 361.369179 23.3404 
+Q 360.515179 23.3404 360.515179 24.1944 
+L 360.515179 39.0784 
+Q 360.515179 39.9324 361.369179 39.9324 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(373.743124 30.150955)">2025.05</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(361.369179 37.69065)">650号文绿电直连</text>
+   </g>
+   <g id="text_14">
+    <g id="patch_12">
+     <path d="M 440.979321 39.9324 
+L 489.077821 39.9324 
+Q 489.931821 39.9324 489.931821 39.0784 
+L 489.931821 24.1944 
+Q 489.931821 23.3404 489.077821 23.3404 
+L 440.979321 23.3404 
+Q 440.125321 23.3404 440.125321 24.1944 
+L 440.125321 39.0784 
+Q 440.125321 39.9324 440.979321 39.9324 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(448.946017 30.150955)">2026.06~07</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(440.979321 37.699705)">688号与1077号文</text>
+   </g>
+   <g id="text_15">
+    <g id="patch_13">
+     <path d="M 107.677143 108.9244 
+L 144.277143 108.9244 
+Q 145.131143 108.9244 145.131143 108.0704 
+L 145.131143 93.1864 
+Q 145.131143 92.3324 144.277143 92.3324 
+L 107.677143 92.3324 
+Q 106.823143 92.3324 106.823143 93.1864 
+L 106.823143 108.0704 
+Q 106.823143 108.9244 107.677143 108.9244 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(114.972838 99.142955)">2022.06</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(107.677143 106.664541)">大湄公河陆缆</text>
+   </g>
+   <g id="text_16">
+    <g id="patch_14">
+     <path d="M 193.549714 108.9244 
+L 242.349714 108.9244 
+Q 243.203714 108.9244 243.203714 108.0704 
+L 243.203714 93.1864 
+Q 243.203714 92.3324 242.349714 92.3324 
+L 193.549714 92.3324 
+Q 192.695714 92.3324 192.695714 93.1864 
+L 192.695714 108.0704 
+Q 192.695714 108.9244 193.549714 108.9244 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(206.94541 99.142955)">2023.10</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(193.549714 106.673595)">中哈亚欧陆缆扩容</text>
+   </g>
+   <g id="text_17">
+    <g id="patch_15">
+     <path d="M 282.336857 108.9244 
+L 325.036857 108.9244 
+Q 325.890857 108.9244 325.890857 108.0704 
+L 325.890857 93.1864 
+Q 325.890857 92.3324 325.036857 92.3324 
+L 282.336857 92.3324 
+Q 281.482857 92.3324 281.482857 93.1864 
+L 281.482857 108.0704 
+Q 281.482857 108.9244 282.336857 108.9244 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(292.682552 99.142955)">2024.07</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(282.336857 106.670736)">四城新设国际局</text>
+   </g>
+   <g id="text_18">
+    <g id="patch_16">
+     <path d="M 362.65685 108.9244 
+L 406.838007 108.9244 
+Q 407.692007 108.9244 407.692007 108.0704 
+L 407.692007 93.1864 
+Q 407.692007 92.3324 406.838007 92.3324 
+L 362.65685 92.3324 
+Q 361.80285 92.3324 361.80285 93.1864 
+L 361.80285 108.0704 
+Q 361.80285 108.9244 362.65685 108.9244 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(369.161929 98.78315)">2025.02/07</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(362.65685 106.648814)">ADC与SJC2投产</text>
+   </g>
+   <g id="text_19">
+    <g id="patch_17">
+     <path d="M 434.077743 108.9244 
+L 495.9794 108.9244 
+Q 496.8334 108.9244 496.8334 108.0704 
+L 496.8334 93.1864 
+Q 496.8334 92.3324 495.9794 92.3324 
+L 434.077743 92.3324 
+Q 433.223743 92.3324 433.223743 93.1864 
+L 433.223743 108.0704 
+Q 433.223743 108.9244 434.077743 108.9244 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(454.024267 99.142955)">2026.07</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(434.077743 106.368119)">SEA-H2X投产/ALC登陆</text>
+   </g>
+   <g id="text_20">
+    <g id="patch_18">
+     <path d="M 101.577143 177.9164 
+L 150.377143 177.9164 
+Q 151.231143 177.9164 151.231143 177.0624 
+L 151.231143 162.1784 
+Q 151.231143 161.3244 150.377143 161.3244 
+L 101.577143 161.3244 
+Q 100.723143 161.3244 100.723143 162.1784 
+L 100.723143 177.0624 
+Q 100.723143 177.9164 101.577143 177.9164 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(114.972838 168.134955)">2022.09</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(101.577143 175.665119)">数据出境评估办法</text>
+   </g>
+   <g id="text_21">
+    <g id="patch_19">
+     <path d="M 199.951855 177.9164 
+L 235.947574 177.9164 
+Q 236.801574 177.9164 236.801574 177.0624 
+L 236.801574 162.1784 
+Q 236.801574 161.3244 235.947574 161.3244 
+L 199.951855 161.3244 
+Q 199.097855 161.3244 199.097855 162.1784 
+L 199.097855 177.0624 
+Q 199.097855 177.9164 199.951855 177.9164 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(206.94541 168.134955)">2023.08</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(199.951855 175.637955)">生成式AI办法</text>
+   </g>
+   <g id="text_22">
+    <g id="patch_20">
+     <path d="M 280.308607 177.9164 
+L 327.065107 177.9164 
+Q 327.919107 177.9164 327.919107 177.0624 
+L 327.919107 162.1784 
+Q 327.919107 161.3244 327.065107 161.3244 
+L 280.308607 161.3244 
+Q 279.454607 161.3244 279.454607 162.1784 
+L 279.454607 177.0624 
+Q 279.454607 177.9164 280.308607 177.9164 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(292.682552 168.134955)">2024.03</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(280.308607 175.6594)">16号令第4条豁免</text>
+   </g>
+   <g id="text_23">
+    <g id="patch_21">
+     <path d="M 357.297429 177.9164 
+L 412.197429 177.9164 
+Q 413.051429 177.9164 413.051429 177.0624 
+L 413.051429 162.1784 
+Q 413.051429 161.3244 412.197429 161.3244 
+L 357.297429 161.3244 
+Q 356.443429 161.3244 356.443429 162.1784 
+L 356.443429 177.0624 
+Q 356.443429 177.9164 357.297429 177.9164 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(373.743124 168.134955)">2025.02</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(357.297429 175.6594)">海南自贸港负面清单</text>
+   </g>
+   <g id="text_24">
+    <g id="patch_22">
+     <path d="M 443.678571 177.9164 
+L 486.378571 177.9164 
+Q 487.232571 177.9164 487.232571 177.0624 
+L 487.232571 162.1784 
+Q 487.232571 161.3244 486.378571 161.3244 
+L 443.678571 161.3244 
+Q 442.824571 161.3244 442.824571 162.1784 
+L 442.824571 177.0624 
+Q 442.824571 177.9164 443.678571 177.9164 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(454.024267 168.134955)">2026.04</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(443.678571 175.695619)">上海清单全市域</text>
+   </g>
+   <g id="text_25">
+    <g id="patch_23">
+     <path d="M 104.627143 246.9084 
+L 147.327143 246.9084 
+Q 148.181143 246.9084 148.181143 246.0544 
+L 148.181143 231.1704 
+Q 148.181143 230.3164 147.327143 230.3164 
+L 104.627143 230.3164 
+Q 103.773143 230.3164 103.773143 231.1704 
+L 103.773143 246.0544 
+Q 103.773143 246.9084 104.627143 246.9084 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(114.972838 237.126955)">2022.11</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(104.627143 244.660455)">初代大模型训练</text>
+   </g>
+   <g id="text_26">
+    <g id="patch_24">
+     <path d="M 193.549714 246.9084 
+L 242.349714 246.9084 
+Q 243.203714 246.9084 243.203714 246.0544 
+L 243.203714 231.1704 
+Q 243.203714 230.3164 242.349714 230.3164 
+L 193.549714 230.3164 
+Q 192.695714 230.3164 192.695714 231.1704 
+L 192.695714 246.0544 
+Q 192.695714 246.9084 193.549714 246.9084 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(206.94541 237.126955)">2023.09</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(193.549714 244.657119)">通义开源生态确立</text>
+   </g>
+   <g id="text_27">
+    <g id="patch_25">
+     <path d="M 279.369302 246.9084 
+L 328.004412 246.9084 
+Q 328.858412 246.9084 328.858412 246.0544 
+L 328.858412 231.1704 
+Q 328.858412 230.3164 328.004412 230.3164 
+L 279.369302 230.3164 
+Q 278.515302 230.3164 278.515302 231.1704 
+L 278.515302 246.0544 
+Q 278.515302 246.9084 279.369302 246.9084 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(292.682552 237.126955)">2024.05</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(279.369302 244.66665)">MLA与细粒度MoE</text>
+   </g>
+   <g id="text_28">
+    <g id="patch_26">
+     <path d="M 358.425929 246.9084 
+L 411.068929 246.9084 
+Q 411.922929 246.9084 411.922929 246.0544 
+L 411.922929 231.1704 
+Q 411.922929 230.3164 411.068929 230.3164 
+L 358.425929 230.3164 
+Q 357.571929 230.3164 357.571929 231.1704 
+L 357.571929 246.0544 
+Q 357.571929 246.9084 358.425929 246.9084 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(369.161929 236.76715)">2025.01/09</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(358.425929 244.60565)">R1开源与FlashMLA</text>
+   </g>
+   <g id="text_29">
+    <g id="patch_27">
+     <path d="M 439.298485 246.9084 
+L 490.758657 246.9084 
+Q 491.612657 246.9084 491.612657 246.0544 
+L 491.612657 231.1704 
+Q 491.612657 230.3164 490.758657 230.3164 
+L 439.298485 230.3164 
+Q 438.444485 230.3164 438.444485 231.1704 
+L 438.444485 246.0544 
+Q 438.444485 246.9084 439.298485 246.9084 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(454.024267 237.126955)">2026.09</text>
+    <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; fill: #0f2537" transform="translate(439.298485 244.336869)">V4.1/Qwen3.8出海</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p020f115029">
+   <rect x="12.96" y="12.96" width="491.04" height="266.112"/>
+  </clipPath>
+ </defs>
+</svg>

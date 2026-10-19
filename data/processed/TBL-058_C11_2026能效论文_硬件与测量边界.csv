@@ -1,0 +1,7 @@
+﻿platform,architecture,memory,rated_power_limit_w,measurement_boundary,source_id,locator,period,scope
+RTX5090,Blackwell,32GB GDDR7,575,board,C11-S019,Table1/6 PDFp3/17,2026实验配置,功率上限不是实测平均功率；多GPU列为单卡限额乘卡数；不能用TDP替代耗电量
+2xRTX A6000,Ampere,2x48GB GDDR6,600,2 boards summed,C11-S019,Table1/6 PDFp3/17,2026实验配置,功率上限不是实测平均功率；多GPU列为单卡限额乘卡数；不能用TDP替代耗电量
+GH200,Hopper,96GB HBM3,900,GPU+HBM; module另记录,C11-S019,Table1/6 PDFp3/17,2026实验配置,功率上限不是实测平均功率；多GPU列为单卡限额乘卡数；不能用TDP替代耗电量
+GB10 DGX Spark,Blackwell,128GB unified LPDDR5X,140,GPU rail; package另记录,C11-S019,Table1/6 PDFp3/17,2026实验配置,功率上限不是实测平均功率；多GPU列为单卡限额乘卡数；不能用TDP替代耗电量
+RTX PRO6000,Blackwell,96GB GDDR7,600,board,C11-S019,Table1/6 PDFp3/17,2026实验配置,功率上限不是实测平均功率；多GPU列为单卡限额乘卡数；不能用TDP替代耗电量
+8xH100 SXM,Hopper,8x80GB HBM3,5600,8 boards summed,C11-S019,Table1/6 PDFp3/17,2026实验配置,功率上限不是实测平均功率；多GPU列为单卡限额乘卡数；不能用TDP替代耗电量

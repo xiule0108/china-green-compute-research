@@ -1,0 +1,159 @@
+﻿market,period,dimension,group,metric,value,published_rounded_1dp,unit,denominator,source_id,source_locator,method,limitation,snapshot_date
+Türkiye,2026,总体,Toplam-Total,使用至少一种AI技术的企业占比,14.038251375104954,14.0,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C6,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,行业,"İmalat (Kısım C)
+Manufacturing (Section C)",使用至少一种AI技术的企业占比,15.243667141931565,15.2,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C8,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,行业,"Elektrik, gaz, buhar ve havalandırma sistemi üretim ve dağıtımı ile su temini; kanalizasyon, atık yönetimi ve iyileştirme faaliyetleri (Kısım D, E)
+Electricity, gas and steam, water supply, sewerage and waste management (Section D, E)",使用至少一种AI技术的企业占比,16.135998162186997,16.1,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C9,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,行业,"İnşaat (Kısım F)
+Construction (Section F)",使用至少一种AI技术的企业占比,6.880885022371435,6.9,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C10,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,行业,"Toptan ve perakende ticaret; motorlu kara taşıtlarının ve motosikletlerin onarımı (Kısım G)
+Wholesale and retail trade; repair of motor vehicles and motorcycles (Section G) ",使用至少一种AI技术的企业占比,12.661172090819752,12.7,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C11,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,行业,"Ulaştırma ve depolama (Kısım H)
+Transportation and storage (Section H)",使用至少一种AI技术的企业占比,9.719796887588998,9.7,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C12,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,行业,"Konaklama ve yiyecek hizmeti faaliyetleri (Kısım I)
+Accommodation and food service activities (Section I)",使用至少一种AI技术的企业占比,13.151781645858016,13.2,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C13,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,行业,"Yayımcılık, radyo ve televizyon yayıncılığı ile içerik üretim ve dağıtım faaliyetleri (Kısım J)
+Publishing, broadcasting, and content production and distribution activities (Section J)",使用至少一种AI技术的企业占比,57.14933665948521,57.1,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C14,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,行业,"Telekomünikasyon, bilgisayar programlama, danışmanlık, bilişim altyapısı ve diğer bilgi hizmeti faaliyetleri (Kısım K)
+Telecommunication, computer programming, consulting, computing infrastructure and other information service activities (Section K)",使用至少一种AI技术的企业占比,63.73157056424558,63.7,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C15,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,行业,"Finans ve sigorta faaliyetleri (Kısım L)
+Finance and insurance activities (Section L)",使用至少一种AI技术的企业占比,30.197139543873213,30.2,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C16,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,行业,"Gayrimenkul faaliyetleri (Kısım M)
+Real estate activities (Section M)",使用至少一种AI技术的企业占比,25.80000515052407,25.8,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C17,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,行业,"Mesleki, bilimsel ve teknik faaliyetler (Kısım N)
+Professional, scientific and support activities (Section N)",使用至少一种AI技术的企业占比,20.450990675363304,20.5,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C18,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,行业,"İdari ve destek hizmet faaliyetleri (Kısım O)
+Administrative and support activities (Section O)",使用至少一种AI技术的企业占比,16.99609184171959,17.0,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C19,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,行业,"Bilgisayarların ve iletişim araç ve gereçlerinin onarımı (Grup 95.1)
+Repair of computers and communication equipment (Group 95.1)",使用至少一种AI技术的企业占比,32.432432432432435,32.4,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C20,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,企业规模,10-49,使用至少一种AI技术的企业占比,12.793432183745745,12.8,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C22,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,企业规模,50-249,使用至少一种AI技术的企业占比,16.983264230974303,17.0,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C23,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2026,企业规模,250+,使用至少一种AI技术的企业占比,37.06682741991044,37.1,percent,10名及以上员工，2026 ICT调查覆盖的NACE Rev.2.1行业/相应规模组企业,C02-S024,turkiye_ai2026_sector_size.xls:T1!C24,官方XLS数值原样保留；另列一位小数，避免把二进制数值精度当统计精度,采用不等于付费/跨境需求；2026行业分类与既往可能不同；不可把行业和规模两组相加,2026-10-15
+Türkiye,2025,采用障碍×规模,总体,"Girişimde ilgili uzmanlık eksikliğinin bulunması
+Lack of relevant expertise in the enterprise",74.22117587105865,74.2,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!B7,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,总体,"Girişimde ilgili uzmanlık eksikliğinin bulunması
+Lack of relevant expertise in the enterprise",72.33579048684547,72.3,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!C7,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,10—49人,"Girişimde ilgili uzmanlık eksikliğinin bulunması
+Lack of relevant expertise in the enterprise",76.03026540952254,76.0,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!E7,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,10—49人,"Girişimde ilgili uzmanlık eksikliğinin bulunması
+Lack of relevant expertise in the enterprise",74.6536336655017,74.7,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!F7,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,50—249人,"Girişimde ilgili uzmanlık eksikliğinin bulunması
+Lack of relevant expertise in the enterprise",68.84319312853653,68.8,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!H7,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,50—249人,"Girişimde ilgili uzmanlık eksikliğinin bulunması
+Lack of relevant expertise in the enterprise",67.25850942021441,67.3,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!I7,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,250人及以上,"Girişimde ilgili uzmanlık eksikliğinin bulunması
+Lack of relevant expertise in the enterprise",64.9547343847862,65.0,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!K7,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,250人及以上,"Girişimde ilgili uzmanlık eksikliğinin bulunması
+Lack of relevant expertise in the enterprise",59.00738688827332,59.0,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!L7,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,总体,"Hukuki sonuçların net olmaması
+Lack of clarity about the legal consequences",62.42153018937182,62.4,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!B9,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,总体,"Hukuki sonuçların net olmaması
+Lack of clarity about the legal consequences",66.4451381437879,66.4,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!C9,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,10—49人,"Hukuki sonuçların net olmaması
+Lack of clarity about the legal consequences",62.262993658356535,62.3,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!E9,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,10—49人,"Hukuki sonuçların net olmaması
+Lack of clarity about the legal consequences",66.73263765286573,66.7,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!F9,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,50—249人,"Hukuki sonuçların net olmaması
+Lack of clarity about the legal consequences",62.325187129143366,62.3,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!H9,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,50—249人,"Hukuki sonuçların net olmaması
+Lack of clarity about the legal consequences",64.51545747892159,64.5,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!I9,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,250人及以上,"Hukuki sonuçların net olmaması
+Lack of clarity about the legal consequences",64.95568334946573,65.0,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!K9,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,250人及以上,"Hukuki sonuçların net olmaması
+Lack of clarity about the legal consequences",70.55747922437673,70.6,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!L9,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,总体,"Veri koruma ve gizliliğin ihlaline ilişkin endişelerin olması
+Concerns regarding violation of data protection and privacy",61.77492276372462,61.8,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!B11,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,总体,"Veri koruma ve gizliliğin ihlaline ilişkin endişelerin olması
+Concerns regarding violation of data protection and privacy",65.43365381801233,65.4,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!C11,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,10—49人,"Veri koruma ve gizliliğin ihlaline ilişkin endişelerin olması
+Concerns regarding violation of data protection and privacy",62.76495654799853,62.8,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!E11,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,10—49人,"Veri koruma ve gizliliğin ihlaline ilişkin endişelerin olması
+Concerns regarding violation of data protection and privacy",64.07820099210214,64.1,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!F11,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,50—249人,"Veri koruma ve gizliliğin ihlaline ilişkin endişelerin olması
+Concerns regarding violation of data protection and privacy",56.61293904578996,56.6,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!H11,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,50—249人,"Veri koruma ve gizliliğin ihlaline ilişkin endişelerin olması
+Concerns regarding violation of data protection and privacy",68.74492557510148,68.7,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!I11,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,250人及以上,"Veri koruma ve gizliliğin ihlaline ilişkin endişelerin olması
+Concerns regarding violation of data protection and privacy",63.43544193285127,63.4,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!K11,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,250人及以上,"Veri koruma ve gizliliğin ihlaline ilişkin endişelerin olması
+Concerns regarding violation of data protection and privacy",71.71052631578947,71.7,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!L11,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,总体,"Mevcut ekipman, yazılım veya sistemlerle uyumsuzluğun olması
+Incompatibility with existing equipment, software or systems",61.74604890177511,61.7,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!B13,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,总体,"Mevcut ekipman, yazılım veya sistemlerle uyumsuzluğun olması
+Incompatibility with existing equipment, software or systems",65.1532412282712,65.2,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!C13,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,10—49人,"Mevcut ekipman, yazılım veya sistemlerle uyumsuzluğun olması
+Incompatibility with existing equipment, software or systems",62.126899976512426,62.1,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!E13,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,10—49人,"Mevcut ekipman, yazılım veya sistemlerle uyumsuzluğun olması
+Incompatibility with existing equipment, software or systems",66.14240628425883,66.1,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!F13,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,50—249人,"Mevcut ekipman, yazılım veya sistemlerle uyumsuzluğun olması
+Incompatibility with existing equipment, software or systems",61.85443182493533,61.9,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!H13,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,50—249人,"Mevcut ekipman, yazılım veya sistemlerle uyumsuzluğun olması
+Incompatibility with existing equipment, software or systems",63.71473925262827,63.7,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!I13,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,250人及以上,"Mevcut ekipman, yazılım veya sistemlerle uyumsuzluğun olması
+Incompatibility with existing equipment, software or systems",56.03161950312209,56.0,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!K13,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,250人及以上,"Mevcut ekipman, yazılım veya sistemlerle uyumsuzluğun olması
+Incompatibility with existing equipment, software or systems",56.23499538319483,56.2,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!L13,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,总体,"Maliyetlerin çok yüksek olması
+Too high costs",67.40824977926898,67.4,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!B15,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,总体,"Maliyetlerin çok yüksek olması
+Too high costs",65.02253295731465,65.0,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!C15,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,10—49人,"Maliyetlerin çok yüksek olması
+Too high costs",67.79190014428077,67.8,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!E15,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,10—49人,"Maliyetlerin çok yüksek olması
+Too high costs",65.57426474813485,65.6,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!F15,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,50—249人,"Maliyetlerin çok yüksek olması
+Too high costs",66.23949402406637,66.2,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!H15,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,50—249人,"Maliyetlerin çok yüksek olması
+Too high costs",62.945508483397504,62.9,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!I15,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,250人及以上,"Maliyetlerin çok yüksek olması
+Too high costs",65.52885801590465,65.5,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!K15,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,250人及以上,"Maliyetlerin çok yüksek olması
+Too high costs",65.70175438596492,65.7,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!L15,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,总体,"Gerekli verilerin mevcudiyeti veya kalitesi ile ilgili zorlukların bulunması
+Difficulties with availability or quality of the necessary data",54.67816608683984,54.7,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!B17,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,总体,"Gerekli verilerin mevcudiyeti veya kalitesi ile ilgili zorlukların bulunması
+Difficulties with availability or quality of the necessary data",56.6334585563114,56.6,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!C17,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,10—49人,"Gerekli verilerin mevcudiyeti veya kalitesi ile ilgili zorlukların bulunması
+Difficulties with availability or quality of the necessary data",55.28436734556923,55.3,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!E17,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,10—49人,"Gerekli verilerin mevcudiyeti veya kalitesi ile ilgili zorlukların bulunması
+Difficulties with availability or quality of the necessary data",58.21827590350026,58.2,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!F17,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,50—249人,"Gerekli verilerin mevcudiyeti veya kalitesi ile ilgili zorlukların bulunması
+Difficulties with availability or quality of the necessary data",52.06616223385121,52.1,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!H17,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,50—249人,"Gerekli verilerin mevcudiyeti veya kalitesi ile ilgili zorlukların bulunması
+Difficulties with availability or quality of the necessary data",51.4830332049547,51.5,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!I17,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,250人及以上,"Gerekli verilerin mevcudiyeti veya kalitesi ile ilgili zorlukların bulunması
+Difficulties with availability or quality of the necessary data",54.03025299398357,54.0,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!K17,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,250人及以上,"Gerekli verilerin mevcudiyeti veya kalitesi ile ilgili zorlukların bulunması
+Difficulties with availability or quality of the necessary data",54.966528162511544,55.0,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!L17,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,总体,"Etik faktörler
+Ethical considerations",43.609243186316824,43.6,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!B19,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,总体,"Etik faktörler
+Ethical considerations",49.71089009184921,49.7,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!C19,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,10—49人,"Etik faktörler
+Ethical considerations",44.14206623494278,44.1,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!E19,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,10—49人,"Etik faktörler
+Ethical considerations",49.80122882155968,49.8,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!F19,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,50—249人,"Etik faktörler
+Ethical considerations",41.634787722201196,41.6,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!H19,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,50—249人,"Etik faktörler
+Ethical considerations",48.93957530967002,48.9,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!I19,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,250人及以上,"Etik faktörler
+Ethical considerations",42.064757349731444,42.1,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!K19,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,250人及以上,"Etik faktörler
+Ethical considerations",51.7347645429363,51.7,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!L19,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,总体,"Yapay zeka teknolojilerinin girişime yararlı olmaması
+Not being useful of artificial intelligence technologies for enterprise",16.07866848159513,16.1,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!B21,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,总体,"Yapay zeka teknolojilerinin girişime yararlı olmaması
+Not being useful of artificial intelligence technologies for enterprise",20.012225944735853,20.0,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!C21,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,10—49人,"Yapay zeka teknolojilerinin girişime yararlı olmaması
+Not being useful of artificial intelligence technologies for enterprise",17.162366204744483,17.2,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!E21,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,10—49人,"Yapay zeka teknolojilerinin girişime yararlı olmaması
+Not being useful of artificial intelligence technologies for enterprise",21.57243785928627,21.6,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!F21,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,50—249人,"Yapay zeka teknolojilerinin girişime yararlı olmaması
+Not being useful of artificial intelligence technologies for enterprise",12.915586223291283,12.9,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!H21,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,50—249人,"Yapay zeka teknolojilerinin girişime yararlı olmaması
+Not being useful of artificial intelligence technologies for enterprise",16.55797855730196,16.6,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!I21,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2025,采用障碍×规模,250人及以上,"Yapay zeka teknolojilerinin girişime yararlı olmaması
+Not being useful of artificial intelligence technologies for enterprise",10.350357759684185,10.4,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!K21,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15
+Türkiye,2026,采用障碍×规模,250人及以上,"Yapay zeka teknolojilerinin girişime yararlı olmaması
+Not being useful of artificial intelligence technologies for enterprise",11.202677746999077,11.2,percent,2026为相应规模组未采用但考虑采用AI的企业；2025为本次官方并列表的历史列，未另取得当年问卷,C02-S024,turkiye_ai2026_barriers.xls:T3!L21,官方XLS数值原样保留；2025/2026列单列；不做增长率或合并分母,多选不加总；不是全部企业的比例；2025问卷/行业可比性需额外核验；不是支出金额,2026-10-15

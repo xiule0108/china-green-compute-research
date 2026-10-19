@@ -1,0 +1,702 @@
+{
+  "chart_es_1": {
+    "exhibit_id": "exhibit-es-1",
+    "reference_numbers": [
+      1,
+      2,
+      3,
+      4,
+      8,
+      11
+    ],
+    "footer_original": "来源：世界贸易组织（WTO）全球数字交付服务数据集（2026年7月版）、Anthropic Economic Index（2025/2026）、国家网信办令第16号；介子九维（JIEZIJIUWEI）测算绘制 1~4, 8, 11 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_es_2": {
+    "exhibit_id": "exhibit-es-2",
+    "reference_numbers": [
+      11,
+      12,
+      44
+    ],
+    "footer_original": "来源：Anthropic Economic Index 生产级遥测报告（2025/2026）、MLCommons MLPerf Inference v6.1 规范；介子九维（JIEZIJIUWEI）研究绘制 11, 12, 44 。",
+    "parameter_groups": [
+      "tasks",
+      "path_a",
+      "path_b"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_1_1": {
+    "exhibit_id": "exhibit-1-1",
+    "reference_numbers": [
+      2,
+      3,
+      8
+    ],
+    "footer_original": "来源：IMF《国际收支手册第七版》（BPM7，2025）、国家网信办《促进和规范数据跨境流动规定》；介子九维（JIEZIJIUWEI）研究绘制 2, 3, 8 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_1_2_v": {
+    "exhibit_id": "exhibit-1-2",
+    "reference_numbers": [
+      1,
+      63,
+      105
+    ],
+    "footer_original": "来源：联合国《2025年国民经济核算体系》（SNA 2025）、万国数据与润泽科技财务报告、OpenRouter 定价规则；介子九维（JIEZIJIUWEI）整理绘制 1, 63, 105 。",
+    "parameter_groups": [
+      "layers",
+      "capex_share",
+      "gross_margin"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_1_3": {
+    "exhibit_id": "exhibit-1-4",
+    "reference_numbers": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      45
+    ],
+    "footer_original": "来源：国家发展改革委、国家能源局、工业和信息化部、国家网信办政策文件及 DeepSeek、阿里云官方技术公告；介子九维（JIEZIJIUWEI）整理 6~10, 33~38, 45 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_1_4": {
+    "exhibit_id": "exhibit-1-5",
+    "reference_numbers": [
+      4
+    ],
+    "footer_original": "来源：世界贸易组织（WTO）《Global Trade in Digitally Delivered Services Dataset》（2026年7月版）；介子九维（JIEZIJIUWEI）整理绘制 4 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_1_5": {
+    "exhibit_id": "exhibit-1-6",
+    "reference_numbers": [
+      4
+    ],
+    "footer_original": "来源：世界贸易组织（WTO）全球服务贸易与数字交付服务数据库（2026年7月版）；介子九维（JIEZIJIUWEI）计算绘制 4 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_2_3_v": {
+    "exhibit_id": "exhibit-2-1",
+    "reference_numbers": [
+      11,
+      12,
+      44
+    ],
+    "footer_original": "来源：Anthropic Economic Index（2025年2月与2026年1月报告，区分Claude.ai与1P API样本）、MLPerf Inference v6.1 延迟规范；介子九维（JIEZIJIUWEI）整理绘制 11, 12, 44 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_2_2": {
+    "exhibit_id": "exhibit-2-3",
+    "reference_numbers": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23
+    ],
+    "footer_original": "来源：美国普查局 BTOS（2026.10）、欧盟统计局（2025.12）、新加坡 IMDA、韩国 MSIT/NIA、日本总务省等11国官方公报；介子九维（JIEZIJIUWEI）跨口径校准 13~23 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_2_1_v": {
+    "exhibit_id": "exhibit-2-4",
+    "reference_numbers": [
+      4
+    ],
+    "footer_original": "来源：世界贸易组织（WTO）《Global Trade in Digitally Delivered Services Dataset》（2026年7月版）；介子九维（JIEZIJIUWEI）整理绘制 4 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_2_4": {
+    "exhibit_id": "exhibit-2-6",
+    "reference_numbers": [
+      4,
+      11,
+      24
+    ],
+    "footer_original": "来源：WTO 数字交付服务数据库（2026.07）、Anthropic 生产级遥测及英国 CMA 云市场调查终裁报告；介子九维（JIEZIJIUWEI）模型测算 4, 11, 24 。",
+    "parameter_groups": [
+      "steps",
+      "vals",
+      "bottoms",
+      "sub_notes"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_3_1": {
+    "exhibit_id": "exhibit-3-1",
+    "reference_numbers": [
+      27,
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "footer_original": "来源：国家统计局及内蒙古、甘肃、宁夏、贵州、云南《2025年国民经济和社会发展统计公报》（2026年2月至4月发布）；介子九维（JIEZIJIUWEI）整理绘制 27~32 。",
+    "parameter_groups": [
+      "regions",
+      "thermal",
+      "hydro_nuc",
+      "wind",
+      "solar"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_3_1b": {
+    "exhibit_id": "exhibit-3-2",
+    "reference_numbers": [
+      28,
+      29,
+      30,
+      31,
+      32
+    ],
+    "footer_original": "来源：各省区2025年国民经济和社会发展统计公报及国家能源局电力统计年报；介子九维（JIEZIJIUWEI）整理绘制 28~32 。",
+    "parameter_groups": [
+      "notes_r"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_3_2": {
+    "exhibit_id": "exhibit-3-3",
+    "reference_numbers": [
+      33
+    ],
+    "footer_original": "来源：国家发展改革委《关于第四监管周期省级电网输配电价及有关事项的通知》（发改价格〔2026〕1077号，2026年8月1日起执行）；介子九维（JIEZIJIUWEI）整理绘制 33 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_3_2b": {
+    "exhibit_id": "exhibit-3-4",
+    "reference_numbers": [
+      33
+    ],
+    "footer_original": "来源：国家发展改革委发改价格〔2026〕1077号附件1原表；介子九维（JIEZIJIUWEI）整理绘制 33 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_3_3": {
+    "exhibit_id": "exhibit-3-5",
+    "reference_numbers": [
+      33
+    ],
+    "footer_original": "来源：国家发展改革委发改价格〔2026〕1077号附件1各省输配电价表附注；介子九维（JIEZIJIUWEI）整理绘制 33 。",
+    "parameter_groups": [
+      "loss34"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_3_3b": {
+    "exhibit_id": "exhibit-3-6",
+    "reference_numbers": [
+      33,
+      36,
+      39
+    ],
+    "footer_original": "来源：发改价格〔2026〕1077号、发改价格〔2025〕1192号及各省2026年春季电网代理购电价格公告；介子九维（JIEZIJIUWEI）复算绘制 33, 36, 39 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_3_5": {
+    "exhibit_id": "exhibit-3-9",
+    "reference_numbers": [
+      40
+    ],
+    "footer_original": "来源：国家数据局《数字中国发展报告（2025年）》（2026年6月发布）及2026年年中全国算力监测通报；介子九维（JIEZIJIUWEI）整理绘制 40 。",
+    "parameter_groups": [
+      "yrs",
+      "racks",
+      "ai_eflops"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_3_5b": {
+    "exhibit_id": "exhibit-3-10",
+    "reference_numbers": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "footer_original": "来源：NVIDIA 与华为硬件规格书、MLCommons MLPerf Inference v6.1（2026.03）、DeepSeek FlashMLA 技术报告（2026.09）；介子九维（JIEZIJIUWEI）归一化测算绘制 41~45 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_4_1": {
+    "exhibit_id": "exhibit-4-1",
+    "reference_numbers": [
+      60,
+      61
+    ],
+    "footer_original": "来源：Oracle Cloud（21款GPU机型）、AWS、Microsoft Azure、Google Cloud、Lambda 官方公开价格表（2026年10月快照）；介子九维（JIEZIJIUWEI）整理绘制 60, 61 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_4_1b": {
+    "exhibit_id": "exhibit-4-2",
+    "reference_numbers": [
+      57,
+      58,
+      59,
+      60
+    ],
+    "footer_original": "来源：Alphabet、Microsoft（FY26 10-K）、Amazon（2026Q2 10-Q）、Meta、Oracle（FY27Q1 10-Q）法定财务报告；介子九维（JIEZIJIUWEI）整理绘制 57~60 。",
+    "parameter_groups": [
+      "firms",
+      "capex_prev",
+      "capex_2026"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_4_3": {
+    "exhibit_id": "exhibit-4-5",
+    "reference_numbers": [
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64
+    ],
+    "footer_original": "来源：英国竞争与市场管理局（CMA）《云服务市场调查最终决定报告》（2025.07 终裁及 2026.05 后续行动）及算力云市场数据；介子九维（JIEZIJIUWEI）研究绘制 56~64 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_4_3b": {
+    "exhibit_id": "exhibit-4-6",
+    "reference_numbers": [
+      61,
+      63
+    ],
+    "footer_original": "来源：AWS 与 Microsoft Azure 跨区域公开目录价目表（2026年10月）、本研究第3章与第9章成本模型；介子九维（JIEZIJIUWEI）计算绘制 61, 63 。",
+    "parameter_groups": [
+      "regs",
+      "a100_idx",
+      "h100_idx"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_5_2": {
+    "exhibit_id": "exhibit-5-2",
+    "reference_numbers": [
+      67,
+      68,
+      69
+    ],
+    "footer_original": "来源：中国移动、中国电信、SubCom、华海通信（HMN Tech）海缆投产与登陆公告（2025至2026年）；介子九维（JIEZIJIUWEI）整理绘制 67~69 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_5_2b": {
+    "exhibit_id": "exhibit-5-3",
+    "reference_numbers": [
+      70
+    ],
+    "footer_original": "来源：中国电信国际有限公司（CTG）公开国际专线资费目录（2026年现行版）；介子九维（JIEZIJIUWEI）整理绘制 70 。",
+    "parameter_groups": [
+      "routes",
+      "iplc_usd"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_5_5": {
+    "exhibit_id": "exhibit-5-6",
+    "reference_numbers": [
+      71
+    ],
+    "footer_original": "来源：香港互联网交换中心（HKIX）与新加坡互联网交换中心（SGIX）官方现行端口收费标准（2026年）；介子九维（JIEZIJIUWEI）折算绘制 71 。",
+    "parameter_groups": [
+      "ports",
+      "hkix_usd_per_gbps",
+      "sgix_usd_per_gbps"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_5_5b": {
+    "exhibit_id": "exhibit-5-7",
+    "reference_numbers": [
+      71,
+      72
+    ],
+    "footer_original": "来源：工业和信息化部跨境陆缆工程通报、哈萨克斯坦电信年报及2025年1月AAE-1海缆中断实测报告；介子九维（JIEZIJIUWEI）整理绘制 71, 72 。",
+    "parameter_groups": [
+      "metrics",
+      "before_v",
+      "after_v"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_6_2": {
+    "exhibit_id": "exhibit-6-2",
+    "reference_numbers": [
+      76,
+      77
+    ],
+    "footer_original": "来源：MLCommons MLPerf Inference v5.1 / v6.1 官方规范（2025.09 / 2026.03）；介子九维（JIEZIJIUWEI）整理绘制 76, 77 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_6_2b": {
+    "exhibit_id": "exhibit-6-3",
+    "reference_numbers": [
+      78,
+      79,
+      80,
+      81
+    ],
+    "footer_original": "来源：阿里云百炼 Qwen-ASR / Qwen-Omni / Batch API 技术文档（2026.10）及主流云服务商 SLA 协议；介子九维（JIEZIJIUWEI）整理绘制 78~81 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_6_5": {
+    "exhibit_id": "exhibit-6-6",
+    "reference_numbers": [
+      81,
+      89
+    ],
+    "footer_original": "来源：Google 碳感知计算架构、西北电网分时电价机制与 DeepSeek 错峰计费规则；介子九维（JIEZIJIUWEI）仿真绘制 81, 89 。",
+    "parameter_groups": [
+      "grid_carbon",
+      "virtual_cap"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_6_3_tea": {
+    "exhibit_id": "exhibit-6-7",
+    "reference_numbers": [
+      76,
+      81,
+      88
+    ],
+    "footer_original": "来源：介子九维（JIEZIJIUWEI）跨洋 Token 交付 30 情景技术经济分析（TEA）模型（见《M02_24加6情景交付成本与临界利用率矩阵.csv》） 76, 81, 88 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_7_3": {
+    "exhibit_id": "exhibit-7-3",
+    "reference_numbers": [
+      8,
+      9
+    ],
+    "footer_original": "来源：国家网信办令第16号《促进和规范数据跨境流动规定》第3至8条及上海、海南自贸区数据出境负面清单（2025至2026年）；介子九维（JIEZIJIUWEI）研究绘制 8, 9 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_7_3b": {
+    "exhibit_id": "exhibit-7-4",
+    "reference_numbers": [
+      8,
+      9,
+      90
+    ],
+    "footer_original": "来源：《中华人民共和国电信条例》、国家网信办数据出境安全评估与标准合同备案指南、上海自贸区管理办法；介子九维（JIEZIJIUWEI）整理绘制 8, 9, 90 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_7_5": {
+    "exhibit_id": "exhibit-7-6",
+    "reference_numbers": [
+      35,
+      38,
+      40
+    ],
+    "footer_original": "来源：国家发展改革委、国家能源局、国家数据局绿电直连与算电协同政策文件（2024至2026年）；介子九维（JIEZIJIUWEI）整理绘制 35, 38, 40 。",
+    "parameter_groups": [
+      "metrics",
+      "vals"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_7_5b": {
+    "exhibit_id": "exhibit-7-7",
+    "reference_numbers": [
+      8,
+      35,
+      90
+    ],
+    "footer_original": "来源：国家能源局《可再生能源绿色电力证书核发和交易规则》、国家网信办令第16号；介子九维（JIEZIJIUWEI）整理绘制 8, 35, 90 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_8_1": {
+    "exhibit_id": "exhibit-8-1",
+    "reference_numbers": [
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99
+    ],
+    "footer_original": "来源：欧盟 GDPR 与 AI Act 修正案（2026.07）、美国司法部 28 CFR Part 202（DSP）、越南个人数据保护法（2026.01生效）、印度 DPDP 实施细则（2025.11）；介子九维（JIEZIJIUWEI）评估绘制 91~99 。",
+    "parameter_groups": [
+      "markets",
+      "dims",
+      "matrix",
+      "level_txt"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_9_2": {
+    "exhibit_id": "exhibit-9-2",
+    "reference_numbers": [
+      33,
+      60,
+      61,
+      102
+    ],
+    "footer_original": "来源：AWS、Oracle、Lambda 公开 GPU 价目表（2026.10）、第四监管周期省级电网输配电价及本研究 LCoT 测算模型；介子九维（JIEZIJIUWEI）测算绘制 33, 60, 61, 102 。",
+    "parameter_groups": [
+      "modes",
+      "hw_depr",
+      "power_pue",
+      "net_ixp",
+      "ops_comp"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_9_2b": {
+    "exhibit_id": "exhibit-9-3",
+    "reference_numbers": [
+      105
+    ],
+    "footer_original": "来源：万国数据（GDS Holdings）2025年年度报告（Form 20-F）及2026年第二季度未经审计财务报告；介子九维（JIEZIJIUWEI）整理绘制 105 。",
+    "parameter_groups": [
+      "gds_metrics",
+      "gds_vals"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_9_3": {
+    "exhibit_id": "exhibit-9-4",
+    "reference_numbers": [
+      101,
+      102,
+      106
+    ],
+    "footer_original": "来源：DeepSeek 官方 API 定价页（2026.09生效）、阿里云百炼国际站与北京站价目表（2026.10.13）、Anthropic 与 Together AI 公开目录；介子九维（JIEZIJIUWEI）整理绘制 101, 102, 106 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_9_5": {
+    "exhibit_id": "exhibit-9-6",
+    "reference_numbers": [
+      105,
+      109,
+      111
+    ],
+    "footer_original": "来源：本研究第9章 LCoT 财务模型、万国数据与润泽科技经营参数、四川君逸数码智算项目预算公告（2026.08）；介子九维（JIEZIJIUWEI）测算绘制 105, 109, 111 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_9_5b": {
+    "exhibit_id": "exhibit-9-7",
+    "reference_numbers": [
+      105,
+      111
+    ],
+    "footer_original": "来源：万国数据 2025Q4 长期资产减值测试披露、君逸数码智算项目财务测算及本研究 M02/M03B 盈亏平衡模型；介子九维（JIEZIJIUWEI）测算绘制 105, 111 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_9_5c_sobol": {
+    "exhibit_id": "exhibit-9-8",
+    "reference_numbers": [
+      101,
+      105,
+      111
+    ],
+    "footer_original": "来源：介子九维（JIEZIJIUWEI）全局方差敏感性数值估计与单因素有限差分边际改善测算模型（见《M03_Sobol全局方差敏感性指数表.csv》《M06_边际改善措施影子价格与优先级排序表.csv》） 101, 105, 111 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_10_1": {
+    "exhibit_id": "exhibit-10-1",
+    "reference_numbers": [
+      107,
+      108,
+      109,
+      110
+    ],
+    "footer_original": "来源：宁夏中卫、甘肃庆阳、内蒙古和林格尔、广东汕头华侨试验区及云南昆明2025至2026H1官方通报；介子九维（JIEZIJIUWEI）整理绘制 107~110 。",
+    "parameter_groups": [
+      "notes_h"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_10_1b": {
+    "exhibit_id": "exhibit-10-2",
+    "reference_numbers": [
+      8,
+      33,
+      66,
+      107
+    ],
+    "footer_original": "来源：发改价格〔2026〕1077号、工信部四城出入口局批复、上海与海南数据跨境负面清单；介子九维（JIEZIJIUWEI）评估绘制 8, 33, 66, 107 。",
+    "parameter_groups": [
+      "dims",
+      "west_v",
+      "coast_v",
+      "sw_v"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_10_3": {
+    "exhibit_id": "exhibit-10-5",
+    "reference_numbers": [
+      105,
+      109,
+      110,
+      111
+    ],
+    "footer_original": "来源：万国数据、润泽科技、天亿马、鸿博股份2026年半年度/季度财报及君逸数码2026年8月公告；介子九维（JIEZIJIUWEI）整理绘制 105, 109~111 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_10_3b": {
+    "exhibit_id": "exhibit-10-6",
+    "reference_numbers": [
+      40,
+      108
+    ],
+    "footer_original": "来源：内蒙古自治区能源局官方披露（2026年10月14日）、发改环资〔2024〕970号PUE标准；介子九维（JIEZIJIUWEI）整理绘制 40, 108 。",
+    "parameter_groups": [
+      "items",
+      "pue_v"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_11_2": {
+    "exhibit_id": "exhibit-11-2",
+    "reference_numbers": [
+      116
+    ],
+    "footer_original": "来源：生态环境部、国家统计局《关于发布2023年电力二氧化碳排放因子的公告》（2025年12月31日发布）；介子九维（JIEZIJIUWEI）整理绘制 116 。",
+    "parameter_groups": [
+      "provs30"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_11_2b": {
+    "exhibit_id": "exhibit-11-4",
+    "reference_numbers": [
+      117
+    ],
+    "footer_original": "来源：生态环境部等《关于发布2024年电力碳足迹因子数据的公告》（2025年10月发布）；介子九维（JIEZIJIUWEI）整理绘制 117 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_11_4": {
+    "exhibit_id": "exhibit-11-7",
+    "reference_numbers": [
+      114
+    ],
+    "footer_original": "来源：国际能源署（IEA）《Key Questions on Energy and AI》（2026年版，Annex A Table A.4）；介子九维（JIEZIJIUWEI）整理绘制 114 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_11_4b": {
+    "exhibit_id": "exhibit-11-8",
+    "reference_numbers": [
+      115
+    ],
+    "footer_original": "来源：美国劳伦斯伯克利国家实验室（LBNL）《2026 United States Data Center Energy Usage Report》（2026年6月18日发布，Table 2）；介子九维（JIEZIJIUWEI）整理绘制 115 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_11_1b_lmdi": {
+    "exhibit_id": "exhibit-11-9",
+    "reference_numbers": [
+      114,
+      116
+    ],
+    "footer_original": "来源：国际能源署（IEA）2026 中国电量序列、介子九维（JIEZIJIUWEI）LMDI 分解与杰文斯反弹模型（见《M04_LMDI算力电力增长结构分解表.csv》《M02B_Kaya_LMDI电量与碳排五因子完全分解表.csv》） 114, 116 。",
+    "parameter_groups": [
+      "steps",
+      "vals",
+      "bottoms",
+      "shares"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  },
+  "chart_12_2": {
+    "exhibit_id": "exhibit-12-2",
+    "reference_numbers": [
+      121
+    ],
+    "footer_original": "来源：工业和信息化部办公厅《关于公布国家算力互联互通区域节点建设名单的通知》（工信厅信管函〔2026〕404号，2026年8月20日）；介子九维（JIEZIJIUWEI）整理绘制 121 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_12_2b": {
+    "exhibit_id": "exhibit-12-4",
+    "reference_numbers": [
+      123,
+      124,
+      125,
+      126
+    ],
+    "footer_original": "来源：北京、上海（沪经信智〔2026〕248号）、黑龙江、湖南、芜湖、武汉、宁夏、烟台2025至2026年算力券政策与公示文件；介子九维（JIEZIJIUWEI）整理绘制 123~126 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_12_4b": {
+    "exhibit_id": "exhibit-12-7",
+    "reference_numbers": [
+      121,
+      122,
+      123,
+      124,
+      125,
+      126
+    ],
+    "footer_original": "来源：工业和信息化部算力互联互通节点部署、国家发展改革委算电协同政策、国家网信办负面清单及本研究路线设计；介子九维（JIEZIJIUWEI）研究绘制 121~126 。",
+    "parameter_groups": [],
+    "input_mode": "frozen_function_literals"
+  },
+  "chart_12_4": {
+    "exhibit_id": "exhibit-12-8",
+    "reference_numbers": [
+      6,
+      122
+    ],
+    "footer_original": "来源：中办国办《关于数字贸易改革创新发展的意见》、工信部等五部门2026年国家绿色算力设施推荐通知；介子九维（JIEZIJIUWEI）整理绘制 6, 122 。",
+    "parameter_groups": [
+      "targets",
+      "t_vals"
+    ],
+    "input_mode": "frozen_function_literals_and_json"
+  }
+}

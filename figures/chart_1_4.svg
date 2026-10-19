@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="559.7365pt" height="352.6656pt" viewBox="0 0 559.7365 352.6656" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-17T00:55:56.441279</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 352.6656 
+L 559.7365 352.6656 
+L 559.7365 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 55.7365 273.528 
+L 546.7765 273.528 
+L 546.7765 12.96 
+L 55.7365 12.96 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 55.7365 273.528 
+L 55.7365 12.96 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m805262a913" d="M 0 0 
+L 0 2.8 
+" style="stroke: #1e293b; stroke-width: 0.7"/>
+      </defs>
+      <g>
+       <use xlink:href="#m805262a913" x="55.7365" y="273.528" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="55.7365" y="286.6" transform="rotate(-0 55.7365 286.6)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 146.669833 273.528 
+L 146.669833 12.96 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m805262a913" x="146.669833" y="273.528" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="146.669833" y="286.6" transform="rotate(-0 146.669833 286.6)">200</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 237.603167 273.528 
+L 237.603167 12.96 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m805262a913" x="237.603167" y="273.528" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="237.603167" y="286.6" transform="rotate(-0 237.603167 286.6)">400</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 328.5365 273.528 
+L 328.5365 12.96 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m805262a913" x="328.5365" y="273.528" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="328.5365" y="286.6" transform="rotate(-0 328.5365 286.6)">600</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 419.469833 273.528 
+L 419.469833 12.96 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m805262a913" x="419.469833" y="273.528" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="419.469833" y="286.6" transform="rotate(-0 419.469833 286.6)">800</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 510.403167 273.528 
+L 510.403167 12.96 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m805262a913" x="510.403167" y="273.528" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="510.403167" y="286.6" transform="rotate(-0 510.403167 286.6)">1000</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 7.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #475569" x="301.2565" y="300.676" transform="rotate(-0 301.2565 300.676)">可数字交付服务 (DDS) 出口额（十亿美元）</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13">
+      <defs>
+       <path id="m4d9066af17" d="M 0 0 
+L -2.8 0 
+" style="stroke: #1e293b; stroke-width: 0.7"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4d9066af17" x="55.7365" y="261.684" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="48.7365" y="264.72" transform="rotate(-0 48.7365 264.72)">越南 (VN)</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m4d9066af17" x="55.7365" y="243.462462" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="48.7365" y="246.498462" transform="rotate(-0 48.7365 246.498462)">沙特 (SA)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m4d9066af17" x="55.7365" y="225.240923" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="48.7365" y="228.276923" transform="rotate(-0 48.7365 228.276923)">印尼 (ID)</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m4d9066af17" x="55.7365" y="207.019385" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="48.7365" y="210.055385" transform="rotate(-0 48.7365 210.055385)">阿联酋 (AE)</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m4d9066af17" x="55.7365" y="188.797846" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="48.7365" y="191.833846" transform="rotate(-0 48.7365 191.833846)">韩国 (KR)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m4d9066af17" x="55.7365" y="170.576308" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="48.7365" y="173.612308" transform="rotate(-0 48.7365 173.612308)">加拿大 (CA)</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m4d9066af17" x="55.7365" y="152.354769" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="48.7365" y="155.390769" transform="rotate(-0 48.7365 155.390769)">日本 (JP)</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m4d9066af17" x="55.7365" y="134.133231" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="48.7365" y="137.169231" transform="rotate(-0 48.7365 137.169231)">法国 (FR)</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m4d9066af17" x="55.7365" y="115.911692" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="48.7365" y="118.947692" transform="rotate(-0 48.7365 118.947692)">新加坡 (SG)</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m4d9066af17" x="55.7365" y="97.690154" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="48.7365" y="100.726154" transform="rotate(-0 48.7365 100.726154)">中国 (CN)</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m4d9066af17" x="55.7365" y="79.468615" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="48.7365" y="82.504615" transform="rotate(-0 48.7365 82.504615)">德国 (DE)</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m4d9066af17" x="55.7365" y="61.247077" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="48.7365" y="64.283077" transform="rotate(-0 48.7365 64.283077)">印度 (IN)</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m4d9066af17" x="55.7365" y="43.025538" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="48.7365" y="46.061538" transform="rotate(-0 48.7365 46.061538)">英国 (GB)</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m4d9066af17" x="55.7365" y="24.804" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="48.7365" y="27.84" transform="rotate(-0 48.7365 27.84)">美国 (US)</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_27">
+    <path d="M 56.318473 261.684 
+L 58.091673 261.684 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke: #94a3b8; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 57.014113 243.462462 
+L 59.85578 243.462462 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke: #94a3b8; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 58.087127 225.240923 
+L 61.08338 225.240923 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke: #94a3b8; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 63.247593 207.019385 
+L 70.540447 207.019385 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke: #94a3b8; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_31">
+    <path d="M 72.122687 188.797846 
+L 89.87742 188.797846 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke: #94a3b8; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_32">
+    <path d="M 81.33878 170.576308 
+L 97.63858 170.576308 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke: #94a3b8; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_33">
+    <path d="M 103.23098 152.354769 
+L 114.029313 152.354769 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke: #94a3b8; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 114.15662 134.133231 
+L 154.94022 134.133231 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke: #94a3b8; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 105.0451 115.911692 
+L 162.219433 115.911692 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke: #94a3b8; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 107.69126 97.690154 
+L 166.270513 97.690154 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke: #007a87; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_37">
+    <path d="M 138.726807 79.468615 
+L 199.820367 79.468615 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke: #94a3b8; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_38">
+    <path d="M 111.87874 61.247077 
+L 200.002233 61.247077 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke: #94a3b8; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_39">
+    <path d="M 181.028993 43.025538 
+L 303.034247 43.025538 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke: #94a3b8; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_40">
+    <path d="M 273.371793 24.804 
+L 429.181513 24.804 
+" clip-path="url(#p07836b8dc3)" style="fill: none; stroke: #94a3b8; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 55.7365 273.528 
+L 55.7365 12.96 
+" style="fill: none; stroke: #cbd5e1; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 55.7365 273.528 
+L 546.7765 273.528 
+" style="fill: none; stroke: #64748b; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m4489bb3da2" d="M 0 2.645751 
+C 0.701661 2.645751 1.374679 2.366978 1.870829 1.870829 
+C 2.366978 1.374679 2.645751 0.701661 2.645751 0 
+C 2.645751 -0.701661 2.366978 -1.374679 1.870829 -1.870829 
+C 1.374679 -2.366978 0.701661 -2.645751 0 -2.645751 
+C -0.701661 -2.645751 -1.374679 -2.366978 -1.870829 -1.870829 
+C -2.366978 -1.374679 -2.645751 -0.701661 -2.645751 0 
+C -2.645751 0.701661 -2.366978 1.374679 -1.870829 1.870829 
+C -1.374679 2.366978 -0.701661 2.645751 0 2.645751 
+z
+" style="stroke: #475569; stroke-width: 0.8"/>
+    </defs>
+    <g clip-path="url(#p07836b8dc3)">
+     <use xlink:href="#m4489bb3da2" x="56.318473" y="261.684" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+     <use xlink:href="#m4489bb3da2" x="57.014113" y="243.462462" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+     <use xlink:href="#m4489bb3da2" x="58.087127" y="225.240923" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+     <use xlink:href="#m4489bb3da2" x="63.247593" y="207.019385" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+     <use xlink:href="#m4489bb3da2" x="72.122687" y="188.797846" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+     <use xlink:href="#m4489bb3da2" x="81.33878" y="170.576308" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+     <use xlink:href="#m4489bb3da2" x="103.23098" y="152.354769" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+     <use xlink:href="#m4489bb3da2" x="114.15662" y="134.133231" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+     <use xlink:href="#m4489bb3da2" x="105.0451" y="115.911692" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+     <use xlink:href="#m4489bb3da2" x="107.69126" y="97.690154" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+     <use xlink:href="#m4489bb3da2" x="138.726807" y="79.468615" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+     <use xlink:href="#m4489bb3da2" x="111.87874" y="61.247077" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+     <use xlink:href="#m4489bb3da2" x="181.028993" y="43.025538" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+     <use xlink:href="#m4489bb3da2" x="273.371793" y="24.804" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <defs>
+     <path id="m45ae81ed14" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #0f2537"/>
+    </defs>
+    <g clip-path="url(#p07836b8dc3)">
+     <use xlink:href="#m45ae81ed14" x="58.091673" y="261.684" style="fill: #0f2537; stroke: #0f2537"/>
+     <use xlink:href="#m45ae81ed14" x="59.85578" y="243.462462" style="fill: #0f2537; stroke: #0f2537"/>
+     <use xlink:href="#m45ae81ed14" x="61.08338" y="225.240923" style="fill: #0f2537; stroke: #0f2537"/>
+     <use xlink:href="#m45ae81ed14" x="70.540447" y="207.019385" style="fill: #0f2537; stroke: #0f2537"/>
+     <use xlink:href="#m45ae81ed14" x="89.87742" y="188.797846" style="fill: #0f2537; stroke: #0f2537"/>
+     <use xlink:href="#m45ae81ed14" x="97.63858" y="170.576308" style="fill: #0f2537; stroke: #0f2537"/>
+     <use xlink:href="#m45ae81ed14" x="114.029313" y="152.354769" style="fill: #0f2537; stroke: #0f2537"/>
+     <use xlink:href="#m45ae81ed14" x="154.94022" y="134.133231" style="fill: #0f2537; stroke: #0f2537"/>
+     <use xlink:href="#m45ae81ed14" x="162.219433" y="115.911692" style="fill: #0f2537; stroke: #0f2537"/>
+     <use xlink:href="#m45ae81ed14" x="166.270513" y="97.690154" style="fill: #0f2537; stroke: #0f2537"/>
+     <use xlink:href="#m45ae81ed14" x="199.820367" y="79.468615" style="fill: #0f2537; stroke: #0f2537"/>
+     <use xlink:href="#m45ae81ed14" x="200.002233" y="61.247077" style="fill: #0f2537; stroke: #0f2537"/>
+     <use xlink:href="#m45ae81ed14" x="303.034247" y="43.025538" style="fill: #0f2537; stroke: #0f2537"/>
+     <use xlink:href="#m45ae81ed14" x="429.181513" y="24.804" style="fill: #0f2537; stroke: #0f2537"/>
+    </g>
+   </g>
+   <g id="text_22">
+    <g id="patch_5">
+     <path d="M 64.457007 265.9365 
+L 162.15721 265.9365 
+Q 163.03921 265.9365 163.03921 265.0545 
+L 163.03921 258.3135 
+Q 163.03921 257.4315 162.15721 257.4315 
+L 64.457007 257.4315 
+Q 63.575007 257.4315 63.575007 258.3135 
+L 63.575007 265.0545 
+Q 63.575007 265.9365 64.457007 265.9365 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.3px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="64.457007" y="263.8575" transform="rotate(-0 64.457007 263.8575)">$5.18B（2019: $1.28B, +304.7%）</text>
+   </g>
+   <g id="text_23">
+    <g id="patch_6">
+     <path d="M 66.221113 247.714962 
+L 163.921316 247.714962 
+Q 164.803316 247.714962 164.803316 246.832962 
+L 164.803316 240.091962 
+Q 164.803316 239.209962 163.921316 239.209962 
+L 66.221113 239.209962 
+Q 65.339113 239.209962 65.339113 240.091962 
+L 65.339113 246.832962 
+Q 65.339113 247.714962 66.221113 247.714962 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.3px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="66.221113" y="245.635962" transform="rotate(-0 66.221113 245.635962)">$9.06B（2019: $2.81B, +222.4%）</text>
+   </g>
+   <g id="text_24">
+    <g id="patch_7">
+     <path d="M 67.448713 229.493423 
+L 168.645416 229.493423 
+Q 169.527416 229.493423 169.527416 228.611423 
+L 169.527416 221.870423 
+Q 169.527416 220.988423 168.645416 220.988423 
+L 67.448713 220.988423 
+Q 66.566713 220.988423 66.566713 221.870423 
+L 66.566713 228.611423 
+Q 66.566713 229.493423 67.448713 229.493423 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.3px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="67.448713" y="227.414423" transform="rotate(-0 67.448713 227.414423)">$11.76B（2019: $5.17B, +127.5%）</text>
+   </g>
+   <g id="text_25">
+    <g id="patch_8">
+     <path d="M 76.90578 211.271885 
+L 178.102483 211.271885 
+Q 178.984483 211.271885 178.984483 210.389885 
+L 178.984483 203.648885 
+Q 178.984483 202.766885 178.102483 202.766885 
+L 76.90578 202.766885 
+Q 76.02378 202.766885 76.02378 203.648885 
+L 76.02378 210.389885 
+Q 76.02378 211.271885 76.90578 211.271885 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.3px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="76.90578" y="209.192885" transform="rotate(-0 76.90578 209.192885)">$32.56B（2019: $16.52B, +97.1%）</text>
+   </g>
+   <g id="text_26">
+    <g id="patch_9">
+     <path d="M 96.242753 193.050346 
+L 200.935956 193.050346 
+Q 201.817956 193.050346 201.817956 192.168346 
+L 201.817956 185.427346 
+Q 201.817956 184.545346 200.935956 184.545346 
+L 96.242753 184.545346 
+Q 95.360753 184.545346 95.360753 185.427346 
+L 95.360753 192.168346 
+Q 95.360753 193.050346 96.242753 193.050346 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.3px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="96.242753" y="190.971346" transform="rotate(-0 96.242753 190.971346)">$75.09B（2019: $36.04B, +108.4%）</text>
+   </g>
+   <g id="text_27">
+    <g id="patch_10">
+     <path d="M 104.003913 174.828808 
+L 205.200616 174.828808 
+Q 206.082616 174.828808 206.082616 173.946808 
+L 206.082616 167.205808 
+Q 206.082616 166.323808 205.200616 166.323808 
+L 104.003913 166.323808 
+Q 103.121913 166.323808 103.121913 167.205808 
+L 103.121913 173.946808 
+Q 103.121913 174.828808 104.003913 174.828808 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.3px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="104.003913" y="172.749808" transform="rotate(-0 104.003913 172.749808)">$92.16B（2019: $56.31B, +63.7%）</text>
+   </g>
+   <g id="text_28">
+    <g id="patch_11">
+     <path d="M 120.394647 156.607269 
+L 228.58435 156.607269 
+Q 229.46635 156.607269 229.46635 155.725269 
+L 229.46635 148.984269 
+Q 229.46635 148.102269 228.58435 148.102269 
+L 120.394647 148.102269 
+Q 119.512647 148.102269 119.512647 148.984269 
+L 119.512647 155.725269 
+Q 119.512647 156.607269 120.394647 156.607269 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.3px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="120.394647" y="154.528269" transform="rotate(-0 120.394647 154.528269)">$128.21B（2019: $104.46B, +22.7%）</text>
+   </g>
+   <g id="text_29">
+    <g id="patch_12">
+     <path d="M 161.305553 138.385731 
+L 269.495256 138.385731 
+Q 270.377256 138.385731 270.377256 137.503731 
+L 270.377256 130.762731 
+Q 270.377256 129.880731 269.495256 129.880731 
+L 161.305553 129.880731 
+Q 160.423553 129.880731 160.423553 130.762731 
+L 160.423553 137.503731 
+Q 160.423553 138.385731 161.305553 138.385731 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.3px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="161.305553" y="136.306731" transform="rotate(-0 161.305553 136.306731)">$218.19B（2019: $128.49B, +69.8%）</text>
+   </g>
+   <g id="text_30">
+    <g id="patch_13">
+     <path d="M 168.584767 120.164192 
+L 280.27097 120.164192 
+Q 281.15297 120.164192 281.15297 119.282192 
+L 281.15297 112.541192 
+Q 281.15297 111.659192 280.27097 111.659192 
+L 168.584767 111.659192 
+Q 167.702767 111.659192 167.702767 112.541192 
+L 167.702767 119.282192 
+Q 167.702767 120.164192 168.584767 120.164192 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.3px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="168.584767" y="118.085192" transform="rotate(-0 168.584767 118.085192)">$234.20B（2019: $108.45B, +116.0%）</text>
+   </g>
+   <g id="text_31">
+    <g id="patch_14">
+     <path d="M 172.635847 101.942654 
+L 284.32205 101.942654 
+Q 285.20405 101.942654 285.20405 101.060654 
+L 285.20405 94.319654 
+Q 285.20405 93.437654 284.32205 93.437654 
+L 172.635847 93.437654 
+Q 171.753847 93.437654 171.753847 94.319654 
+L 171.753847 101.060654 
+Q 171.753847 101.942654 172.635847 101.942654 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.3px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="172.635847" y="99.863654" transform="rotate(-0 172.635847 99.863654)">$243.11B（2019: $114.27B, +112.8%）</text>
+   </g>
+   <g id="text_32">
+    <g id="patch_15">
+     <path d="M 206.1857 83.721115 
+L 314.375403 83.721115 
+Q 315.257403 83.721115 315.257403 82.839115 
+L 315.257403 76.098115 
+Q 315.257403 75.216115 314.375403 75.216115 
+L 206.1857 75.216115 
+Q 205.3037 75.216115 205.3037 76.098115 
+L 205.3037 82.839115 
+Q 205.3037 83.721115 206.1857 83.721115 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.3px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="206.1857" y="81.642115" transform="rotate(-0 206.1857 81.642115)">$316.90B（2019: $182.53B, +73.6%）</text>
+   </g>
+   <g id="text_33">
+    <g id="patch_16">
+     <path d="M 206.367567 65.499577 
+L 318.05377 65.499577 
+Q 318.93577 65.499577 318.93577 64.617577 
+L 318.93577 57.876577 
+Q 318.93577 56.994577 318.05377 56.994577 
+L 206.367567 56.994577 
+Q 205.485567 56.994577 205.485567 57.876577 
+L 205.485567 64.617577 
+Q 205.485567 65.499577 206.367567 65.499577 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.3px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="206.367567" y="63.420577" transform="rotate(-0 206.367567 63.420577)">$317.30B（2019: $123.48B, +157.0%）</text>
+   </g>
+   <g id="text_34">
+    <g id="patch_17">
+     <path d="M 309.39958 47.278038 
+L 417.589283 47.278038 
+Q 418.471283 47.278038 418.471283 46.396038 
+L 418.471283 39.655038 
+Q 418.471283 38.773038 417.589283 38.773038 
+L 309.39958 38.773038 
+Q 308.51758 38.773038 308.51758 39.655038 
+L 308.51758 46.396038 
+Q 308.51758 47.278038 309.39958 47.278038 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.3px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="309.39958" y="45.199038" transform="rotate(-0 309.39958 45.199038)">$543.91B（2019: $275.57B, +97.4%）</text>
+   </g>
+   <g id="text_35">
+    <g id="patch_18">
+     <path d="M 435.546847 29.0565 
+L 543.73655 29.0565 
+Q 544.61855 29.0565 544.61855 28.1745 
+L 544.61855 21.4335 
+Q 544.61855 20.5515 543.73655 20.5515 
+L 435.546847 20.5515 
+Q 434.664847 20.5515 434.664847 21.4335 
+L 434.664847 28.1745 
+Q 434.664847 29.0565 435.546847 29.0565 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6.3px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="435.546847" y="26.9775" transform="rotate(-0 435.546847 26.9775)">$821.36B（2019: $478.67B, +71.6%）</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_19">
+     <path d="M 216.3245 339.7056 
+L 386.1885 339.7056 
+Q 387.5485 339.7056 387.5485 338.3456 
+L 387.5485 326.7856 
+Q 387.5485 325.4256 386.1885 325.4256 
+L 216.3245 325.4256 
+Q 214.9645 325.4256 214.9645 326.7856 
+L 214.9645 338.3456 
+Q 214.9645 339.7056 216.3245 339.7056 
+z
+" style="fill: #f8fafc; stroke: #e2e8f0; stroke-width: 0.75; stroke-linejoin: miter"/>
+    </g>
+    <g id="PathCollection_3">
+     <g>
+      <use xlink:href="#m4489bb3da2" x="225.5045" y="333.3646" style="fill: #cbd5e1; stroke: #475569; stroke-width: 0.8"/>
+     </g>
+    </g>
+    <g id="text_36">
+     <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start" x="236.3845" y="335.1496" transform="rotate(-0 236.3845 335.1496)">2019年 DDS 出口额</text>
+    </g>
+    <g id="PathCollection_4">
+     <g>
+      <use xlink:href="#m45ae81ed14" x="314.1765" y="333.3646" style="fill: #0f2537; stroke: #0f2537"/>
+     </g>
+    </g>
+    <g id="text_37">
+     <text style="font-size: 6.8px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start" x="325.0565" y="335.1496" transform="rotate(-0 325.0565 335.1496)">2025年 DDS 出口额</text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p07836b8dc3">
+   <rect x="55.7365" y="12.96" width="491.04" height="260.568"/>
+  </clipPath>
+ </defs>
+</svg>

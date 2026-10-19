@@ -1,0 +1,12 @@
+﻿机构情景,年份,全部设施用电_TWh,全部设施容量_GW,PUE,数据类型,来源ID,定位,限定,许可
+Base,2023,360,83,1.43,历史估计,C11-S001,PDF p108 Table A.1,IEA全球所有数据中心情景；不是中国Token出口预测,Annex A: CC BY-NC-SA 4.0
+Base,2024,416,97,1.41,历史估计,C11-S001,PDF p108 Table A.1,IEA全球所有数据中心情景；不是中国Token出口预测,Annex A: CC BY-NC-SA 4.0
+Base,2025,485,114,1.38,历史估计,C11-S001,PDF p108 Table A.1,IEA全球所有数据中心情景；不是中国Token出口预测,Annex A: CC BY-NC-SA 4.0
+Base,2030,945,226,1.29,情景预测,C11-S001,PDF p108 Table A.1,IEA全球所有数据中心情景；不是中国Token出口预测,Annex A: CC BY-NC-SA 4.0
+Base,2035,1193,277,1.21,探索情景,C11-S001,PDF p108 Table A.1,IEA全球所有数据中心情景；不是中国Token出口预测,Annex A: CC BY-NC-SA 4.0
+Lift-Off,2030,1008,241,1.29,情景预测,C11-S001,PDF p108 Table A.1,IEA全球所有数据中心情景；不是中国Token出口预测,Annex A: CC BY-NC-SA 4.0
+Lift-Off,2035,1637,383,1.21,探索情景,C11-S001,PDF p108 Table A.1,IEA全球所有数据中心情景；不是中国Token出口预测,Annex A: CC BY-NC-SA 4.0
+High Efficiency,2030,868,205,1.24,情景预测,C11-S001,PDF p108 Table A.1,IEA全球所有数据中心情景；不是中国Token出口预测,Annex A: CC BY-NC-SA 4.0
+High Efficiency,2035,1013,231,1.13,探索情景,C11-S001,PDF p108 Table A.1,IEA全球所有数据中心情景；不是中国Token出口预测,Annex A: CC BY-NC-SA 4.0
+Headwinds,2030,833,200,1.33,情景预测,C11-S001,PDF p108 Table A.1,IEA全球所有数据中心情景；不是中国Token出口预测,Annex A: CC BY-NC-SA 4.0
+Headwinds,2035,942,218,1.25,探索情景,C11-S001,PDF p108 Table A.1,IEA全球所有数据中心情景；不是中国Token出口预测,Annex A: CC BY-NC-SA 4.0

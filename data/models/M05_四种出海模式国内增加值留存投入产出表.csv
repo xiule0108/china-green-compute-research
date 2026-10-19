@@ -1,0 +1,5 @@
+﻿mode,imported_hw_cloud_leakage_pct,domestic_green_power_grid_pct,domestic_telecom_gateway_pct,domestic_aidc_engineering_pct,domestic_model_rd_ops_pct,total_domestic_value_added_pct
+模式A：进口高端算力硬件纯IaaS裸金属出租（Imported Hardware Bare-Metal IaaS）,68.5,14.0,0.0,7.5,10.0,31.5
+模式B：进口/混合算力集群+跨境标准Token API直连（Cross-Border Standard Token API）,42.0,16.5,0.0,8.5,33.0,58.0
+模式C：海外边缘合规前店+西部绿电算力后厂+垂直行业Agent交付（Front-Shop Back-Factory Agent）,31.0,17.5,3.5,6.5,41.5,69.0
+模式D：全国产自主推理NPU集群+西部/西南清洁电力+本土开源基座模型（Indigenous NPU & Green Power）,11.5,18.0,0.0,33.5,37.0,88.5

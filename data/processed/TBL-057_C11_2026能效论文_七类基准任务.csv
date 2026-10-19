@@ -1,0 +1,8 @@
+﻿benchmark,items,seeded_attempts,max_new_tokens,score,source_id,locator,scope
+IFEval,541,1,8K,prompt-level strict acc,C11-S019,Table2 PDFp3,同一基准内跨模型固定输出上限，不同基准上限不同；截断错误按规则计错
+MMLU-Pro subset,1000,1,16K,exact match,C11-S019,Table2 PDFp3,同一基准内跨模型固定输出上限，不同基准上限不同；截断错误按规则计错
+GPQA Diamond,198,2,32K,exact match,C11-S019,Table2 PDFp3,同一基准内跨模型固定输出上限，不同基准上限不同；截断错误按规则计错
+MATH-500,500,1,16K,exact match,C11-S019,Table2 PDFp3,同一基准内跨模型固定输出上限，不同基准上限不同；截断错误按规则计错
+AIME25/26,60,4,32K,exact match,C11-S019,Table2 PDFp3,同一基准内跨模型固定输出上限，不同基准上限不同；截断错误按规则计错
+LiveCodeBench,175,1,32K,pass@1 executed,C11-S019,Table2 PDFp3,同一基准内跨模型固定输出上限，不同基准上限不同；截断错误按规则计错
+BFCL v3,2073,1,4K per turn,macro avg17categories,C11-S019,Table2 PDFp3,同一基准内跨模型固定输出上限，不同基准上限不同；截断错误按规则计错

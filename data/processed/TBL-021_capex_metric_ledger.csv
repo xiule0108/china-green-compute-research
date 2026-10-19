@@ -1,0 +1,24 @@
+﻿data_id,metric,record_type,value,unit,period,object,definition,source_ids,locator,transformation,checked_date
+C04-D010,Amazon现金资本开支,已披露实绩,128.3,十亿美元,2025,全球,含技术基础设施和履约网络；不全是AWS/AI,C04-S005,Liquidity and Capital Resources,原值,2026-10-15
+C04-D011,Alphabet年初2026资本开支指引,指引/历史指引,175—185,十亿美元,2026年初指引,全球,历史计划值；最新已取得Q2修订见C04-D015；不可标为2026全年实绩,C04-S007,CFO 2026 CapEx outlook,原值,2026-10-15
+C04-D015,Alphabet 2026全年CapEx指引（Q2修订）,指引/历史指引,195—205,十亿美元,2026-07-22发布的2026全年指引,全球,全公司前瞻范围；不是全年实绩，也不是独立AI开支；截至2026-10-15检索取得的最近完整季度电话会口径,C04-S011,PDF第13页，Moving to investments段,原值,2026-10-15
+C04-D016,Alphabet Q2电话会披露的上一版2026 CapEx范围,指引/历史指引,180—190,十亿美元,2026-07-22电话会回顾前版指引,全球,用于与当次195—205范围对照；不把前版与新版相加,C04-S011,PDF第13页，up from our previous estimate段,原值,2026-10-15
+C04-D017,Alphabet季度购置物业设备现金支出,已披露实绩,44.924,十亿美元,2026Q2,全球,现金流量表Purchases of property and equipment；正数表示支出规模，非含租赁的承诺投资,C04-S012,PDF第7页现金流量表和第9页FCF调节表,"abs(-44,924百万美元)÷1000",2026-10-15
+C04-D018,Alphabet上半年购置物业设备现金支出,已披露实绩,80.598,十亿美元,2026H1截至2026-06-30,全球,现金流量表口径；与季度实绩、全年指引分列,C04-S012,"PDF第7页，Six Months Ended June 30, 2026 / Purchases of property and equipment","abs(-80,598百万美元)÷1000",2026-10-15
+C04-D021,Microsoft季度现金新增PP&E,已披露实绩,35.802,十亿美元,FY2026Q4/自然年2026Q2，结束2026-06-30,Microsoft集团,现金流量表Additions to property and equipment；不含非现金融资租赁新增额,C04-S003,"Cash Flows — Three Months Ended June 30, 2026",35802百万元÷1000,2026-10-15
+C04-D022,Microsoft全年现金新增PP&E,已披露实绩,115.948,十亿美元,FY2026截至2026-06-30,Microsoft集团,财年，不是自然年2026；不与自然年计划直接比较,C04-S003,"Cash Flows — Year Ended June 30, 2026",115948百万元÷1000,2026-10-15
+C04-D023,Microsoft季度CapEx电话会口径,已披露实绩,约41,十亿美元,FY2026Q4/自然年2026Q2,Microsoft集团,包含融资租赁；电话会圆整数，不强行重构为现金支出加租赁额的精确等式,C04-S014,Amy Hood: Capital expenditures were ...,原值,2026-10-15
+C04-D024,Microsoft季度total finance leases,已披露实绩,约5.6,十亿美元,FY2026Q4/自然年2026Q2,Microsoft集团,电话会融资租赁口径，主要为大型数据中心；不等于当季偿还租赁本金,C04-S014,"Amy Hood: This quarter, total finance leases ...",原值,2026-10-15
+C04-D025,Microsoft自然年2026 CapEx最新电话会指引,指引/历史指引,约175,十亿美元,自然年2026；2026-07-29发布,Microsoft集团,管理层称投资预期不变；使用年限更新使部分未来租赁从融资租赁转经营租赁，CapEx呈现下调,C04-S014,calendar year 2026 CapEx investment expectations / approximately $175 billion,原值,2026-10-15
+C04-D026,Microsoft CapEx租赁分类说明,口径说明,finance leases计入CapEx；operating leases不计入CapEx,口径,2026-07-29电话会,Microsoft集团,约175B不能与此前指引或其他公司口径未经调整直接作实物投资削减比较,C04-S014,useful-life update与lease classification段,原值,2026-10-15
+C04-D027,Meta季度现金购置PP&E,已披露实绩,30.116,十亿美元,2026Q2截至2026-06-30,Meta集团,现金流量表购置项；与含租赁本金CapEx另列,C04-S015,Cash Flows / FCF reconciliation,30116百万元÷1000,2026-10-15
+C04-D028,Meta季度融资租赁本金支付,已披露实绩,0.962,十亿美元,2026Q2截至2026-06-30,Meta集团,已支付本金，不能与Microsoft融资租赁新增额直接比较,C04-S015,Cash Flows — Principal payments on finance leases,962百万元÷1000,2026-10-15
+C04-D029,Meta季度含融资租赁本金资本支出,已披露实绩,31.078,十亿美元,2026Q2截至2026-06-30,Meta集团,现金PP&E购置加租赁本金；新闻稿圆整为31.08B,C04-S015,FCF reconciliation,(30116+962)百万元÷1000,2026-10-15
+C04-D030,Meta自然年2026 CapEx指引,指引/历史指引,130—145,十亿美元,自然年2026；2026-07-29发布,Meta集团,包含principal payments on finance leases；不是AI专项或租赁新增额,C04-S015,CFO Outlook Commentary,原值,2026-10-15
+C04-D031,Amazon季度现金购置PP&E（总额）,已披露实绩,54.208,十亿美元,2026Q2截至2026-06-30,Amazon集团,现金流量表总额，未扣设备出售和激励,C04-S020,PDF第4页 Cash Flows,54208百万元÷1000,2026-10-15
+C04-D032,Amazon季度设备出售与激励回款,已披露实绩,1.132,十亿美元,2026Q2截至2026-06-30,Amazon集团,从PP&E总购置额扣除以得到公司净现金资本开支,C04-S020,PDF第4页 Cash Flows,1132百万元÷1000,2026-10-15
+C04-D033,Amazon季度净现金资本开支,已披露实绩,53.076,十亿美元,2026Q2截至2026-06-30,Amazon集团,设备购置扣出售和激励；MD&A圆整53.1B；非全部AI专项,C04-S020,PDF第4、27页,(54208-1132)百万元÷1000,2026-10-15
+C04-D034,Amazon季度融资租赁本金偿还,已披露实绩,0.395,十亿美元,2026Q2截至2026-06-30,Amazon集团,融资活动现金流；不与新增租赁资产混为一项,C04-S020,PDF第4页 financing activities,395百万元÷1000,2026-10-15
+C04-D035,Amazon季度融资租赁取得PP&E（净重估及修改）,已披露实绩,0.563,十亿美元,2026Q2截至2026-06-30,Amazon集团,非现金取得资产口径；与偿还本金不同,C04-S020,PDF第9页 supplemental cash flow information,563百万元÷1000,2026-10-15
+C04-D036,Amazon尚未开始租赁承诺总额,未来承诺存量,137.214,十亿美元,截至2026-06-30存量,Amazon集团,未来年度承诺，不是2026已支出资本开支；并非全为AI数据中心,C04-S020,PDF第15页 Note 4 Commitments and Contingencies,137214百万元÷1000,2026-10-15
+C04-D037,Amazon无条件采购义务总额,未来承诺存量,130.065,十亿美元,截至2026-06-30存量,Amazon集团,未来义务；包括多个业务采购，不等于当期AI投资或GPU已投产,C04-S020,PDF第15页 Note 4,130065百万元÷1000,2026-10-15

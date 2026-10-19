@@ -1,0 +1,7 @@
+﻿boundary,metric,value,unit,data_period,source_id,locator,scope
+Large2训练/生命周期披露,GHG,20.4,ktCO2e,2025-01/研究披露期,C11-S021,The first comprehensive lifecycle analysis,原文第一组称training并注after18monthusage，保留原口径未自行分摊；400-token组含上游、排除用户终端
+Large2训练/生命周期披露,Water,281000,m3,2025-01/研究披露期,C11-S021,The first comprehensive lifecycle analysis,原文第一组称training并注after18monthusage，保留原口径未自行分摊；400-token组含上游、排除用户终端
+Large2训练/生命周期披露,Resource depletion,660,kg Sb eq,2025-01/研究披露期,C11-S021,The first comprehensive lifecycle analysis,原文第一组称training并注after18monthusage，保留原口径未自行分摊；400-token组含上游、排除用户终端
+Le Chat 400-token回复边际影响,GHG,1.14,gCO2e,2025-01/研究披露期,C11-S021,The first comprehensive lifecycle analysis,原文第一组称training并注after18monthusage，保留原口径未自行分摊；400-token组含上游、排除用户终端
+Le Chat 400-token回复边际影响,Water,45,mL,2025-01/研究披露期,C11-S021,The first comprehensive lifecycle analysis,原文第一组称training并注after18monthusage，保留原口径未自行分摊；400-token组含上游、排除用户终端
+Le Chat 400-token回复边际影响,Resource depletion,0.16,mg Sb eq,2025-01/研究披露期,C11-S021,The first comprehensive lifecycle analysis,原文第一组称training并注after18monthusage，保留原口径未自行分摊；400-token组含上游、排除用户终端

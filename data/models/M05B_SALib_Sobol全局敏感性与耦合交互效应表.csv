@@ -1,0 +1,7 @@
+parameter_code,parameter_name_zh,bounds,S1_first_order,ST_total_order,S_interaction_order
+utilization_u,集群有效计费利用率 (u),0.35 ~ 0.88,0.6671,0.6809,0.0138
+kv_cache_hit_eta,KV Cache前缀缓存命中率与算子效率 (η),0.15 ~ 0.8,0.1463,0.1555,0.0092
+hw_capex_mult,GPU/AI芯片采购与折旧成本 (c_hw),0.8 ~ 1.35,0.0827,0.0893,0.0066
+electricity_price_pe,全口径绿电到户电价 (p_e),0.24 ~ 0.68,0.0749,0.0771,0.0022
+network_tariff_mult,国际海陆缆专线与IXP交换资费 (p_net),0.5 ~ 2.0,0.0076,0.0081,0.0005
+facility_pue,算力中心液冷与余热实测PUE,1.15 ~ 1.48,0.0061,0.0057,0.0

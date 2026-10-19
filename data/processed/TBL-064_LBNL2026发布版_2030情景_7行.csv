@@ -1,0 +1,8 @@
+﻿scenario,electricity_TWh,difference_from_reference_percent,share_US_electricity_percent,year,source_id,locator,published
+Reference Case,649,,11.8,2030,C11-S008,PDF p11/Table 2,2026-06-18
+Consolidated Deployment,578,-10.8,10.5,2030,C11-S008,PDF p11/Table 2,2026-06-18
+High ASIC,664,2.4,12.1,2030,C11-S008,PDF p11/Table 2,2026-06-18
+Low Accelerator Lifetime,590,-9.1,10.7,2030,C11-S008,PDF p11/Table 2,2026-06-18
+High Inference Energy,782,20.6,14.2,2030,C11-S008,PDF p11/Table 2,2026-06-18
+Compounded Uncertainty—Low,521,-19.6,9.5,2030,C11-S008,PDF p11/Table 2,2026-06-18
+Compounded Uncertainty—High,843,29.9,15.3,2030,C11-S008,PDF p11/Table 2,2026-06-18

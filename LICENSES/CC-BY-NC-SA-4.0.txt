@@ -1,0 +1,12 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+SPDX identifier: CC-BY-NC-SA-4.0
+This is a license notice and a link to the complete legal code.
+The complete license terms are incorporated by reference:
+https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.en
+
+Plain-language deed:
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Material covered by this license is identified in LICENSE-SCOPE.md.
+Attribution and third-party exceptions must be retained.

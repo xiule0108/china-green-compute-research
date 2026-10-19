@@ -1,0 +1,169 @@
+{
+  "run_model8_2030_three_scenarios_monte_carlo": {
+    "random_seed": 20261015,
+    "n_samples": 10000,
+    "sampling_method": "Independent Triangular Distribution via numpy.random.default_rng(20261015).triangular(left, mode, right, size=10000)",
+    "independence_assumption": "4项随机驱动变量（it_twh_tri, eff_m_kwh_tri, price_usd_1m_tri, broad_mult_tri）在各情景内按独立三角分布依次抽样；pue_fixed 与 load_factor_fixed 为固定常数参数（非随机变量）。",
+    "interval_interpretation": "P10—P90为给定三角分布与独立性假设下的模拟分位区间（覆盖中间80%的模拟结果），不代表统计推断置信区间、已求解的一般均衡或已证实的可实现收入。",
+    "data_nature": "作者情景假设（Author Scenario Assumption）",
+    "stochastic_variables_meta": [
+      {
+        "param_key": "it_twh_tri",
+        "name_zh": "2030年境内直接用于跨境推理的IT电量",
+        "unit": "TWh/年",
+        "distribution": "Triangular(left, mode, right)",
+        "independent": true,
+        "data_nature": "作者情景假设"
+      },
+      {
+        "param_key": "eff_m_kwh_tri",
+        "name_zh": "2030年单位IT电能合格推理词元产出效率",
+        "unit": "百万Token/kWh_IT (即 PetaTokens/TWh_IT)",
+        "distribution": "Triangular(left, mode, right)",
+        "independent": true,
+        "data_nature": "作者情景假设"
+      },
+      {
+        "param_key": "price_usd_1m_tri",
+        "name_zh": "跨境推理服务综合结算单价",
+        "unit": "USD/百万Token",
+        "distribution": "Triangular(left, mode, right)",
+        "independent": true,
+        "data_nature": "作者情景假设"
+      },
+      {
+        "param_key": "broad_mult_tri",
+        "name_zh": "广义出海（含海外边缘前店+境内后厂混合回源）相对于狭义境内直供的营收乘数",
+        "unit": "无量纲倍数",
+        "distribution": "Triangular(left, mode, right)",
+        "independent": true,
+        "data_nature": "作者情景假设"
+      }
+    ],
+    "fixed_parameters_meta": [
+      {
+        "param_key": "pue_fixed",
+        "name_zh": "出海智算集群综合电能利用效率（PUE）",
+        "value": 1.22,
+        "unit": "无量纲比值",
+        "is_stochastic": false,
+        "data_nature": "作者情景固定常数（对齐新建枢纽PUE政策加权基准）"
+      },
+      {
+        "param_key": "load_factor_fixed",
+        "name_zh": "8卡高密推理服务器（10.2 kW IT功率）年均有效综合负荷率",
+        "value": 0.75,
+        "unit": "无量纲比例",
+        "is_stochastic": false,
+        "data_nature": "作者情景固定常数"
+      }
+    ],
+    "scenario_specs": [
+      {
+        "scenario_id": "S1_Baseline",
+        "scenario_name": "情景一：基准演进情景（Baseline Scenario）",
+        "it_twh_tri": {
+          "__tuple__": [
+            18.0,
+            24.0,
+            29.5
+          ]
+        },
+        "eff_m_kwh_tri": {
+          "__tuple__": [
+            1.5,
+            1.85,
+            2.15
+          ]
+        },
+        "price_usd_1m_tri": {
+          "__tuple__": [
+            0.24,
+            0.33,
+            0.42
+          ]
+        },
+        "broad_mult_tri": {
+          "__tuple__": [
+            1.28,
+            1.4,
+            1.52
+          ]
+        },
+        "pue_fixed": 1.22,
+        "load_factor_fixed": 0.75,
+        "data_nature": "作者情景假设"
+      },
+      {
+        "scenario_id": "S2_Accelerated",
+        "scenario_name": "情景二：加速突破情景（Accelerated Breakthrough Scenario）",
+        "it_twh_tri": {
+          "__tuple__": [
+            38.0,
+            50.0,
+            61.5
+          ]
+        },
+        "eff_m_kwh_tri": {
+          "__tuple__": [
+            1.95,
+            2.3,
+            2.7
+          ]
+        },
+        "price_usd_1m_tri": {
+          "__tuple__": [
+            0.28,
+            0.35,
+            0.44
+          ]
+        },
+        "broad_mult_tri": {
+          "__tuple__": [
+            1.22,
+            1.32,
+            1.43
+          ]
+        },
+        "pue_fixed": 1.22,
+        "load_factor_fixed": 0.75,
+        "data_nature": "作者情景假设"
+      },
+      {
+        "scenario_id": "S3_Fragmented",
+        "scenario_name": "情景三：主权割裂情景（Sovereign Fragmentation Scenario）",
+        "it_twh_tri": {
+          "__tuple__": [
+            7.2,
+            10.5,
+            14.0
+          ]
+        },
+        "eff_m_kwh_tri": {
+          "__tuple__": [
+            1.25,
+            1.45,
+            1.7
+          ]
+        },
+        "price_usd_1m_tri": {
+          "__tuple__": [
+            0.21,
+            0.26,
+            0.33
+          ]
+        },
+        "broad_mult_tri": {
+          "__tuple__": [
+            1.4,
+            1.55,
+            1.7
+          ]
+        },
+        "pue_fixed": 1.22,
+        "load_factor_fixed": 0.75,
+        "data_nature": "作者情景假设"
+      }
+    ]
+  }
+}

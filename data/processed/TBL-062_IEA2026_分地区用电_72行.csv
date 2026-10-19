@@ -1,0 +1,73 @@
+﻿数据集,地区,指标,年份,数值,单位,类型,来源ID,定位,归属章节,限定,许可
+IEA2026_Table_A4,World,Total facility,2023,360,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,World,Total facility,2024,416,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,World,Total facility,2025,485,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,World,Total facility,2030,945,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,World,IT equipment,2023,252,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,World,IT equipment,2024,295,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,World,IT equipment,2025,352,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,World,IT equipment,2030,732,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,North America,Total facility,2023,158,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,North America,Total facility,2024,187,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,North America,Total facility,2025,229,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,North America,Total facility,2030,434,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,North America,IT equipment,2023,120,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,North America,IT equipment,2024,142,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,North America,IT equipment,2025,176,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,North America,IT equipment,2030,351,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,United States,Total facility,2023,154,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,United States,Total facility,2024,183,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,United States,Total facility,2025,224,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,United States,Total facility,2030,426,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,United States,IT equipment,2023,117,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,United States,IT equipment,2024,139,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,United States,IT equipment,2025,173,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,United States,IT equipment,2030,345,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Central and South America,Total facility,2023,1.2,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Central and South America,Total facility,2024,1.4,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Central and South America,Total facility,2025,1.5,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Central and South America,Total facility,2030,2.7,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Central and South America,IT equipment,2023,0.7,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Central and South America,IT equipment,2024,0.8,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Central and South America,IT equipment,2025,0.9,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Central and South America,IT equipment,2030,1.8,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Europe,Total facility,2023,66,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Europe,Total facility,2024,68,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Europe,Total facility,2025,72,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Europe,Total facility,2030,114,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Europe,IT equipment,2023,45,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Europe,IT equipment,2024,47,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Europe,IT equipment,2025,51,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Europe,IT equipment,2030,88,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Africa,Total facility,2023,1.3,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Africa,Total facility,2024,1.4,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Africa,Total facility,2025,1.6,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Africa,Total facility,2030,2.9,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Africa,IT equipment,2023,0.7,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Africa,IT equipment,2024,0.8,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Africa,IT equipment,2025,0.9,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Africa,IT equipment,2030,1.8,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Middle East,Total facility,2023,1.3,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Middle East,Total facility,2024,1.5,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Middle East,Total facility,2025,1.7,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Middle East,Total facility,2030,3.0,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Middle East,IT equipment,2023,0.7,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Middle East,IT equipment,2024,0.8,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Middle East,IT equipment,2025,0.9,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Middle East,IT equipment,2030,1.7,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Asia Pacific,Total facility,2023,128,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Asia Pacific,Total facility,2024,150,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Asia Pacific,Total facility,2025,173,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Asia Pacific,Total facility,2030,378,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Asia Pacific,IT equipment,2023,82,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Asia Pacific,IT equipment,2024,100,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Asia Pacific,IT equipment,2025,118,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,Asia Pacific,IT equipment,2030,281,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,China,Total facility,2023,84,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,China,Total facility,2024,102,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,China,Total facility,2025,117,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,China,Total facility,2030,277,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,China,IT equipment,2023,54,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,China,IT equipment,2024,68,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,China,IT equipment,2025,80,TWh,历史估计,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0
+IEA2026_Table_A4,China,IT equipment,2030,205,TWh,Base Case预测,C11-S001,PDF p110 Table A.4,11.2;11.4,所有数据中心；分区存在包含关系，不能直接相加；各值四舍五入,Annex A: CC BY-NC-SA 4.0

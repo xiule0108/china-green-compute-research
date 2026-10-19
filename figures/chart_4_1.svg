@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="654.006125pt" height="364.697437pt" viewBox="0 0 654.006125 364.697437" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-17T00:56:00.580900</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 364.697437 
+L 654.006125 364.697437 
+L 654.006125 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 146.176625 323.424 
+L 637.216625 323.424 
+L 637.216625 12.96 
+L 146.176625 12.96 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 146.176625 323.424 
+L 146.176625 12.96 
+" clip-path="url(#pe0d126642b)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="mf607c638a7" d="M 0 0 
+L 0 2.8 
+" style="stroke: #1e293b; stroke-width: 0.7"/>
+      </defs>
+      <g>
+       <use xlink:href="#mf607c638a7" x="146.176625" y="323.424" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="146.176625" y="336.496" transform="rotate(-0 146.176625 336.496)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 244.384625 323.424 
+L 244.384625 12.96 
+" clip-path="url(#pe0d126642b)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#mf607c638a7" x="244.384625" y="323.424" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="244.384625" y="336.496" transform="rotate(-0 244.384625 336.496)">5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 342.592625 323.424 
+L 342.592625 12.96 
+" clip-path="url(#pe0d126642b)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#mf607c638a7" x="342.592625" y="323.424" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="342.592625" y="336.496" transform="rotate(-0 342.592625 336.496)">10</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 440.800625 323.424 
+L 440.800625 12.96 
+" clip-path="url(#pe0d126642b)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#mf607c638a7" x="440.800625" y="323.424" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="440.800625" y="336.496" transform="rotate(-0 440.800625 336.496)">15</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 539.008625 323.424 
+L 539.008625 12.96 
+" clip-path="url(#pe0d126642b)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#mf607c638a7" x="539.008625" y="323.424" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="539.008625" y="336.496" transform="rotate(-0 539.008625 336.496)">20</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 637.216625 323.424 
+L 637.216625 12.96 
+" clip-path="url(#pe0d126642b)" style="fill: none; stroke-dasharray: 2.035,0.88; stroke-dashoffset: 0; stroke: #e2e8f0; stroke-opacity: 0.85; stroke-width: 0.55"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#mf607c638a7" x="637.216625" y="323.424" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 6.9px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1e293b" x="637.216625" y="336.496" transform="rotate(-0 637.216625 336.496)">25</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 7px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #475569" x="391.696625" y="350.484" transform="rotate(-0 391.696625 350.484)">单卡等效按需价格（USD / GPU·小时）</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13">
+      <defs>
+       <path id="m1ba61dc9c1" d="M 0 0 
+L -2.8 0 
+" style="stroke: #1e293b; stroke-width: 0.7"/>
+      </defs>
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="313.268636" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="315.952636" transform="rotate(-0 139.176625 315.952636)">Oracle VM/BM.GPU2.1~2 (1~2×P100 16GB)</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="298.760972" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="301.444972" transform="rotate(-0 139.176625 301.444972)">Oracle VM/BM.GPU.A10.1~4 (1~4×A10 24GB)</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="284.253308" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="286.937308" transform="rotate(-0 139.176625 286.937308)">Oracle VM/BM.GPU3.1~8 (1~8×V100 16GB)</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="269.745645" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="272.429645" transform="rotate(-0 139.176625 272.429645)">Oracle BM.GPU4.8 (8×A100 40GB)</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="255.237981" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="257.921981" transform="rotate(-0 139.176625 257.921981)">Oracle BM.GPU.L40S.4 (4×L40S 48GB)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="240.730318" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="243.414318" transform="rotate(-0 139.176625 243.414318)">AWS p4de.24xlarge (8×A100 美东至欧亚)</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="226.222654" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="228.906654" transform="rotate(-0 139.176625 228.906654)">Oracle BM.GPU.A100-v2.8 (8×A100 80GB)</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="211.714991" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="214.398991" transform="rotate(-0 139.176625 214.398991)">Lambda H100 SXM 80GB (按需)</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="197.207327" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="199.891327" transform="rotate(-0 139.176625 199.891327)">Oracle BM.GPU.RTXPro.8 (8×RTX PRO 6000)</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="182.699664" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="185.383664" transform="rotate(-0 139.176625 185.383664)">Oracle BM.GPU.MI300X.8 (8×AMD 192GB)</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="168.192" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="170.876" transform="rotate(-0 139.176625 170.876)">Lambda B200 SXM6 180GB (按需)</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="153.684336" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="156.368336" transform="rotate(-0 139.176625 156.368336)">AWS p5.48xlarge (8×H100 美东)</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="139.176673" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="141.860673" transform="rotate(-0 139.176625 141.860673)">Azure NC40ads_H100_v5 (美东至东南亚)</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="124.669009" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="127.353009" transform="rotate(-0 139.176625 127.353009)">Oracle BM.GPU.MI355X.8 (8×AMD CDNA4)</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="110.161346" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="112.845346" transform="rotate(-0 139.176625 112.845346)">Oracle BM.GPU.H200.8 / H100.8 (8×Hopper)</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="95.653682" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="98.337682" transform="rotate(-0 139.176625 98.337682)">Oracle BM.GPU.B200.8 (8×B200 180GB)</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="81.146019" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="83.830019" transform="rotate(-0 139.176625 83.830019)">AWS p6-b200.48xlarge (8×B200 美西)</text>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="66.638355" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="69.322355" transform="rotate(-0 139.176625 69.322355)">Oracle BM.GPU.B300.8 (8×B300 263GB)</text>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="52.130692" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="54.814692" transform="rotate(-0 139.176625 54.814692)">Oracle BM.GPU.GB200.4 (4×B200 NVL72)</text>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="37.623028" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="40.307028" transform="rotate(-0 139.176625 40.307028)">AWS p6-b300.48xlarge (8×B300 美西)</text>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#m1ba61dc9c1" x="146.176625" y="23.115364" style="fill: #1e293b; stroke: #1e293b; stroke-width: 0.7"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font-size: 6.1px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #1e293b" x="139.176625" y="25.799364" transform="rotate(-0 139.176625 25.799364)">Oracle BM.GPU.GB300.4 (4×B300 NVL72)</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 146.176625 317.766011 
+L 171.219665 317.766011 
+L 171.219665 308.77126 
+L 146.176625 308.77126 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #007a87; opacity: 0.9"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 146.176625 303.258348 
+L 185.459825 303.258348 
+L 185.459825 294.263596 
+L 146.176625 294.263596 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #007a87; opacity: 0.9"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 146.176625 288.750684 
+L 204.119345 288.750684 
+L 204.119345 279.755933 
+L 146.176625 279.755933 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #007a87; opacity: 0.9"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 146.176625 274.243021 
+L 206.083505 274.243021 
+L 206.083505 265.248269 
+L 146.176625 265.248269 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #007a87; opacity: 0.9"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 146.176625 259.735357 
+L 214.922225 259.735357 
+L 214.922225 250.740606 
+L 146.176625 250.740606 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #007a87; opacity: 0.9"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 146.176625 245.227693 
+L 213.547313 245.227693 
+L 213.547313 236.232942 
+L 146.176625 236.232942 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #007a87; opacity: 0.9"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 146.176625 230.72003 
+L 224.743025 230.72003 
+L 224.743025 221.725279 
+L 146.176625 221.725279 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #007a87; opacity: 0.9"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 146.176625 216.212366 
+L 224.546609 216.212366 
+L 224.546609 207.217615 
+L 146.176625 207.217615 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #007a87; opacity: 0.9"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 146.176625 201.704703 
+L 234.563825 201.704703 
+L 234.563825 192.709951 
+L 146.176625 192.709951 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #007a87; opacity: 0.9"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 146.176625 187.197039 
+L 264.026225 187.197039 
+L 264.026225 178.202288 
+L 146.176625 178.202288 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #d97706; opacity: 0.9"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 146.176625 172.689376 
+L 277.578929 172.689376 
+L 277.578929 163.694624 
+L 146.176625 163.694624 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #d97706; opacity: 0.9"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 146.176625 158.181712 
+L 281.310833 158.181712 
+L 281.310833 149.186961 
+L 146.176625 149.186961 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #d97706; opacity: 0.9"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 146.176625 143.674049 
+L 283.274993 143.674049 
+L 283.274993 134.679297 
+L 146.176625 134.679297 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #d97706; opacity: 0.9"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 146.176625 129.166385 
+L 315.094385 129.166385 
+L 315.094385 120.171634 
+L 146.176625 120.171634 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #d97706; opacity: 0.9"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 146.176625 114.658721 
+L 342.592625 114.658721 
+L 342.592625 105.66397 
+L 146.176625 105.66397 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #d97706; opacity: 0.9"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 146.176625 100.151058 
+L 421.159025 100.151058 
+L 421.159025 91.156307 
+L 146.176625 91.156307 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #0f2537; opacity: 0.9"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 146.176625 85.643394 
+L 425.873009 85.643394 
+L 425.873009 76.648643 
+L 146.176625 76.648643 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #0f2537; opacity: 0.9"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 146.176625 71.135731 
+L 440.800625 71.135731 
+L 440.800625 62.140979 
+L 146.176625 62.140979 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #0f2537; opacity: 0.9"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 146.176625 56.628067 
+L 460.442225 56.628067 
+L 460.442225 47.633316 
+L 146.176625 47.633316 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #0f2537; opacity: 0.9"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 146.176625 42.120404 
+L 495.797105 42.120404 
+L 495.797105 33.125652 
+L 146.176625 33.125652 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #0f2537; opacity: 0.9"/>
+   </g>
+   <g id="patch_23">
+    <path d="M 146.176625 27.61274 
+L 499.725425 27.61274 
+L 499.725425 18.617989 
+L 146.176625 18.617989 
+z
+" clip-path="url(#pe0d126642b)" style="fill: #0f2537; opacity: 0.9"/>
+   </g>
+   <g id="line2d_34">
+    <path d="M 213.547313 240.730318 
+L 230.439089 240.730318 
+" clip-path="url(#pe0d126642b)" style="fill: none; stroke: #b91c1c; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_35">
+    <path d="M 224.546609 211.714991 
+L 230.439089 211.714991 
+" clip-path="url(#pe0d126642b)" style="fill: none; stroke: #b91c1c; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 277.578929 168.192 
+L 283.471409 168.192 
+" clip-path="url(#pe0d126642b)" style="fill: none; stroke: #b91c1c; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_37">
+    <path d="M 283.274993 139.176673 
+L 324.404503 139.176673 
+" clip-path="url(#pe0d126642b)" style="fill: none; stroke: #b91c1c; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="patch_24">
+    <path d="M 146.176625 323.424 
+L 146.176625 12.96 
+" style="fill: none; stroke: #cbd5e1; stroke-width: 0.7; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_25">
+    <path d="M 146.176625 323.424 
+L 637.216625 323.424 
+" style="fill: none; stroke: #64748b; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_29">
+    <g id="patch_26">
+     <path d="M 177.112145 317.285823 
+L 264.628708 317.285823 
+Q 265.468707 317.285823 265.468707 316.445823 
+L 265.468707 310.091448 
+Q 265.468707 309.251448 264.628708 309.251448 
+L 177.112145 309.251448 
+Q 176.272145 309.251448 176.272145 310.091448 
+L 176.272145 316.445823 
+Q 176.272145 317.285823 177.112145 317.285823 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="177.112145" y="315.371448" transform="rotate(-0 177.112145 315.371448)">$1.275/GPU·h（1/2卡同单价）</text>
+   </g>
+   <g id="text_30">
+    <g id="patch_27">
+     <path d="M 191.352305 302.778159 
+L 272.893242 302.778159 
+Q 273.733243 302.778159 273.733243 301.938159 
+L 273.733243 295.583784 
+Q 273.733243 294.743784 272.893242 294.743784 
+L 191.352305 294.743784 
+Q 190.512305 294.743784 190.512305 295.583784 
+L 190.512305 301.938159 
+Q 190.512305 302.778159 191.352305 302.778159 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="191.352305" y="300.863784" transform="rotate(-0 191.352305 300.863784)">$2/GPU·h（1/2/4卡同单价）</text>
+   </g>
+   <g id="text_31">
+    <g id="patch_28">
+     <path d="M 210.011825 288.270496 
+L 305.562762 288.270496 
+Q 306.402762 288.270496 306.402762 287.430496 
+L 306.402762 281.076121 
+Q 306.402762 280.236121 305.562762 280.236121 
+L 210.011825 280.236121 
+Q 209.171825 280.236121 209.171825 281.076121 
+L 209.171825 287.430496 
+Q 209.171825 288.270496 210.011825 288.270496 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="210.011825" y="286.356121" transform="rotate(-0 210.011825 286.356121)">$2.95/GPU·h（1/2/4/8卡同单价）</text>
+   </g>
+   <g id="text_32">
+    <g id="patch_29">
+     <path d="M 211.975985 273.762832 
+L 300.806922 273.762832 
+Q 301.646922 273.762832 301.646922 272.922832 
+L 301.646922 266.568457 
+Q 301.646922 265.728457 300.806922 265.728457 
+L 211.975985 265.728457 
+Q 211.135985 265.728457 211.135985 266.568457 
+L 211.135985 272.922832 
+Q 211.135985 273.762832 211.975985 273.762832 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="211.975985" y="271.848457" transform="rotate(-0 211.975985 271.848457)">$3.05/GPU·h（整机 $24.40/h）</text>
+   </g>
+   <g id="text_33">
+    <g id="patch_30">
+     <path d="M 220.814705 259.255169 
+L 306.315642 259.255169 
+Q 307.155642 259.255169 307.155642 258.415169 
+L 307.155642 252.060794 
+Q 307.155642 251.220794 306.315642 251.220794 
+L 220.814705 251.220794 
+Q 219.974705 251.220794 219.974705 252.060794 
+L 219.974705 258.415169 
+Q 219.974705 259.255169 220.814705 259.255169 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="220.814705" y="257.340794" transform="rotate(-0 220.814705 257.340794)">$3.5/GPU·h（整机 $14.00/h）</text>
+   </g>
+   <g id="text_34">
+    <g id="patch_31">
+     <path d="M 236.331569 244.747505 
+L 365.128131 244.747505 
+Q 365.968132 244.747505 365.968132 243.907505 
+L 365.968132 237.55313 
+Q 365.968132 236.71313 365.128131 236.71313 
+L 236.331569 236.71313 
+Q 235.491569 236.71313 235.491569 237.55313 
+L 235.491569 243.907505 
+Q 235.491569 244.747505 236.331569 244.747505 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="236.331569" y="242.83313" transform="rotate(-0 236.331569 242.83313)">$3.43~$4.29/GPU·h（整机 $27.45~$34.29/h）</text>
+   </g>
+   <g id="text_35">
+    <g id="patch_32">
+     <path d="M 230.635505 230.239842 
+L 311.13863 230.239842 
+Q 311.97863 230.239842 311.97863 229.399842 
+L 311.97863 223.045467 
+Q 311.97863 222.205467 311.13863 222.205467 
+L 230.635505 222.205467 
+Q 229.795505 222.205467 229.795505 223.045467 
+L 229.795505 229.399842 
+Q 229.795505 230.239842 230.635505 230.239842 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="230.635505" y="228.325467" transform="rotate(-0 230.635505 228.325467)">$4/GPU·h（整机 $32.00/h）</text>
+   </g>
+   <g id="text_36">
+    <g id="patch_33">
+     <path d="M 236.331569 215.732178 
+L 341.823757 215.732178 
+Q 342.663756 215.732178 342.663756 214.892178 
+L 342.663756 208.537803 
+Q 342.663756 207.697803 341.823757 207.697803 
+L 236.331569 207.697803 
+Q 235.491569 207.697803 235.491569 208.537803 
+L 235.491569 214.892178 
+Q 235.491569 215.732178 236.331569 215.732178 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="236.331569" y="213.817803" transform="rotate(-0 236.331569 213.817803)">$3.99~$4.29/GPU·h（专科云按需价）</text>
+   </g>
+   <g id="text_37">
+    <g id="patch_34">
+     <path d="M 240.456305 201.224515 
+L 325.957243 201.224515 
+Q 326.797242 201.224515 326.797242 200.384515 
+L 326.797242 194.03014 
+Q 326.797242 193.19014 325.957243 193.19014 
+L 240.456305 193.19014 
+Q 239.616305 193.19014 239.616305 194.03014 
+L 239.616305 200.384515 
+Q 239.616305 201.224515 240.456305 201.224515 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="240.456305" y="199.31014" transform="rotate(-0 240.456305 199.31014)">$4.5/GPU·h（整机 $36.00/h）</text>
+   </g>
+   <g id="text_38">
+    <g id="patch_35">
+     <path d="M 269.918705 186.716851 
+L 350.42183 186.716851 
+Q 351.26183 186.716851 351.26183 185.876851 
+L 351.26183 179.522476 
+Q 351.26183 178.682476 350.42183 178.682476 
+L 269.918705 178.682476 
+Q 269.078705 178.682476 269.078705 179.522476 
+L 269.078705 185.876851 
+Q 269.078705 186.716851 269.918705 186.716851 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="269.918705" y="184.802476" transform="rotate(-0 269.918705 184.802476)">$6/GPU·h（整机 $48.00/h）</text>
+   </g>
+   <g id="text_39">
+    <g id="patch_36">
+     <path d="M 289.363889 172.209187 
+L 394.856076 172.209187 
+Q 395.696077 172.209187 395.696077 171.369187 
+L 395.696077 165.014812 
+Q 395.696077 164.174812 394.856076 164.174812 
+L 289.363889 164.174812 
+Q 288.523889 164.174812 288.523889 165.014812 
+L 288.523889 171.369187 
+Q 288.523889 172.209187 289.363889 172.209187 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="289.363889" y="170.294812" transform="rotate(-0 289.363889 170.294812)">$6.69~$6.99/GPU·h（专科云按需价）</text>
+   </g>
+   <g id="text_40">
+    <g id="patch_37">
+     <path d="M 287.203313 157.701524 
+L 376.03425 157.701524 
+Q 376.87425 157.701524 376.87425 156.861524 
+L 376.87425 150.507149 
+Q 376.87425 149.667149 376.03425 149.667149 
+L 287.203313 149.667149 
+Q 286.363313 149.667149 286.363313 150.507149 
+L 286.363313 156.861524 
+Q 286.363313 157.701524 287.203313 157.701524 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="287.203313" y="155.787149" transform="rotate(-0 287.203313 155.787149)">$6.88/GPU·h（整机 $55.04/h）</text>
+   </g>
+   <g id="text_41">
+    <g id="patch_38">
+     <path d="M 330.296983 143.19386 
+L 445.646983 143.19386 
+Q 446.486983 143.19386 446.486983 142.35386 
+L 446.486983 135.999485 
+Q 446.486983 135.159485 445.646983 135.159485 
+L 330.296983 135.159485 
+Q 329.456983 135.159485 329.456983 135.999485 
+L 329.456983 142.35386 
+Q 329.456983 143.19386 330.296983 143.19386 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="330.296983" y="141.279485" transform="rotate(-0 330.296983 141.279485)">$6.98~$9.07/GPU·h（跨区溢价 +30.0%）</text>
+   </g>
+   <g id="text_42">
+    <g id="patch_39">
+     <path d="M 320.986865 128.686197 
+L 406.487803 128.686197 
+Q 407.327803 128.686197 407.327803 127.846197 
+L 407.327803 121.491822 
+Q 407.327803 120.651822 406.487803 120.651822 
+L 320.986865 120.651822 
+Q 320.146865 120.651822 320.146865 121.491822 
+L 320.146865 127.846197 
+Q 320.146865 128.686197 320.986865 128.686197 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="320.986865" y="126.771822" transform="rotate(-0 320.986865 126.771822)">$8.6/GPU·h（整机 $68.80/h）</text>
+   </g>
+   <g id="text_43">
+    <g id="patch_40">
+     <path d="M 348.485105 114.178533 
+L 432.31823 114.178533 
+Q 433.15823 114.178533 433.15823 113.338533 
+L 433.15823 106.984158 
+Q 433.15823 106.144158 432.31823 106.144158 
+L 348.485105 106.144158 
+Q 347.645105 106.144158 347.645105 106.984158 
+L 347.645105 113.338533 
+Q 347.645105 114.178533 348.485105 114.178533 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="348.485105" y="112.264158" transform="rotate(-0 348.485105 112.264158)">$10/GPU·h（整机 $80.00/h）</text>
+   </g>
+   <g id="text_44">
+    <g id="patch_41">
+     <path d="M 427.051505 99.67087 
+L 514.21463 99.67087 
+Q 515.05463 99.67087 515.05463 98.83087 
+L 515.05463 92.476495 
+Q 515.05463 91.636495 514.21463 91.636495 
+L 427.051505 91.636495 
+Q 426.211505 91.636495 426.211505 92.476495 
+L 426.211505 98.83087 
+Q 426.211505 99.67087 427.051505 99.67087 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="427.051505" y="97.756495" transform="rotate(-0 427.051505 97.756495)">$14/GPU·h（整机 $112.00/h）</text>
+   </g>
+   <g id="text_45">
+    <g id="patch_42">
+     <path d="M 431.765489 85.163206 
+L 527.256426 85.163206 
+Q 528.096427 85.163206 528.096427 84.323206 
+L 528.096427 77.968831 
+Q 528.096427 77.128831 527.256426 77.128831 
+L 431.765489 77.128831 
+Q 430.925489 77.128831 430.925489 77.968831 
+L 430.925489 84.323206 
+Q 430.925489 85.163206 431.765489 85.163206 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="431.765489" y="83.248831" transform="rotate(-0 431.765489 83.248831)">$14.24/GPU·h（整机 $113.93/h）</text>
+   </g>
+   <g id="text_46">
+    <g id="patch_43">
+     <path d="M 446.693105 70.655543 
+L 533.85623 70.655543 
+Q 534.69623 70.655543 534.69623 69.815543 
+L 534.69623 63.461168 
+Q 534.69623 62.621168 533.85623 62.621168 
+L 446.693105 62.621168 
+Q 445.853105 62.621168 445.853105 63.461168 
+L 445.853105 69.815543 
+Q 445.853105 70.655543 446.693105 70.655543 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="446.693105" y="68.741168" transform="rotate(-0 446.693105 68.741168)">$15/GPU·h（整机 $120.00/h）</text>
+   </g>
+   <g id="text_47">
+    <g id="patch_44">
+     <path d="M 466.334705 56.147879 
+L 550.16783 56.147879 
+Q 551.00783 56.147879 551.00783 55.307879 
+L 551.00783 48.953504 
+Q 551.00783 48.113504 550.16783 48.113504 
+L 466.334705 48.113504 
+Q 465.494705 48.113504 465.494705 48.953504 
+L 465.494705 55.307879 
+Q 465.494705 56.147879 466.334705 56.147879 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="466.334705" y="54.233504" transform="rotate(-0 466.334705 54.233504)">$16/GPU·h（整机 $64.00/h）</text>
+   </g>
+   <g id="text_48">
+    <g id="patch_45">
+     <path d="M 501.689585 41.640216 
+L 593.850523 41.640216 
+Q 594.690523 41.640216 594.690523 40.800216 
+L 594.690523 34.445841 
+Q 594.690523 33.605841 593.850523 33.605841 
+L 501.689585 33.605841 
+Q 500.849585 33.605841 500.849585 34.445841 
+L 500.849585 40.800216 
+Q 500.849585 41.640216 501.689585 41.640216 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="501.689585" y="39.725841" transform="rotate(-0 501.689585 39.725841)">$17.8/GPU·h（整机 $142.42/h）</text>
+   </g>
+   <g id="text_49">
+    <g id="patch_46">
+     <path d="M 505.617905 27.132552 
+L 589.45103 27.132552 
+Q 590.29103 27.132552 590.29103 26.292552 
+L 590.29103 19.938177 
+Q 590.29103 19.098177 589.45103 19.098177 
+L 505.617905 19.098177 
+Q 504.777905 19.098177 504.777905 19.938177 
+L 504.777905 26.292552 
+Q 504.777905 27.132552 505.617905 27.132552 
+z
+" style="fill: #ffffff; opacity: 0.92"/>
+    </g>
+    <text style="font-size: 6px; font-family: 'Noto Sans CJK SC', 'PingFang SC', 'Hiragino Sans GB', 'SimHei', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #0f2537" x="505.617905" y="25.218177" transform="rotate(-0 505.617905 25.218177)">$18/GPU·h（整机 $72.00/h）</text>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="mb88a0a5bde" d="M 0 2.12132 
+C 0.562581 2.12132 1.102195 1.897805 1.5 1.5 
+C 1.897805 1.102195 2.12132 0.562581 2.12132 0 
+C 2.12132 -0.562581 1.897805 -1.102195 1.5 -1.5 
+C 1.102195 -1.897805 0.562581 -2.12132 0 -2.12132 
+C -0.562581 -2.12132 -1.102195 -1.897805 -1.5 -1.5 
+C -1.897805 -1.102195 -2.12132 -0.562581 -2.12132 0 
+C -2.12132 0.562581 -1.897805 1.102195 -1.5 1.5 
+C -1.102195 1.897805 -0.562581 2.12132 0 2.12132 
+z
+" style="stroke: #b91c1c"/>
+    </defs>
+    <g clip-path="url(#pe0d126642b)">
+     <use xlink:href="#mb88a0a5bde" x="213.547313" y="240.730318" style="fill: #b91c1c; stroke: #b91c1c"/>
+     <use xlink:href="#mb88a0a5bde" x="230.439089" y="240.730318" style="fill: #b91c1c; stroke: #b91c1c"/>
+    </g>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#pe0d126642b)">
+     <use xlink:href="#mb88a0a5bde" x="224.546609" y="211.714991" style="fill: #b91c1c; stroke: #b91c1c"/>
+     <use xlink:href="#mb88a0a5bde" x="230.439089" y="211.714991" style="fill: #b91c1c; stroke: #b91c1c"/>
+    </g>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#pe0d126642b)">
+     <use xlink:href="#mb88a0a5bde" x="277.578929" y="168.192" style="fill: #b91c1c; stroke: #b91c1c"/>
+     <use xlink:href="#mb88a0a5bde" x="283.471409" y="168.192" style="fill: #b91c1c; stroke: #b91c1c"/>
+    </g>
+   </g>
+   <g id="PathCollection_4">
+    <g clip-path="url(#pe0d126642b)">
+     <use xlink:href="#mb88a0a5bde" x="283.274993" y="139.176673" style="fill: #b91c1c; stroke: #b91c1c"/>
+     <use xlink:href="#mb88a0a5bde" x="324.404503" y="139.176673" style="fill: #b91c1c; stroke: #b91c1c"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pe0d126642b">
+   <rect x="146.176625" y="12.96" width="491.04" height="310.464"/>
+  </clipPath>
+ </defs>
+</svg>

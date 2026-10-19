@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Please cite the report manuscript, the specific dataset or model table version used, and the underlying primary sources. 请同时引用报告手稿、所用数据表/模型表版本及原始来源。"
+title: "China's Green Compute Global Delivery System and International Value Restructuring (中国绿色算力全球化交付体系与国际价值重构)"
+type: dataset
+authors:
+  - name: "介子九维（JIEZIJIUWEI）"
+date-released: "2026-10-19"
+version: "2026-10-19-open-research"
+license: "CC-BY-NC-4.0"
+abstract: "Open research package for China's global green compute and cross-border AI Token delivery study, containing the full 12-chapter Chinese Markdown manuscript, English executive summary, 76 catalogued CSV tables (59 processed research tables in data/processed/ + 17 reproducible model tables in data/models/), 43 report exhibit table snapshots in data/exhibits/, 4 parameter JSON files in data/parameters/, 56 figures (PNG + SVG) in figures/, and reproduction code in src/ and tools/. Original code is licensed under MIT; report manuscripts, figures, and metadata are under CC BY-NC 4.0; IEA-derived tables/series remain under CC BY-NC-SA 4.0 (see LICENSES/LICENSE-SCOPE.md)."
+repository-code: "https://github.com/xiule0108/china-green-compute-research"
+url: "https://github.com/xiule0108/china-green-compute-research"
