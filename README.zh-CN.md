@@ -9,7 +9,9 @@
 **数据与政策基准日（Baseline Cutoff Date）：** 2026年10月15日 ｜ **开放研究包整理日期：** 2026年10月19日  
 **语言切换（Language）：** **简体中文** ｜ [English (`README.md`)](README.md)
 
-![报告封面主视觉：从瓦特到比特四阶价值跃迁](figures/cover_hero.png)
+<p align="center">
+  <a href="manuscript/zh-CN/index.md"><img src="assets/report-cover.png" alt="中国绿色算力全球化交付体系与国际价值重构 · 介子九维独立版封面" width="520"></a>
+</p>
 
 > **快速阅读入口：** [完整中文报告手稿总目录（`manuscript/zh-CN/index.md`）](manuscript/zh-CN/index.md) ｜ [中文执行摘要](manuscript/zh-CN/executive-summary.md) ｜ [English Executive Summary](manuscript/en/executive-summary.md) ｜ [English Manuscript Index](manuscript/en/index.md) ｜ [复现指南](docs/zh-CN/reproduction-guide.md) ｜ [定量方法与边界说明](docs/zh-CN/methods-and-boundaries.md) ｜ [数据目录与来源索引](docs/zh-CN/data-and-sources.md) ｜ [分层许可声明](LICENSES/LICENSE-SCOPE.md)
 

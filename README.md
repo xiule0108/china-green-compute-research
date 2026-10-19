@@ -9,7 +9,9 @@
 **Data & Policy Cutoff Date:** October 15, 2026 ｜ **Open Research Package Date:** October 19, 2026  
 **Language:** **English** ｜ [简体中文 (`README.zh-CN.md`)](README.zh-CN.md)
 
-![Report Cover Visual: Four-Stage Value Transition from Watts to Bits](figures/cover_hero.png)
+<p align="center">
+  <a href="manuscript/zh-CN/index.md"><img src="assets/report-cover.png" alt="中国绿色算力全球化交付体系与国际价值重构 · 介子九维独立版封面" width="520"></a>
+</p>
 
 > **Quick Entry Points:** [English Executive Summary (`manuscript/en/executive-summary.md`)](manuscript/en/executive-summary.md) ｜ [English Manuscript Index (`manuscript/en/index.md`)](manuscript/en/index.md) ｜ [Full 12-Chapter Chinese Manuscript (`manuscript/zh-CN/index.md`)](manuscript/zh-CN/index.md) ｜ [Chinese Executive Summary](manuscript/zh-CN/executive-summary.md) ｜ [Reproduction Guide](docs/en/reproduction-guide.md) ｜ [Methods & Boundaries](docs/en/methods-and-boundaries.md) ｜ [Data & Sources](docs/en/data-and-sources.md) ｜ [License Scope](LICENSES/LICENSE-SCOPE.md)
 
